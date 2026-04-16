@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="_AR_CAF_AFCON_MOROCCO_2025",beIN Sports MAX 1 ᴴᴰ
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:59:14:26&stream=146122&extension=m3u
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:59:14:26&stream=146122&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="_AR_CAF_AFCON_MOROCCO_2025",beIN Sports MAX 1 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:68:51:33&stream=146122&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="_AR_CAF_AFCON_MOROCCO_2025",beIN Sports MAX 1 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:d2:2d:a8&stream=146122&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="_AR_CAF_AFCON_MOROCCO_2025",beIN Sports MAX 1 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:a9:ba:5b&stream=146122&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="_AR_CAF_AFCON_MOROCCO_2025",beIN Sports MAX 1 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:05:15:8d&stream=146122&extension=m3u8
