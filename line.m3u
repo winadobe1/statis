@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://www.epgshare01.online/epg/epgshare01.xml.gz"
+#EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="itv3.uk" tvg-name="┃UK┃ ITV 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/GENERAL/ITV 3.png" tvg-chno="3935" group-title="┃UK┃ GENERAL",┃UK┃ ITV 3 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:0F:FE:2C&stream=394399&extension=ts&play_token=sp0WyQYtwB
 #EXTINF:-1 tvg-id="itv4.uk" tvg-name="┃UK┃ ITV 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/GENERAL/ITV 4.png" tvg-chno="3936" group-title="┃UK┃ GENERAL",┃UK┃ ITV 4 FHD
