@@ -6,3 +6,5 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tvwins.muhem.eu.org/rcti/license/1011/clearkey
 https://tvwins.muhem.eu.org/rcti/live/1011.mpd?clearkey=true
+#EXTINF:-1 group-title="Sports" tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-l.png", Soccer Channel
+https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
