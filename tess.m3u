@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-name="HBO Family" group-title="Premium",HBO Family
+#EXTINF:-1 tvg-id="370" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/1647493202_hbosi.png" group-title="Premium",HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Host=cdnjktbpid02.transvision.co.id&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://180.240.235.225/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/SEJPLUZhbWlseS1teQ/manifest.mpd?signature=NTgyOTNjZWU2N2FmYmZiYTczYmVhOTFmY2I1NzMxYzk=&time=15210332236
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=358a37472fa84a358d0f3ebbb487b68e:<GANTI_DENGAN_KUNCI_ASLI_JIKA_ADA>
+https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
