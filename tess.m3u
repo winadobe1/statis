@@ -1,10 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="[UPCOMING] 18:00 WIB 09/05/26 Liverpool vs Chelsea - Premier League" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/txOWlbDn5sGAIbmesBSHJ_JnAaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062198/cb499e.jpg" group-title="UPCOMING BOLA", [UPCOMING] 18:00 WIB 09/05/26 Liverpool vs Chelsea - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzkxODIucWV6fDE3Nzg4NjM3OTQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzkxODIuemNxfDE3Nzg4NjM3OTQ
+#EXTINF:-1 tvg-name="HBO Family" group-title="Premium",HBO Family
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Host=cdnjktbpid02.transvision.co.id&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://180.240.235.225/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/SEJPLUZhbWlseS1teQ/manifest.mpd?signature=NTgyOTNjZWU2N2FmYmZiYTczYmVhOTFmY2I1NzMxYzk=&time=15210332236
