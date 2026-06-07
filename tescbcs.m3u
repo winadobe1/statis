@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Transvision",Channel CBCS Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b776e7a5a7a6351303379685248445a:4c784f6d334144704a774d4a74596775
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+#EXTINF:-1 group-title="Transvision",Channel CBCS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48a682b976e4155be8faea47f3b632c:bc47d6b9a9d0478a80d7eada933bcb92
+https://cdnjkt913.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
