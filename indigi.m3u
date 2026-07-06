@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="voli.tv" tvg-name="Voli TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png" group-title="Maxstream",Voli TV
+http://157.15.187.3:25092/hls/2/2.m3u8
+#EXTINF:-1 tvg-id="jowo.tv" tvg-name="Jowo TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_9yojwrwz/banner_hdpi.webp" group-title="Maxstream",Jowo TV
+http://157.15.187.3:25092/hls/3/3.m3u8
+#EXTINF:-1 tvg-id="horee.tv" tvg-name="Horee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_Horee_Channel.png" group-title="Maxstream",Horee TV
+http://157.15.187.3:25092/hls/4/4.m3u8
+#EXTINF:-1 tvg-id="cartoon.network" tvg-name="Cartoon Network" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1lrqq4s0/banner_hdpi.webp" group-title="Maxstream",Cartoon Network
+http://157.15.187.3:25092/hls/5/5.m3u8
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3x6829f7/banner_hdpi.webp" group-title="Maxstream",Cartoonito
+http://157.15.187.3:25092/hls/6/6.m3u8
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="DreamWorks" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_h4cdmhi1/banner_hdpi.webp" group-title="Maxstream",DreamWorks
+http://157.15.187.3:25092/hls/7/7.m3u8
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/3840px-Animax_logo.svg.png" group-title="Maxstream",Animax
+http://157.15.187.3:25092/hls/8/8.m3u8
+#EXTINF:-1 tvg-id="nick.jr" tvg-name="Nick Jr" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_pz6xuyqn/banner_hdpi.webp" group-title="Maxstream",Nick Jr
+http://157.15.187.3:25092/hls/9/9.m3u8
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2sdk0nou/banner_hdpi.webp" group-title="Maxstream",Nickelodeon
+http://157.15.187.3:25092/hls/10/10.m3u8
+#EXTINF:-1 tvg-id="garuda.tv" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/1280px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="Maxstream",Garuda TV
+http://157.15.187.3:25092/hls/11/11.m3u8
+#EXTINF:-1 tvg-id="animal.planet" tvg-name="Animal Planet" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_oyquzepi/banner_hdpi.webp" group-title="Maxstream",Animal Planet
+http://157.15.187.3:25092/hls/12/12.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqE70EIzfc52smkw5S_UP_S1cXcKvAiUlWnIjcoJyOQ&s=10" group-title="Maxstream",History
+http://157.15.187.3:25092/hls/14/14.m3u8
+#EXTINF:-1 tvg-id="spotv.1" tvg-name="SPOTV 1" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_e9m9jzif/banner_hdpi.webp" group-title="Maxstream",SPOTV 1
+http://157.15.187.3:25092/hls/15/15.m3u8
+#EXTINF:-1 tvg-id="fight" tvg-name="Fight Sports" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_chy9zuqn/banner_hdpi.webp" group-title="Maxstream",Fight Sports
+http://157.15.187.3:25092/hls/16/16.m3u8
+#EXTINF:-1 tvg-id="metro.tv" tvg-name="Metro TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2jt2oz81/banner_hdpi.webp" group-title="Maxstream",Metro TV
+http://157.15.187.3:25092/hls/19/19.m3u8
+#EXTINF:-1 tvg-id="max.reels" tvg-name="Max Reels" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/banner_hdpi.webp" group-title="Maxstream",Max Reels
+http://157.15.187.3:25092/hls/23/23.m3u8
+#EXTINF:-1 tvg-id="channel.24" tvg-name="Channel 24" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_gvz1a46f/banner_hdpi.webp" group-title="Maxstream",France 24
+http://157.15.187.3:25092/hls/24/24.m3u8
+#EXTINF:-1 tvg-id="nba.tv" tvg-name="NBA TV" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg" group-title="Maxstream",NBA TV
+http://157.15.187.3:25092/hls/25/25.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_7vx2webw/banner_hdpi.webp" group-title="Maxstream",Cinemax
+http://157.15.187.3:25092/hls/26/26.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_xgdr0qbd/banner_hdpi.webp" group-title="Maxstream",HBO
+http://157.15.187.3:25092/hls/27/27.m3u8
+#EXTINF:-1 tvg-id="hbo.hits" tvg-name="HBO Hits" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_k7eh4erk/banner_hdpi.webp" group-title="Maxstream",HBO Hits
+http://157.15.187.3:25092/hls/28/28.m3u8
+#EXTINF:-1 tvg-id="hbo.signature" tvg-name="HBO Signature" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_s6bo567h/banner_hdpi.webp" group-title="Maxstream",HBO Signature
+http://157.15.187.3:25092/hls/29/29.m3u8
+#EXTINF:-1 tvg-id="hbo.family" tvg-name="HBO Family" tvg-logo="	https://images.maxstream.tv/sites/default/files/entry/0_qqui53si/banner_hdpi.webp" group-title="Maxstream",HBO Family
+http://157.15.187.3:25092/hls/30/30.m3u8
+#EXTINF:-1 tvg-id="bioskop.indonesia" tvg-name="Bioskop Indonesia" tvg-logo="	https://images.maxstream.tv/sites/default/files/entry/0_urq0w0mp/banner_hdpi.webp" group-title="Maxstream",Bioskop Indonesia
+http://157.15.187.3:25092/hls/31/31.m3u8
+#EXTINF:-1 tvg-id="z.bioskop" tvg-name="Z Bioskop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg" group-title="Maxstream",Z Bioskop
+http://157.15.187.3:25092/hls/32/32.m3u8
+#EXTINF:-1 tvg-id="flik" tvg-name="FLIK" tvg-logo="https://tvchannelbranding.wordpress.com/wp-content/uploads/2016/03/flik_id_wip_08_cutstyle0-00-19-24.jpg" group-title="Maxstream",FLIK
+http://157.15.187.3:25092/hls/33/33.m3u8
+#EXTINF:-1 tvg-id="imc" tvg-name="IMC" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_blvd5qf0/banner_hdpi.webp" group-title="Maxstream",IMC
+http://157.15.187.3:25092/hls/34/34.m3u8
+#EXTINF:-1 tvg-id="ccm" tvg-name="CCM" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/ccm.jpeg.webp" group-title="Maxstream",CCM
+http://157.15.187.3:25092/hls/35/35.m3u8
+#EXTINF:-1 tvg-id="jtv" tvg-name="JTV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_qesewoxv/banner_hdpi.webp" group-title="Maxstream",JTV
+http://157.15.187.3:25092/hls/36/36.m3u8
+#EXTINF:-1 tvg-id="maxstream.tv" tvg-name="Maxstream TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/banner_hdpi.webp" group-title="Maxstream",Maxstream TV
+http://157.15.187.3:25092/hls/37/37.m3u8
+#EXTINF:-1 tvg-id="kix" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/500px-KIX_logo.svg.png" group-title="Maxstream",KIX
+http://157.15.187.3:25092/hls/38/38.m3u8
+#EXTINF:-1 tvg-id="galaxy" tvg-name="Galaxy" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_anqaquwl/banner_hdpi.webp" group-title="Maxstream",Galaxy
+http://157.15.187.3:25092/hls/39/39.m3u8
+#EXTINF:-1 tvg-id="galaxy.premium" tvg-name="Galaxy Premium" tvg-logo="	https://images.maxstream.tv/sites/default/files/entry/0_menqjsva/banner_hdpi.webp" group-title="Maxstream",Galaxy Premium
+http://157.15.187.3:25092/hls/40/40.m3u8
+#EXTINF:-1 tvg-id="warner.tv" tvg-name="Warner TV" tvg-logo="	https://images.maxstream.tv/sites/default/files/entry/0_meap4fi2/banner_hdpi.webp" group-title="Maxstream",Warner TV
+http://157.15.187.3:25092/hls/41/41.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-name="Trans7" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_a7dno7wk/banner_hdpi.webp" group-title="Maxstream",Trans7
+http://157.15.187.3:25092/hls/42/42.m3u8
+#EXTINF:-1 tvg-id="trans.tv" tvg-name="Trans TV" tvg-logo="	https://images.maxstream.tv/sites/default/files/entry/0_uakgnhip/banner_hdpi.webp" group-title="Maxstream",Trans TV
+http://157.15.187.3:25092/hls/43/43.m3u8
+#EXTINF:-1 tvg-id="mdtv" tvg-name="MDTV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_keojjla6/banner_hdpi.webp" group-title="Maxstream",MDTV
+http://157.15.187.3:25092/hls/44/44.m3u8
+#EXTINF:-1 tvg-id="tvone" tvg-name="tvOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" group-title="Maxstream",tvOne
+http://157.15.187.3:25092/hls/46/46.m3u8
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV" tvg-logo="https://i.pinimg.com/736x/08/c6/4f/08c64f160e7bf6aff13c7af781d441a4.jpg" group-title="Maxstream",VTV
+http://157.15.187.3:25092/hls/47/47.m3u8
+#EXTINF:-1 tvg-id="mentari.tv" tvg-name="Mentari TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/XaGCdDZHm9QmAX72xxbdNiSggT0=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4459313/original/001969500_1686282380-Thumbnail_Mentari_TV.jpg" group-title="Maxstream",Mentari TV
+http://157.15.187.3:25092/hls/48/48.m3u8
+#EXTINF:-1 tvg-id="tvri.sport" tvg-name="TVRI" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_vu7lebet/banner_hdpi.webp" group-title="Maxstream",TVRI
+http://157.15.187.3:25092/hls/49/49.m3u8
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI Sport" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_vu7lebet/banner_hdpi.webp" group-title="Maxstream",TVRI Sport
+http://157.15.187.3:25092/hls/63/63.m3u8
+#EXTINF:-1 tvg-id="moji" tvg-name="MOJI" tvg-logo="https://media.licdn.com/dms/image/sync/v2/D5627AQGlSG9qXGg1VA/articleshare-shrink_800/articleshare-shrink_800/0/1711979746665?e=2147483647&v=beta&t=vHyvK8WekegjchNTn4nWf7kU2wGHZkxsscoF9kyrXHU" group-title="Maxstream",MOJI
+http://157.15.187.3:25092/hls/50/50.m3u8
+#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nwsd3m5r/banner_hdpi.webp" group-title="Maxstream",RCTI
+http://157.15.187.3:25092/hls/51/51.m3u8
+#EXTINF:-1 tvg-id="inews" tvg-name="iNews" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_fn0qos3d/banner_hdpi.webp" group-title="Maxstream",iNews
+http://157.15.187.3:25092/hls/52/52.m3u8
+#EXTINF:-1 tvg-id="kompas.tv" tvg-name="Kompas TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_fn0qos3d/banner_hdpi.webp" group-title="Maxstream",Kompas TV
+http://157.15.187.3:25092/hls/53/53.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-name="MNCTV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3k1552mp/banner_hdpi.webp" group-title="Maxstream",MNCTV
+http://157.15.187.3:25092/hls/54/54.m3u8
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2021/02/SCTV.png" group-title="Maxstream",SCTV
+http://157.15.187.3:25092/hls/55/55.m3u8
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com//assets/event-320.jpg" group-title="Maxstream",Indosiar
+http://157.15.187.3:25092/hls/56/56.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="" group-title="Maxstream",GTV
+http://157.15.187.3:25092/hls/57/57.m3u8
+#EXTINF:-1 tvg-id="cnbc.indonesia" tvg-name="CNBC Indonesia" tvg-logo="" group-title="Maxstream",CNBC Indonesia
+http://157.15.187.3:25092/hls/58/58.m3u8
+#EXTINF:-1 tvg-id="cnn.indonesia" tvg-name="CNN Indonesia" tvg-logo="" group-title="Maxstream",CNN Indonesia
+http://157.15.187.3:25092/hls/59/59.m3u8
+#EXTINF:-1 tvg-id="cnn.international" tvg-name="CNN International" tvg-logo="" group-title="Maxstream",CNN International
+http://157.15.187.3:25092/hls/60/60.m3u8
+#EXTINF:-1 tvg-id="w.sport" tvg-name="W-Sport" tvg-logo="" group-title="Maxstream",W-Sport
+http://157.15.187.3:25092/hls/62/62.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="" group-title="Maxstream",AXN
+http://157.15.187.3:25092/hls/64/64.m3u8
+#EXTINF:-1 tvg-id="discovery.asia" tvg-name="Discovery Asia" tvg-logo="" group-title="Maxstream",Discovery Asia
+http://157.15.187.3:25092/hls/65/65.m3u8
+#EXTINF:-1 tvg-id="cinemaworld" tvg-name="CinemaWorld" tvg-logo="" group-title="Maxstream",CinemaWorld
+http://157.15.187.3:25092/hls/67/67.m3u8
+#EXTINF:-1 tvg-id="celestial.movies" tvg-name="Celestial Movies" tvg-logo="" group-title="Maxstream",Celestial Movies
+http://157.15.187.3:25092/hls/68/68.m3u8
+#EXTINF:-1 tvg-id="curiosity.channel" tvg-name="Curiosity Channel" tvg-logo="" group-title="Maxstream",Curiosity Channel
+http://157.15.187.3:25092/hls/69/69.m3u8
+#EXTINF:-1 tvg-id="tvn" tvg-name="tvN" tvg-logo="" group-title="Maxstream",tvN
+http://157.15.187.3:25092/hls/72/72.m3u8
+#EXTINF:-1 tvg-id="tvn.movies" tvg-name="tvN Movies" tvg-logo="" group-title="Maxstream",tvN Movies
+http://157.15.187.3:25092/hls/73/73.m3u8
+#EXTINF:-1 tvg-id="bali.tv" tvg-name="Bali TV" tvg-logo="" group-title="Maxstream",Bali TV
+http://157.15.187.3:25092/hls/74/74.m3u8
+#EXTINF:-1 tvg-id="love.nature" tvg-name="Love Nature" tvg-logo="" group-title="Maxstream",Love Nature
+http://157.15.187.3:25092/hls/75/75.m3u8
+#EXTINF:-1 tvg-id="maxstream" tvg-name="MAXStream" tvg-logo="" group-title="Maxstream",MAXStream
+http://157.15.187.3:25092/hls/76/76.m3u8
+#EXTINF:-1 tvg-id="tv9.nusantara" tvg-name="TV9 Nusantara" tvg-logo="" group-title="Maxstream",TV9 Nusantara
+http://157.15.187.3:25092/hls/77/77.m3u8
+#EXTINF:-1 tvg-id="tvmu" tvg-name="TVMu" tvg-logo="" group-title="Maxstream",TVMu
+http://157.15.187.3:25092/hls/78/78.m3u8
+#EXTINF:-1 tvg-id="mui.tv" tvg-name="MUI TV" tvg-logo="" group-title="Maxstream",MUI TV
+http://157.15.187.3:25092/hls/79/79.m3u8
+#EXTINF:-1 tvg-id="makkah.tv" tvg-name="Makkah TV" tvg-logo="" group-title="Maxstream",Makkah TV
+http://157.15.187.3:25092/hls/80/80.m3u8
+#EXTINF:-1 tvg-id="dunia.lain" tvg-name="Dunia Lain" tvg-logo="" group-title="Maxstream",Dunia Lain
+http://157.15.187.3:25092/hls/81/81.m3u8
+#EXTINF:-1 tvg-id="mta.tv" tvg-name="MTA TV" tvg-logo="" group-title="Maxstream",MTA TV
+http://157.15.187.3:25092/hls/82/82.m3u8
+#EXTINF:-1 tvg-id="k" tvg-name="K+" tvg-logo="" group-title="Maxstream",K+
+http://157.15.187.3:25092/hls/83/83.m3u8
+#EXTINF:-1 tvg-id="hope.channel" tvg-name="Hope Channel" tvg-logo="" group-title="Maxstream",Hope Channel
+http://157.15.187.3:25092/hls/84/84.m3u8
+#EXTINF:-1 tvg-id="u.channel" tvg-name="U Channel" tvg-logo="" group-title="Maxstream",U Channel
+http://157.15.187.3:25092/hls/85/85.m3u8
+#EXTINF:-1 tvg-id="spotv.2" tvg-name="SPOTV 2" tvg-logo="" group-title="Maxstream",SPOTV 2
+http://157.15.187.3:25092/hls/86/86.m3u8
+#EXTINF:-1 tvg-id="musik.indonesia" tvg-name="Musik Indonesia" tvg-logo="" group-title="Maxstream",Musik Indonesia
+http://157.15.187.3:25092/hls/87/87.m3u8
+#EXTINF:-1 tvg-id="moonbug" tvg-name="Moonbug" tvg-logo="" group-title="Maxstream",Moonbug
+http://157.15.187.3:25092/hls/89/89.m3u8
+#EXTINF:-1 tvg-id="thrill" tvg-name="Thrill" tvg-logo="" group-title="Maxstream",Thrill
+http://157.15.187.3:25092/hls/90/90.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="" group-title="Maxstream",RTV
+http://157.15.187.3:25092/hls/91/91.m3u8
+#EXTINF:-1 tvg-id="chinese.drama" tvg-name="Chinese Drama" tvg-logo="" group-title="Maxstream",Chinese Drama
+http://157.15.187.3:25092/hls/92/92.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="" group-title="Maxstream",NTV
+http://157.15.187.3:25092/hls/93/93.m3u8
