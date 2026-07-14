@@ -1105,10 +1105,7 @@ https://starshare.org/live/KVSingh/KVSingh/425.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA V2", Server 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"{
-    "keys"":" [
-        {
-            "kty""}
+#KODIPROP:inputstream.adaptive.license_key={"601f58d4b7094d2baf78c85d1d9cb6c9":"609e0cc03198455fa36fd2cc3e7f940d"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="USA V3", SERVER 2
@@ -1261,12 +1258,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"58551b13211b37d5b325d67e5c6cabef":"3b4c3f8b4236fc57d66cdb54a606fe41"}
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live Events: Minnesota Timberwolves", SportzX NBA
-https://chatgpt.hereisman.net/playlist/53346/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-logo="" group-title="Live Events: Minnesota Timberwolves", SportzX Live
-https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-logo="" group-title="Live Events: France vs Spain", SPX FHD LIVE
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
