@@ -1170,36 +1170,28 @@ http://kst.moonplex.net:8080/CH1/index.m3u8
 
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4a63f817e48857c820181f7a22e8a1b4":"e53140d61b7bb8c1697316c1ee7ddac8"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"63ff5bd50a863114f9d5fe0d18aff544":"319760d139c5af680bab44664fd833ad"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", TAPMAD FHD
+https://pastebin.com/raw/wt7tUMmX?e=.m3u8
 
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", WILLOW ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4a63f817e48857c820181f7a22e8a1b4":"e53140d61b7bb8c1697316c1ee7ddac8"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd
-
-#EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", TAPMAD FHD
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
+#KODIPROP:inputstream.adaptive.license_key={"63ff5bd50a863114f9d5fe0d18aff544":"319760d139c5af680bab44664fd833ad"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
 
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", LOW SERVER
-http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", WILLOW HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"290e09c837da78d5cd961978d390515c":"b748836c71e6a4ca68ef5b5652db6247"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", SONY TEN 1 - IN
-https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", SONY TEN 2 - IN
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", SONY TEN 3 - IN
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: England vs India", SONY TEN 4 - IN
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 
 #EXTINF:-1 tvg-logo="https://iili.io/BihxDjj.png" group-title="Live Events: ONE Friday Fights", One Fight FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1623,6 +1615,9 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_key={"1f68713028d439ec03be07f56c1d6213":"20093db6455160fffed4c394def3193d"}
 https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
+#EXTINF:-1 tvg-logo="null" group-title="Live Events: Argentina vs England", PEACOCK FHD [ALT]
+OK
+
 #EXTINF:-1 tvg-logo="null" group-title="Live Events: Argentina vs England", TELEMUNDO [USA]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7d6bb9f86e133e4cb33440b493b6b672":"584ad285dcb9e7d42cf3e93f1cc3fe11"}
@@ -1724,4 +1719,16 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"357ccea271387c3288cc8c2301f13d35":"6d99d34e858d22ab5954d8df8622106a"}
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
+
+#EXTINF:-1 tvg-logo="" group-title="Live Events: Houston Rockets vs Philadelphia 76ers", SportzX Live
+?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="" group-title="Live Events: Brooklyn Nets vs Kings", SportzX Live
+?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="" group-title="Live Events: Warriors vs Memphis Grizzlies", SportzX Live
+?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="" group-title="Live Events: Chicago Bulls vs Wizards", SportzX Live
+?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
