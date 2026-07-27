@@ -1,617 +1,423 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="210" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/97ac30d8-a083-4524-97b5-87ac6e6adc50.jpg" group-title="TV Nasional",Trans TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041
 https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="201" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/33a1041b-d449-4c4c-bce5-8aefc2bf3f74.jpg" group-title="TV Nasional",Trans 7
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3680de59582949ec9ba83a9ca0754997:9c755da9b7a14a85a6a69b0c7eec1880
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685651d7bcc01651f0db0bf0097/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="212" tvg-name="CNN Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/5498cc2a-cf53-48c7-9d31-f90cbe453dbe.jpg" group-title="TV Nasional",CNN Indonesia
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=609ee01ee0c7408e93d9096ca9752643:401a98e4abc546498e8a858b5f9f5670
 https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0e4ce10098/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="213" tvg-name="CNBC Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/c4dcf61f-bcd5-453e-b499-55da7e7798f2.jpg" group-title="TV Nasional",CNBC Indonesia
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7f3c9eff0194dc79ba044d214778a5e:d40c6fc2efcc429fb93959ec68a83742
 https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c68565fa79ce01665868040a343f/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="211" tvg-name="MetroTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/79d21d81-6f64-4a99-89b4-638a3c517cc7.png" group-title="TV Nasional",MetroTV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=614b55593846676b4f42443249457759:78776537304c574f4b4f6656526b5662
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="363" tvg-name="TVOne" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/843f25ce-7169-4912-86f4-6e4bbf6763ee.png" group-title="TV Nasional",TVOne
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4b41444b72673458446c564f79786e:43784a4b323678707937754265656f49
 https://cdnjkt913.transvision.co.id:1000/live/master/2/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="215" tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f0ea57e3-eb78-4f8d-9015-f1f35d827603.png" group-title="TV Nasional",SCTV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7be2dff6cb2935a59a3d9bdf738e0e3f:08a6dcbf80c5ee588ab9288bff47fb33,cee5b16872f73dd3bfc21c526157bb72:a57f6c450769140490dcca3850787cdb,4c467a737445684c4974426f556c7579:4547737a78565152376f4e3861636541,aa876a0908d33ce4ab2777176eb25889:988b70bcf73959cfac70783199c54036,025790c4ce1e39ae8fbc7630707e512f:8bf0cdf678ff946f6669b21ee958ff04,aff3cd37444a3466842b6b84af21af4f:48102df7bb1e7a192b692fb5464b85c7
+#KODIPROP:inputstream.adaptive.license_key=aff3cd37444a3466842b6b84af21af4f:48102df7bb1e7a192b692fb5464b85c7,4c467a737445684c4974426f556c7579:4547737a78565152376f4e3861636541,aa876a0908d33ce4ab2777176eb25889:988b70bcf73959cfac70783199c54036,025790c4ce1e39ae8fbc7630707e512f:8bf0cdf678ff946f6669b21ee958ff04,7be2dff6cb2935a59a3d9bdf738e0e3f:08a6dcbf80c5ee588ab9288bff47fb33,cee5b16872f73dd3bfc21c526157bb72:a57f6c450769140490dcca3850787cdb
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="216" tvg-name="Indosiar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d8652179-c9d9-4f97-b62b-271fd6387fab.png" group-title="TV Nasional",Indosiar
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7863725870545163494c4c7741306f65:327745514751744c35374f3079426232
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="217" tvg-name="RCTI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f7251c6c-babd-4e49-b6e7-167fdf25e705.png" group-title="TV Nasional",RCTI
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b776e7a5a7a6351303379685248445a:4c784f6d334144704a774d4a74596775
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e825832393/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="218" tvg-name="GTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/c9dbab9d-dbf1-411a-86ab-1aaf0d83e99e.png" group-title="TV Nasional",GTV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=52704c37714c4a4c7a756367446a7736:596a30504e68435a6841355a467a5835
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="245" tvg-name="BTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/20b9711a-8431-4761-9450-1c766e20ec5a.png" group-title="TV Nasional",BTV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5d55b125aa9362f9db6b51609f0e945:b548275e52e1afa2767f735df3590606,54e9bda56b5f308a9089879e583c09be:1513c3fe5eeaddcd96cb3840747debd0,bec132de51b3313bb50cab75b8da71f4:5e9d701d4f76b4f6e82423eea8c76a1a,0673f55722ef308cbfc71c9ec37b5594:6d0c4222b356f659e611bf52a2f5f63c,ecdfdb6c017b3f4aa85a1018c1f9dfd0:c3af3ed1746844a21413de86ecbb923a,496565777a56344b59584e7230627334:676b71567043366b4862637a4d6c4d31
+#KODIPROP:inputstream.adaptive.license_key=0673f55722ef308cbfc71c9ec37b5594:6d0c4222b356f659e611bf52a2f5f63c,54e9bda56b5f308a9089879e583c09be:1513c3fe5eeaddcd96cb3840747debd0,bec132de51b3313bb50cab75b8da71f4:5e9d701d4f76b4f6e82423eea8c76a1a,496565777a56344b59584e7230627334:676b71567043366b4862637a4d6c4d31,ecdfdb6c017b3f4aa85a1018c1f9dfd0:c3af3ed1746844a21413de86ecbb923a,b5d55b125aa9362f9db6b51609f0e945:b548275e52e1afa2767f735df3590606
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="220" tvg-name="Kompas TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/5e2b6143-a208-44e1-84ba-5420ec0f66e3.jpg" group-title="TV Nasional",Kompas TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=554457506155635a324e7a6d38396433:646c6876534657334a5131526f49314d,c9301f644fd234ae8638e4ad4f6644d1:63725018209494e8f54c07ae5954da0c,800dc70e3cd033209983997e401b0d7d:933994d30beb2e70f4036852235311b9,4d7e1db5020234afa21e54a92f735afa:2c62ec45824d8b32c5fdf62b06995980,f2274a03d35836a286a5de3746b9826d:017841096c707bc99fcde4434e7c9761,76709c41939b31cfb605930463f6b22e:3b361f5fdfa087733cfa5ad7ef5ee7f7
+#KODIPROP:inputstream.adaptive.license_key=76709c41939b31cfb605930463f6b22e:3b361f5fdfa087733cfa5ad7ef5ee7f7,4d7e1db5020234afa21e54a92f735afa:2c62ec45824d8b32c5fdf62b06995980,f2274a03d35836a286a5de3746b9826d:017841096c707bc99fcde4434e7c9761,554457506155635a324e7a6d38396433:646c6876534657334a5131526f49314d,c9301f644fd234ae8638e4ad4f6644d1:63725018209494e8f54c07ae5954da0c,800dc70e3cd033209983997e401b0d7d:933994d30beb2e70f4036852235311b9
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="221" tvg-name="MDTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/98f37205-e7b1-442e-8be1-02ea36e51bfa.png" group-title="TV Nasional",MDTV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=423151587378574e664d5470556a5a42:4e55677a74667271435349707658586e
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="246" tvg-name="Rtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/0e022381-6413-4185-bdb5-3d59ea2b9013.jpg" group-title="TV Nasional",Rtv
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81a25865fc53e1b97b4d5552562443c:b1dc3a98e42568fb241e6eac369a24bb,42546279315348464953594566774857:42334245644a456e5861335165783465,7acfd077a4343a808a7341dd88bc6d65:81959b37f0ba5c1df2bbbfb79d212340,935bfe21f2ec338aa58714fb73a7f26e:7f42b74b63658cbe0fcb8181918301df,d0ffd01a55c330d7b3559be4bb23f01c:ce0b9c0e065c847b34cc4c0911fdb5c4,68d45340bed63ad2a9ba1541428a2bf2:451d77d17df0b8b360a99b821d192ba4
+#KODIPROP:inputstream.adaptive.license_key=a81a25865fc53e1b97b4d5552562443c:b1dc3a98e42568fb241e6eac369a24bb,42546279315348464953594566774857:42334245644a456e5861335165783465,7acfd077a4343a808a7341dd88bc6d65:81959b37f0ba5c1df2bbbfb79d212340,935bfe21f2ec338aa58714fb73a7f26e:7f42b74b63658cbe0fcb8181918301df,68d45340bed63ad2a9ba1541428a2bf2:451d77d17df0b8b360a99b821d192ba4,d0ffd01a55c330d7b3559be4bb23f01c:ce0b9c0e065c847b34cc4c0911fdb5c4
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="222" tvg-name="MNC TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/e049db5b-5acf-4a82-a46f-31010bca6f18.png" group-title="TV Nasional",MNC TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31323552566a7142553150583161564e:52777655314333685272474f71643254
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="223" tvg-name="TVRI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/c1e49b61-b510-4c43-ae76-70fb00c9591d.png" group-title="TV Nasional",TVRI
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b32337a75545578416d63756a4b6365:4b6e335a6333714f626e6449504e3441
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="364" tvg-name="ANTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/5702ff23-2523-4c32-bce2-160378eab6c2.png" group-title="TV Nasional",ANTV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d525455385735746c637147746f6679:363679475179746d4e496a5161746a48
 https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f9082998232e0019b35e7220c5b63/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="284" tvg-name="jtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/e6c2e43d-fcf8-4098-bdd9-b79a8099f2c7.png" group-title="TV Nasional",jtv
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=776c65594c59494d594479734534784e:6d6e524344495a714e4a384a33793431,b98f533e03893125b95ebe6bc465edc9:529dfd370c0581ab7dcf124985fd8dad,467c2284d3383e34abcdb6d926bb179f:eb0c74f0f5eda6b205f6e1a5d6d153e0,761f131a916434d0b166bef0d1ecdfdc:9e2df2b11a4778b1fbda0125553f163d,317642fbc7523511ac29665ce9e4f0e3:fd776e40c16d814d7433797dad12c6e6,56bacd7aea773ab0abddb840bf4c657a:d0c9389b731662e4c30db91514066a0f
+#KODIPROP:inputstream.adaptive.license_key=56bacd7aea773ab0abddb840bf4c657a:d0c9389b731662e4c30db91514066a0f,761f131a916434d0b166bef0d1ecdfdc:9e2df2b11a4778b1fbda0125553f163d,317642fbc7523511ac29665ce9e4f0e3:fd776e40c16d814d7433797dad12c6e6,776c65594c59494d594479734534784e:6d6e524344495a714e4a384a33793431,467c2284d3383e34abcdb6d926bb179f:eb0c74f0f5eda6b205f6e1a5d6d153e0,b98f533e03893125b95ebe6bc465edc9:529dfd370c0581ab7dcf124985fd8dad
 https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685730a42430173142e26ba7b17/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="214" tvg-name="Berita Satu" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/cc6b06da-4c62-40a7-88c9-3ccab6685252.png" group-title="TV Nasional",Berita Satu
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55516d6b526d4779503658504e306e38:70537751443849306230423169396b70
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="219" tvg-name="Garuda TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/7d10f845-b5ad-437d-9b66-9f5e4c0ec9c5.jpg" group-title="TV Nasional",Garuda TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59794d346e58777265536a6366597557:6d6b7a4a6d68394a594a6c5261355151
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6859645ee4801965cf102264bf3/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="227" tvg-name="TVN Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d32d358f-6710-4be7-a7f6-c055349f5364.png" group-title="Film",TVN Movies
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72756c54344d61596945784947784d58:796755734f45324642357a416c794e61
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="229" tvg-name="Celestial Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/fec79de9-3c34-4936-9ea7-cd370c310679.jpg" group-title="Film",Celestial Movies
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=497863764e4464763865755049323347:4f796c6431526a7963576377317a4d62
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68587f789fe0188421147c760f4/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="230" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/45f8c277-dbd4-4846-988c-a033322ab921.png" group-title="Film",Bioskop Indonesia
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=584638687655344f724d7330484e5552:34616c6b32476b4372427051716b4656
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f4eac485-536d-4609-bb3b-1780802ab69c.jpg" group-title="Film",Thrill
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?assetId=4028c68587f789fe0188421264d560f5|dt-custom-data=eyJ1c2VySWQiOiJndWVzdDI1NkBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU0yRmpNelF5TUdJdE5HVm1ZUzAwTWpreUxXRTRaVFF0TWpJeU5tRTFabUl3WkdKa0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UWXpOV0V3WXpZek1ERTJNelZoTVRFM1lUWmxNREF3TWlJc0luUnBiV1Y2YjI1bElqb2lSWFZ5YjNCbEwxZGhjbk5oZHlJc0ltRjFkR2h2Y21sMGVTSTZJbEpQVEVWZlZWTkZVaUlzSW1WNGNDSTZNVGM0TlRJek9EY3lOaXdpZFhObGNrbGtJam9pTkRBeU9EUTRaVFEzTlRKaU1UZGpPREF4TnpVME5EWTFNelpsTURjMlpqTWlMQ0prWlhacFkyVkpaQ0k2SWpFeU16UTFOamM0T1RBaUxDSnBZWFFpT2pFM09EVXhOVEl6TWpZc0luVnpaWEp1WVcxbElqb2laM1ZsYzNReU5UWkFiVzl5WVhSbGJHbHVaRzh1WTI5dEluMC5lVTBIQWJpenFUeUluTG44VWVvRnNleTJsR2xQYWdUaTZYTm1NcXU1ejYwIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9&Content-Type=application/octet-stream|R{SSM}|
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68587f789fe0188421264d560f5/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="185" tvg-name="Movies News" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/5b571208-836d-4c57-ab79-7aa72453f5bb.jpg" group-title="Film",Movies News
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7151664844355945316e444631557633:6d505030394f48576a6b397865426736
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="248" tvg-name="Cartoon TV Premium" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/6b0787ea-a841-4479-8b3a-4e284eea0d77.jpg" group-title="Anak",Cartoon TV Premium
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=030fc99740e84f11b1bf38e5f673a9ec:367ce1fc6f504dd39ad8078ccc5aac97
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="249" tvg-name="Cartoon TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/56cdde47-791d-49ad-8cdc-f01c573ab953.jpg" group-title="Anak",Cartoon TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=634e364c446936304732575044555465:63446b6c63583536777539357365456f
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="186" tvg-name="Dunia Anak" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/1c38d9dc-1f57-49d2-991f-8be2b90ed6ab.png" group-title="Anak",Dunia Anak
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74466b6f7831687a6b514762596a5651:6d376d3739583739754a676851505235
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="205" tvg-name="Knowledge+" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/ef4cc416-5d01-49c8-86f5-e713556d2550.jpg" group-title="Edukasi",Knowledge+
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68557041684c694c62556136544c7a33:5961317565577a4e7651743175465876
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e018259716f7821f0/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="234" tvg-name="CGTN Documentary" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/b6efdf8d-e083-483c-aad5-f2b102f0c34a.jpg" group-title="Edukasi",CGTN Documentary
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ef3c13536be3cda8f73b3465775dbe8:defe0ed58f91a3c8ea80eef74121cade,1a72332633773f209198ac43168d522d:ae1620b4117e3038e5e64c7b0c3dfc25,37c4eade665f3696927a4247478e0724:8c93731fa98ea7099d6e72d63cca4dd3,8c6fe1ec845730a9aef07fac289e946f:591553bac287c1894a76a9e471c3420a,53397953537a615348756e657a4a4d44:6e797242744a67556363324d6651306c,6fedb1823fee3692b3b5ce8cb2756b9d:c11d842755fccbe1d2774b1ece3ab2f5
+#KODIPROP:inputstream.adaptive.license_key=1a72332633773f209198ac43168d522d:ae1620b4117e3038e5e64c7b0c3dfc25,4ef3c13536be3cda8f73b3465775dbe8:defe0ed58f91a3c8ea80eef74121cade,53397953537a615348756e657a4a4d44:6e797242744a67556363324d6651306c,37c4eade665f3696927a4247478e0724:8c93731fa98ea7099d6e72d63cca4dd3,8c6fe1ec845730a9aef07fac289e946f:591553bac287c1894a76a9e471c3420a,6fedb1823fee3692b3b5ce8cb2756b9d:c11d842755fccbe1d2774b1ece3ab2f5
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="194" tvg-name="tVN" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/858597ab-2fb4-4642-8977-37122b0e365b.png" group-title="Hiburan Asia",tVN
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=657a5a67554d5158375374736d316144:446c44533131587233596c4d5863614a,dbba6806d530335da2ee6835017f3b74:da10f2f7b49536026301d83d2f638d86,74206ba8c73c391282dabdcfff9ad740:9f8123e1ecad89ddead359c7fb03a2da,c1c2f377fc493830b5fe1b3aed2bf703:d8d97e29c115e03656b50c55bc7a9b94,f9a51dda6ff63772abc7dff03b53ea61:ef5ab7dbceb97a0fb8c1d8e70e69e08d,fc4310fa567d305aae3dc72d9a144b49:0cfa823b0393cc703a42439dc7cd62c1
+#KODIPROP:inputstream.adaptive.license_key=c1c2f377fc493830b5fe1b3aed2bf703:d8d97e29c115e03656b50c55bc7a9b94,657a5a67554d5158375374736d316144:446c44533131587233596c4d5863614a,f9a51dda6ff63772abc7dff03b53ea61:ef5ab7dbceb97a0fb8c1d8e70e69e08d,74206ba8c73c391282dabdcfff9ad740:9f8123e1ecad89ddead359c7fb03a2da,fc4310fa567d305aae3dc72d9a144b49:0cfa823b0393cc703a42439dc7cd62c1,dbba6806d530335da2ee6835017f3b74:da10f2f7b49536026301d83d2f638d86
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="247" tvg-name="Channel Jowo" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/2b8ea039-0f4d-4345-9c1a-a8faacb6326a.jpg" group-title="Hiburan",Channel Jowo
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a7949323648497265785148356a6b45:6f6e54665a674c394d6f66477062596e
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685910daca60191a29de97f443a/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="263" tvg-name="!nsert" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d84cfac8-b2f8-4538-839a-3f858cff0240.png" group-title="Hiburan",!nsert
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3858353033354b77704f46547554774d:3264354a7a73716a63657a6f74793869
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="265" tvg-name="Dunia Lain" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/9c871c2e-50d4-4e6e-84a1-ad70e01419cc.png" group-title="Hiburan",Dunia Lain
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=56484c5353584a4b5255386e62324166:7961344f3147313055796f425476314e
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="267" tvg-name="TV5 Monde" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/e50e13b3-79b1-4f46-8821-b57cf1224514.png" group-title="Hiburan",TV5 Monde
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=614e4b7158455a7a684947386c503951:346b70355a554f665a4278385551375a
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="268" tvg-name="One TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/c1f5f503-eacf-4c5b-8561-3c72d5d7ff73.jpg" group-title="Hiburan",One TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=394c52414864614b5a7a354258445a54:567535564632736566476974344a3947
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="274" tvg-name="Travel TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/40dd6878-5790-4194-b599-bb35bb11958b.jpg" group-title="Gaya Hidup",Travel TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55656352786f326f634669435569504f:4d386d49596e3972344d5878596f6254
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="208" tvg-name="Eat N Go" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/14c7b024-c6f0-40d8-b57c-26990638f54f.png" group-title="Gaya Hidup",Eat N Go
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=574539566f466d595543456e72776d30:6961456e413278463639653272514536
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="196" tvg-name="Fashion TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/6fb1fbdb-4348-49aa-804a-9b459a17b246.jpg" group-title="Gaya Hidup",Fashion TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43464548514268344566666a41556d36:6859694870443573336d4a6248487971
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="276" tvg-name="Cooking TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/457996b0-39f6-4121-83d0-714edc318fd5.jpg" group-title="Gaya Hidup",Cooking TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5156516e714c6a6267697649475a7878:794b557042327677674a304746473666
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="277" tvg-name="Gaming TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/73cf353f-ec94-4ba0-a559-309af188fefa.jpg" group-title="Gaya Hidup",Gaming TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d063f043da13397bff635f18c5726aa:6baff4de2e38939df41e9a61babe4bfd,fa79d0fd9fbc3bb0a1abd4990bde9745:ef20fc2552b9c46b553664ab7efd584d,100e3e8dc85c3e51b065500a3cebb990:a1d9ca88445ba3ff11b766de74ad2251,c5c1df05b39d351c9dd78c900aa66a1f:7f811612f75892e67258ad57354e2710,5a534872704a6f6f6b6f62574a736166:677a6b31656861574e31467a63766e73,66357830d24f3e3e9f17fdb7a1c76846:06e0b2a1c5763908368a71336ad2288d
+#KODIPROP:inputstream.adaptive.license_key=66357830d24f3e3e9f17fdb7a1c76846:06e0b2a1c5763908368a71336ad2288d,fa79d0fd9fbc3bb0a1abd4990bde9745:ef20fc2552b9c46b553664ab7efd584d,5a534872704a6f6f6b6f62574a736166:677a6b31656861574e31467a63766e73,6d063f043da13397bff635f18c5726aa:6baff4de2e38939df41e9a61babe4bfd,100e3e8dc85c3e51b065500a3cebb990:a1d9ca88445ba3ff11b766de74ad2251,c5c1df05b39d351c9dd78c900aa66a1f:7f811612f75892e67258ad57354e2710
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="251" tvg-name="Superyacht TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d81c9643-9754-4a9a-ae95-a684aece5312.jpg" group-title="Gaya Hidup",Superyacht TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64614d484c656e78764676536d325539:646b4372394b37485732337271545143
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="195" tvg-name="Musik Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f5f399e4-e3ad-44e9-8071-881cd20d931e.png" group-title="Musik",Musik Indonesia
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=654a343272717854773245385438566d:784e745941476b7138476b324f6e314a
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="281" tvg-name="Song TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/7dc1688d-844d-41d4-a8e2-0ad5a3677359.jpg" group-title="Musik",Song TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?assetId=4028c685840ff0490184560acf62436a|dt-custom-data=eyJ1c2VySWQiOiJndWVzdDI1NkBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU0yRmpNelF5TUdJdE5HVm1ZUzAwTWpreUxXRTRaVFF0TWpJeU5tRTFabUl3WkdKa0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UWXpOV0V3WXpZek1ERTJNelZoTVRFM1lUWmxNREF3TWlJc0luUnBiV1Y2YjI1bElqb2lSWFZ5YjNCbEwxZGhjbk5oZHlJc0ltRjFkR2h2Y21sMGVTSTZJbEpQVEVWZlZWTkZVaUlzSW1WNGNDSTZNVGM0TlRJek9EY3lOaXdpZFhObGNrbGtJam9pTkRBeU9EUTRaVFEzTlRKaU1UZGpPREF4TnpVME5EWTFNelpsTURjMlpqTWlMQ0prWlhacFkyVkpaQ0k2SWpFeU16UTFOamM0T1RBaUxDSnBZWFFpT2pFM09EVXhOVEl6TWpZc0luVnpaWEp1WVcxbElqb2laM1ZsYzNReU5UWkFiVzl5WVhSbGJHbHVaRzh1WTI5dEluMC5lVTBIQWJpenFUeUluTG44VWVvRnNleTJsR2xQYWdUaTZYTm1NcXU1ejYwIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9&Content-Type=application/octet-stream|R{SSM}|
 https://cdncibi-kangmas.transvision.co.id:6236/Song_TV/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="238" tvg-name="ABC Australia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/1557382a-fe09-495c-9dfe-63c3a80d7df8.png" group-title="Berita & Bisnis",ABC Australia
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d387349314558764349454a4e325550:5a62744868445145623532777848374b
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856df6711d016e111c808d00a5/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="237" tvg-name="CNBC Asia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d0e7a8db-5e83-4078-a1c9-16c6bbc76f8b.jpg" group-title="Berita & Bisnis",CNBC Asia
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=396e77735a743072393834774e744c35:534a3478327968555631686e63753278
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6858e523590018e54a335c40489/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="197" tvg-name="Al Jazeera" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/4a19d02a-8ac7-4885-9681-d0eb2c90d475.png" group-title="Berita & Bisnis",Al Jazeera
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=42364e586930765230754d4e39724b35:714b4b48624b5039476e7461574d674e
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="199" tvg-name="Euronews" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/031a55c8-7cf3-44c5-b273-23ae689969bc.png" group-title="Berita & Bisnis",Euronews
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4942507457614e344b58744246796c4a:4a767233584c473957326879434b417a
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="258" tvg-name="France 24" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/e2687493-5974-4c07-89a6-05b12dd8362c.png" group-title="Berita & Bisnis",France 24
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d32667739653445637a384f38716836:5732764250527037574b4d3670537663
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856f08326c016f556faa7a31b6/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="259" tvg-name="CGTN" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d0712558-75a0-4383-be41-767d2fa42569.jpg" group-title="Berita & Bisnis",CGTN
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e1db2f6d0653c41856726b1582f6c0c:33e386eb812be34b2f16fdb2da25c637,b842ded47fcb3153a25564ec34b949a1:f0be09febdda36ad7c64ca8732a4f462,3b85adcf3e2d3e199fb1c165a5cebc1c:18d5b6e109c8d808c2204acfefd2873e,4199133463c1361baeed0319c7fc5d19:6df5170e31b8479225b36f7f19af2e40,7694de08f8293614b8009de057a14234:5753981cb5aa616648c273aea7241894,55794147333967746165424c506f576d:637942474d6844495236386850515434
+#KODIPROP:inputstream.adaptive.license_key=7694de08f8293614b8009de057a14234:5753981cb5aa616648c273aea7241894,1e1db2f6d0653c41856726b1582f6c0c:33e386eb812be34b2f16fdb2da25c637,b842ded47fcb3153a25564ec34b949a1:f0be09febdda36ad7c64ca8732a4f462,4199133463c1361baeed0319c7fc5d19:6df5170e31b8479225b36f7f19af2e40,3b85adcf3e2d3e199fb1c165a5cebc1c:18d5b6e109c8d808c2204acfefd2873e,55794147333967746165424c506f576d:637942474d6844495236386850515434
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="260" tvg-name="Russia Today" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/0e499f0d-2ffb-4e7d-b07e-08c47a385fda.jpg" group-title="Berita & Bisnis",Russia Today
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?assetId=4028c68572841ba301729cea1be63c1b|dt-custom-data=eyJ1c2VySWQiOiJndWVzdDI1NkBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU0yRmpNelF5TUdJdE5HVm1ZUzAwTWpreUxXRTRaVFF0TWpJeU5tRTFabUl3WkdKa0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UWXpOV0V3WXpZek1ERTJNelZoTVRFM1lUWmxNREF3TWlJc0luUnBiV1Y2YjI1bElqb2lSWFZ5YjNCbEwxZGhjbk5oZHlJc0ltRjFkR2h2Y21sMGVTSTZJbEpQVEVWZlZWTkZVaUlzSW1WNGNDSTZNVGM0TlRJek9EY3lOaXdpZFhObGNrbGtJam9pTkRBeU9EUTRaVFEzTlRKaU1UZGpPREF4TnpVME5EWTFNelpsTURjMlpqTWlMQ0prWlhacFkyVkpaQ0k2SWpFeU16UTFOamM0T1RBaUxDSnBZWFFpT2pFM09EVXhOVEl6TWpZc0luVnpaWEp1WVcxbElqb2laM1ZsYzNReU5UWkFiVzl5WVhSbGJHbHVaRzh1WTI5dEluMC5lVTBIQWJpenFUeUluTG44VWVvRnNleTJsR2xQYWdUaTZYTm1NcXU1ejYwIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9&Content-Type=application/octet-stream|R{SSM}|
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68572841ba301729cea1be63c1b/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="261" tvg-name="Arirang" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/6aa6fb62-3b8f-4092-85ed-c190e6966d84.png" group-title="Berita & Bisnis",Arirang
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=716a4174477842493548353377687a37:656357613658547a434c4c62636e7247
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="283" tvg-name="Wion TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/be429829-9c75-4772-bf07-b8657e412406.png" group-title="Berita & Bisnis",Wion TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=617465324f6378413233655168713164:4775644d4e5a47707769475164733245
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68572841ba301729d434e393c21/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="204" tvg-name="Al Quran Al Kareem" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/5891170a-f5f4-4145-bb40-2217faad3bf5.png" group-title="Religi",Al Quran Al Kareem
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f6351385056514c6869704177426a70:62547a646f385861656557336d413039
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="239" tvg-name="TV9" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/ada47948-9544-4982-a4d5-e77b3628c327.jpg" group-title="Religi",TV9
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cab2efff61c3576aacf66c4cb3b406e:f9941c5a9b7fa7cbc07ad42b92498e68,b4d06506e859343f9c1ea35c097c5ca2:84806d737a75d27153eaac38a9ce4539,6634716c58727163316b627731374e75:5050746553374a676679374151674f62,7c1d2ea3d3403e91b57b6f985a69aa16:355a73ea9d2cfae42e11b4051acdcdb1,33ca8778ffea36bfaf63f21557e0722c:05691284277e80ddc87090427c137aed,7844fa7bc790308e89c99c49e9921deb:eebf5b66e6dc2ee15e7072b00d6ebec4
+#KODIPROP:inputstream.adaptive.license_key=b4d06506e859343f9c1ea35c097c5ca2:84806d737a75d27153eaac38a9ce4539,7c1d2ea3d3403e91b57b6f985a69aa16:355a73ea9d2cfae42e11b4051acdcdb1,6634716c58727163316b627731374e75:5050746553374a676679374151674f62,2cab2efff61c3576aacf66c4cb3b406e:f9941c5a9b7fa7cbc07ad42b92498e68,7844fa7bc790308e89c99c49e9921deb:eebf5b66e6dc2ee15e7072b00d6ebec4,33ca8778ffea36bfaf63f21557e0722c:05691284277e80ddc87090427c137aed
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="240" tvg-name="Nabawi TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/9200f8dd-75d1-4c06-bfdf-6e483b617268.jpg" group-title="Religi",Nabawi TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=325132566141626962434d5632456676:544d5a574b7159783538547935535674
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68588e2da5a01892e3755c046bf/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="244" tvg-name="DayStar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/7a676f8e-22d1-4681-a615-828be928c544.jpg" group-title="Religi",DayStar
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=343352496f45506d47386641636a6531:6d744135644b53355a396e3944567631
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68598610fad0198f5ac5af94a48/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="241" tvg-name="DAAI TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/6c06b6aa-ad6d-4524-bd59-0be8a719477f.jpg" group-title="Religi",DAAI TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=75634e56326f74646b48653569535758:566a74486b4c62445230686e50775875
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68572841ba301729cbde4783c06/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="594" tvg-name="Hope Channel" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/2355c2fb-3126-4a9c-a52c-74ae5f429c22.png" group-title="Religi",Hope Channel
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5042373575314f305631496e7a714d31:796e563348416645624235363049304d
 https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f90829cf5a35a019f214151605b7f/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="242" tvg-name="Pijar TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f1f28a96-bb04-4a88-a419-b828d910348c.jpg" group-title="Religi",Pijar TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4777656b615136705347626858506954:62637a7a754d414c356f4e3038534c77
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017321f355172d0c/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="200" tvg-name="Khazanah" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/1088ddd8-2c10-47e4-8670-c31db6775bc1.png" group-title="Religi",Khazanah
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5653796e486442567079724b5451624b:5868426d6137626e4a53706a5a674271
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="203" tvg-name="Golf Plus ID" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/38304b68-0c39-47d0-8245-0e13d7ed8459.jpg" group-title="Olahraga",Golf Plus ID
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3446314f6b357a715a38555949643252:4d77625a4d4e6d737831696b5a573239
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="252" tvg-name="Football TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/bfcbd42a-8897-4100-8801-940c0bfbdd33.jpg" group-title="Olahraga",Football TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5454616a314c627a4d41434331494d74:4e39576d444d4741726a3454526b6451
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68582449a2e0182597777ec21f3/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="253" tvg-name="Sports TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/7f929678-aab5-41f6-a230-c02a82e396b8.jpg" group-title="Olahraga",Sports TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?assetId=4028c68582449a2e0182597898d221f4|dt-custom-data=eyJ1c2VySWQiOiJndWVzdDI1NkBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU0yRmpNelF5TUdJdE5HVm1ZUzAwTWpreUxXRTRaVFF0TWpJeU5tRTFabUl3WkdKa0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UWXpOV0V3WXpZek1ERTJNelZoTVRFM1lUWmxNREF3TWlJc0luUnBiV1Y2YjI1bElqb2lSWFZ5YjNCbEwxZGhjbk5oZHlJc0ltRjFkR2h2Y21sMGVTSTZJbEpQVEVWZlZWTkZVaUlzSW1WNGNDSTZNVGM0TlRJek9EY3lOaXdpZFhObGNrbGtJam9pTkRBeU9EUTRaVFEzTlRKaU1UZGpPREF4TnpVME5EWTFNelpsTURjMlpqTWlMQ0prWlhacFkyVkpaQ0k2SWpFeU16UTFOamM0T1RBaUxDSnBZWFFpT2pFM09EVXhOVEl6TWpZc0luVnpaWEp1WVcxbElqb2laM1ZsYzNReU5UWkFiVzl5WVhSbGJHbHVaRzh1WTI5dEluMC5lVTBIQWJpenFUeUluTG44VWVvRnNleTJsR2xQYWdUaTZYTm1NcXU1ejYwIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9&Content-Type=application/octet-stream|R{SSM}|
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6857fe540a1018060afdef540bc/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="254" tvg-name="Xtrem Sports" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d206cbfd-3194-41ea-ab8d-e08177834f6b.jpg" group-title="Olahraga",Xtrem Sports
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=474f65707a765a7679574f4955516c4a:3030733376305676346e333154795036
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="224" tvg-name="TVRI Sport" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/ba589fc8-f3cd-4bab-961a-3cf34656f89f.png" group-title="Olahraga",TVRI Sport
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?assetId=2c9f90829cf5a35a019e4440cf661e3c|dt-custom-data=eyJ1c2VySWQiOiJndWVzdDI1NkBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU0yRmpNelF5TUdJdE5HVm1ZUzAwTWpreUxXRTRaVFF0TWpJeU5tRTFabUl3WkdKa0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UWXpOV0V3WXpZek1ERTJNelZoTVRFM1lUWmxNREF3TWlJc0luUnBiV1Y2YjI1bElqb2lSWFZ5YjNCbEwxZGhjbk5oZHlJc0ltRjFkR2h2Y21sMGVTSTZJbEpQVEVWZlZWTkZVaUlzSW1WNGNDSTZNVGM0TlRJek9EY3lOaXdpZFhObGNrbGtJam9pTkRBeU9EUTRaVFEzTlRKaU1UZGpPREF4TnpVME5EWTFNelpsTURjMlpqTWlMQ0prWlhacFkyVkpaQ0k2SWpFeU16UTFOamM0T1RBaUxDSnBZWFFpT2pFM09EVXhOVEl6TWpZc0luVnpaWEp1WVcxbElqb2laM1ZsYzNReU5UWkFiVzl5WVhSbGJHbHVaRzh1WTI5dEluMC5lVTBIQWJpenFUeUluTG44VWVvRnNleTJsR2xQYWdUaTZYTm1NcXU1ejYwIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9&Content-Type=application/octet-stream|R{SSM}|
 https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e4440cf661e3c/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="255" tvg-name="Speed TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/0d94af68-f984-4a09-9f5a-35c85329e442.jpg" group-title="Olahraga",Speed TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7336697a523441495361707a52425275:7538366444587a3965354c4d54347650
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="256" tvg-name="Fight TV Premium" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/552f1c03-4930-42bf-a388-6b21065a466c.jpg" group-title="Olahraga",Fight TV Premium
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6755ef3750e33b538cb6b1bdaba462ed:5e77c3da958a7aaaeee0d0c5746c054b,7ce135c8f6df31b0af4600430f27f488:08f90e93b542433252b32d510eb3d2ac,6cf66ea9b1d03901980a1dabc8593654:dbbe1e52caedec9251d8986c2f8640d0,86bef1ac24d7395fa53c48142dc7a43b:75f27cb403952417b04bd008cf568803,313241596e346c74453957464f6b7845:6a363571734a37587268773333654478,f1b46ad71e003356abdfef00a80f0314:c165b45ddf1369f89c65e6157049a37e
+#KODIPROP:inputstream.adaptive.license_key=7ce135c8f6df31b0af4600430f27f488:08f90e93b542433252b32d510eb3d2ac,6755ef3750e33b538cb6b1bdaba462ed:5e77c3da958a7aaaeee0d0c5746c054b,86bef1ac24d7395fa53c48142dc7a43b:75f27cb403952417b04bd008cf568803,313241596e346c74453957464f6b7845:6a363571734a37587268773333654478,f1b46ad71e003356abdfef00a80f0314:c165b45ddf1369f89c65e6157049a37e,6cf66ea9b1d03901980a1dabc8593654:dbbe1e52caedec9251d8986c2f8640d0
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="257" tvg-name="PSJ TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/5eabcf0a-e7b4-4528-a92e-2698d7ccd31e.jpg" group-title="Olahraga",PSJ TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?assetId=000000008d1b3a72018dbfcd427f46ab|dt-custom-data=eyJ1c2VySWQiOiJndWVzdDI1NkBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU0yRmpNelF5TUdJdE5HVm1ZUzAwTWpreUxXRTRaVFF0TWpJeU5tRTFabUl3WkdKa0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UWXpOV0V3WXpZek1ERTJNelZoTVRFM1lUWmxNREF3TWlJc0luUnBiV1Y2YjI1bElqb2lSWFZ5YjNCbEwxZGhjbk5oZHlJc0ltRjFkR2h2Y21sMGVTSTZJbEpQVEVWZlZWTkZVaUlzSW1WNGNDSTZNVGM0TlRJek9EY3lOaXdpZFhObGNrbGtJam9pTkRBeU9EUTRaVFEzTlRKaU1UZGpPREF4TnpVME5EWTFNelpsTURjMlpqTWlMQ0prWlhacFkyVkpaQ0k2SWpFeU16UTFOamM0T1RBaUxDSnBZWFFpT2pFM09EVXhOVEl6TWpZc0luVnpaWEp1WVcxbElqb2laM1ZsYzNReU5UWkFiVzl5WVhSbGJHbHVaRzh1WTI5dEluMC5lVTBIQWJpenFUeUluTG44VWVvRnNleTJsR2xQYWdUaTZYTm1NcXU1ejYwIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9&Content-Type=application/octet-stream|R{SSM}|
 https://cdnjkt913.transvision.co.id:1000/live/master/4/000000008d1b3a72018dbfcd427f46ab/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856b6088c3016b87d64b970b53" tvg-name="HBO" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Premium XGO",HBO
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=416b74507661346f6164737379443668:47743358367765396437354b30774244,a6f12d46d5a33a8e99a789253695e26e:deaf86ab9eddc7a66f847c90df18d88f,d97b72e204a630bb95e9cc1195987497:54da72e21759a68ff3b460dd5ba8cf06,1e873d43a4f130b4acab144567b48314:7743afdbda0232e153e9806138d7377d,cc9eef1edf5e35c88235204d56f224f2:46d472f09a32899c125a2c3069492db0,065b9f97b770306e9d53dcd616b2709a:b2cebcdad29c9fa1a3613046b5651f08
+#KODIPROP:inputstream.adaptive.license_key=a6f12d46d5a33a8e99a789253695e26e:deaf86ab9eddc7a66f847c90df18d88f,1e873d43a4f130b4acab144567b48314:7743afdbda0232e153e9806138d7377d,065b9f97b770306e9d53dcd616b2709a:b2cebcdad29c9fa1a3613046b5651f08,cc9eef1edf5e35c88235204d56f224f2:46d472f09a32899c125a2c3069492db0,416b74507661346f6164737379443668:47743358367765396437354b30774244,d97b72e204a630bb95e9cc1195987497:54da72e21759a68ff3b460dd5ba8cf06
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d0552e0ca37a2" tvg-name="HBO Signature" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Premium XGO",HBO Signature
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=504f446b524b384b7679675773743236:70743451594d576e5a4c65506569426e
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d054fbf67379f" tvg-name="HBO Hits" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Premium XGO",HBO Hits
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=724d694c5262504d707839354672584d:457342484b5851736564487130397a56
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d055927fe37a4" tvg-name="HBO Family" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Premium XGO",HBO Family
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=18dfd383307738468f2e04a19f9b903b:188236c0df858354c55f9e1f509819dc,53ea747ec3f33ea58a96365e6495e2ea:a67dbaf16d058611e1717d50bd9d8234,e70965da05b338bca4091186785e5c12:56be08f19c398976fcaf55ed716b87a3,c07c97ac15be3979a26e6b5d37ef1107:2450434f26936dca521938c107fc6672,7737475074686773477770687a637442:545965514575566765686f5375484136,eda586791b53388ab5fb29b67bd5ceb8:f21a7c68b5a41554003d0207f3cac354
+#KODIPROP:inputstream.adaptive.license_key=c07c97ac15be3979a26e6b5d37ef1107:2450434f26936dca521938c107fc6672,53ea747ec3f33ea58a96365e6495e2ea:a67dbaf16d058611e1717d50bd9d8234,eda586791b53388ab5fb29b67bd5ceb8:f21a7c68b5a41554003d0207f3cac354,18dfd383307738468f2e04a19f9b903b:188236c0df858354c55f9e1f509819dc,7737475074686773477770687a637442:545965514575566765686f5375484136,e70965da05b338bca4091186785e5c12:56be08f19c398976fcaf55ed716b87a3
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016cdbfc4a1934bf" tvg-name="Cinemax" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Premium XGO",Cinemax
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=614a74726d6a4e50483547704f746979:39556563333039445762455a77587642
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d0555b83e37a3" tvg-name="Cinema World" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0555b83e37a3/567c27a4f559485f8db726ddc4951ee9.jpg" group-title="Premium XGO",Cinema World
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4379694f483675544c63477158663535:42623958574a634a7272737256464f37
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856fd0d66d0170334acaa90393" tvg-name="Zee Bioskop" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856fd0d66d0170334acaa90393/2e3593d61c2a4e8984fe41948179ec70.jpg" group-title="Premium XGO",Zee Bioskop
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e356b4237527a4641746f4869777452:42696d386366357a437a4e7a39764f39
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856b8d2390016b9c3ee6c21d7c" tvg-name="Cartoon Network" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg" group-title="Premium XGO",Cartoon Network
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b254629c34b460f81365c7da052b1e7:33eecda61bdd42868561f4b7a9cdec91
 https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d055f43ff37a5" tvg-name="Cartoonito" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055f43ff37a5/cba1fd0f73f749c7a20e7fed43ee58b9.jpg" group-title="Premium XGO",Cartoonito
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5866324f63584f58616a69556d653630:72695376536f52647778634849694f51
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c685840ff0490184560100c34363" tvg-name="Cartoon TV Classics" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560100c34363/5550dd0409a04f948407c307a9468240.jpg" group-title="Premium XGO",Cartoon TV Classics
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=714f6e426a58466868786e4a737a3462:5a6570436f537364353755594a317a64
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685840ff0490184560100c34363/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856b6088c3016b87da299e0b56" tvg-name="AXN" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87da299e0b56/e35d526edf5e4c279acc3dfa717ebc3c.jpg" group-title="Premium XGO",AXN
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3669686a6c76395852704a736f6d4748:73566f6d474657476e70477476374e66
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016cf0b533fe73e3" tvg-name="Warner TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/fcfea055f6184564bd099acf3950de0e.png" group-title="Premium XGO",Warner TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64d73e01c0b7476b89914fd9b4df38dc:28eb553384c940158bd3f0d0c9b38e0f
 https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856f08326c016f5589608831bb" tvg-name="KBS World" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png" group-title="Premium XGO",KBS World
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69764d6f7177324449516134344c4f6b:577458634173577045784b555034594e
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c685730a4243017317e334101575" tvg-name="CCTV 4" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017317e334101575/5da44d2f61874694b1806ced7e3afdf5.png" group-title="Premium XGO",CCTV 4
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=daf93ed337a4357d86e16809fcddef3b:f9e8a817e719732dcf2cfdfa5a3f9275,e089dbbebb4a3120a6b8e7841230f480:5b1b0da02b2c70645659e9cfcb8c6414,753356586a634c6f35456b4d33455939:6a446c3133585a7a5847416c656c6e47,b26a038c43b737ad8dee69c47d4c1175:fb9fbb8f075033235f60e9e2ced05420,e066e8b23d3c35a2bf78d353b7649477:8dd1d0ce2c17ec6ebb42ff924b81b30d,e03a2ff4cd5133ca935f5d4c200afe8e:811c4ee135c0c3eb0a50ee87f30db00d
+#KODIPROP:inputstream.adaptive.license_key=daf93ed337a4357d86e16809fcddef3b:f9e8a817e719732dcf2cfdfa5a3f9275,b26a038c43b737ad8dee69c47d4c1175:fb9fbb8f075033235f60e9e2ced05420,753356586a634c6f35456b4d33455939:6a446c3133585a7a5847416c656c6e47,e066e8b23d3c35a2bf78d353b7649477:8dd1d0ce2c17ec6ebb42ff924b81b30d,e03a2ff4cd5133ca935f5d4c200afe8e:811c4ee135c0c3eb0a50ee87f30db00d,e089dbbebb4a3120a6b8e7841230f480:5b1b0da02b2c70645659e9cfcb8c6414
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d063630b46d1c" tvg-name="CNN International" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d063630b46d1c/72316b42d5124f58b3a67a443249bc1b.png" group-title="Premium XGO",CNN International
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=414f444f6471634e54506372517a6a6f:454437547075786c496452614a423970
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d063630b46d1c/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856c3db2cc016d0640033e6d1f" tvg-name="CNA" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0640033e6d1f/86a5dd5d98e64d768e399fad561212c4.png" group-title="Premium XGO",CNA
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63347a32516f48617850365058654b58:304e357a337557357257674f3446476e
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c6856f08326c016f0dbf97d305f6" tvg-name="DW" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f0dbf97d305f6/e9e231a9133148fa81b8383108e7e794.png" group-title="Premium XGO",DW
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32504459644f37646847385757674d71:6a4a6b676e50746455755043795a325a
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856f08326c016f0dbf97d305f6/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c68572841ba301729ce8f25d3c1a" tvg-name="tv Mu" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce8f25d3c1a/51d7344a49cd4aed8d31e75b0ce234f2.jpg" group-title="Premium XGO",tv Mu
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=386c4e796650514d6378706b71776153:7a6335344f6b436d6c3168626345446d
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="4028c68572841ba301729cd58bce3c14" tvg-name="Jak tv" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg" group-title="Premium XGO",Jak tv
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fe1b6d0bcd8338e8d43f388509e957f:a220e84db8c691d087afa5e5bd92bb34,4763766b4c6338574c3631614f52694f:4963627335375041314d6a4a72636662,24d1033bab2c3f87b8980f25588d4ce3:4580d3f86f922f62647976e73a833607,13d2c685a98235ceaaf511a8b8394962:a68c853e0a800bbe8e70b31275b2f970,810ec55fe8673ab89d583377241635ad:3a90003429213d4057ff403adde65f53,67ff7b81f8e9352481a787bb04cdfb5c:b52db59cf91783702e20b1495e16d8e6
+#KODIPROP:inputstream.adaptive.license_key=4763766b4c6338574c3631614f52694f:4963627335375041314d6a4a72636662,67ff7b81f8e9352481a787bb04cdfb5c:b52db59cf91783702e20b1495e16d8e6,6fe1b6d0bcd8338e8d43f388509e957f:a220e84db8c691d087afa5e5bd92bb34,810ec55fe8673ab89d583377241635ad:3a90003429213d4057ff403adde65f53,24d1033bab2c3f87b8980f25588d4ce3:4580d3f86f922f62647976e73a833607,13d2c685a98235ceaaf511a8b8394962:a68c853e0a800bbe8e70b31275b2f970
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
