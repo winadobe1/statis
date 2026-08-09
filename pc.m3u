@@ -1,219 +1,229 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="8d15d537-da19-3fa2-a733-426dc36d998a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/78fc8d34-8a91-11f1-bcc3-cfa7467ae81b/LAND_16_9?proposition=NBCUOTT&language=eng&version=439c96bc-e01f-5394-8a1c-4c4e91b3993a&territory=US",[08/09 08:30 PM] Tour de France Femmes: Stage 9
+#EXTINF:-1 tvg-id="8d15d537-da19-3fa2-a733-426dc36d998a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/78fc8d34-8a91-11f1-bcc3-cfa7467ae81b/LAND_16_9?proposition=NBCUOTT&language=eng&version=439c96bc-e01f-5394-8a1c-4c4e91b3993a&territory=US",[08/09 08:30 PM WIB] Tour de France Femmes: Stage 9
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="2635bb66-b122-3de1-89e2-51d3d3e2c1b6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/6277ec86-90e3-11f1-b517-33fc81152db0/LAND_16_9?proposition=NBCUOTT&language=eng&version=6ab8ff22-2fe5-5c5d-9936-388a5bb207d5&territory=US",[08/09 11:00 PM] Reds at Nationals
+#EXTINF:-1 tvg-id="2635bb66-b122-3de1-89e2-51d3d3e2c1b6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/6277ec86-90e3-11f1-b517-33fc81152db0/LAND_16_9?proposition=NBCUOTT&language=eng&version=6ab8ff22-2fe5-5c5d-9936-388a5bb207d5&territory=US",[08/09 11:00 PM WIB] Reds at Nationals
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="6d2d84ab-97f3-3d32-8454-4ce5577b186f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/946374b2-8dc9-11f1-ba30-af5522a258bc/LAND_16_9?proposition=NBCUOTT&language=eng&version=81d5cce8-3890-55c0-bf33-dd5ca558d57f&territory=US",[08/10 01:00 AM] THEMOVE: Stage 9
+#EXTINF:-1 tvg-id="6d2d84ab-97f3-3d32-8454-4ce5577b186f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/946374b2-8dc9-11f1-ba30-af5522a258bc/LAND_16_9?proposition=NBCUOTT&language=eng&version=81d5cce8-3890-55c0-bf33-dd5ca558d57f&territory=US",[08/10 01:00 AM WIB] THEMOVE: Stage 9
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="bd14adda-3005-3135-85bd-549e921499a9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/516da236-66a5-11f1-a518-c3ed65d37c41/LAND_16_9?proposition=NBCUOTT&language=eng&version=13e18a63-539b-50d8-a695-08d3fa0445fb&territory=US",[08/10 01:30 AM] MLB Sunday Stretch: 8.9.26
+#EXTINF:-1 tvg-id="bd14adda-3005-3135-85bd-549e921499a9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/516da236-66a5-11f1-a518-c3ed65d37c41/LAND_16_9?proposition=NBCUOTT&language=eng&version=13e18a63-539b-50d8-a695-08d3fa0445fb&territory=US",[08/10 01:30 AM WIB] MLB Sunday Stretch: 8.9.26
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="b5a443c0-933d-3340-87e9-4a920f4de9b5" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f9b35f2a-8db1-11f1-917f-5b0103cb1db3/LAND_16_9?proposition=NBCUOTT&language=eng&version=53b27793-2d1c-5808-a7f7-a9be6ebec73a&territory=US",U20 Champs: Day 4 PM
+#EXTINF:-1 tvg-id="b5a443c0-933d-3340-87e9-4a920f4de9b5" group-title="Peacock | Live Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f9b35f2a-8db1-11f1-917f-5b0103cb1db3/LAND_16_9?proposition=NBCUOTT&language=eng&version=53b27793-2d1c-5808-a7f7-a9be6ebec73a&territory=US",U20 Champs: Day 4 PM
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/v~a-0-0_e~1786334881_s~b54556a6-1ef1-475e-ab42-98cdc582a10a_u~3942af33ed09838e5d21362c69a60d6d23d46b98c241106fc6ec7575fa85c2c74c7cebd1acb0b9298c9d210d923868a8_l~78_x~9df42c4a2fd55a21c062499203da941bdb501510d5f19ea13351771b32b5e3dc/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5023981-725839-491bca5688f)/master_2hr.mpd?ck=0022f9df44ae8f718020aad703adbf01:ffb1d559ece35179eb8213dd16e484fc
+#EXTINF:-1 tvg-id="6b15e762-9f4b-3794-a6ee-1ba184093d41" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f9b35f2a-8db1-11f1-917f-5b0103cb1db3/LAND_16_9?proposition=NBCUOTT&language=eng&version=53b27793-2d1c-5808-a7f7-a9be6ebec73a&territory=US",[08/10 02:00 AM WIB] U20 Champs: Day 5
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="6b15e762-9f4b-3794-a6ee-1ba184093d41" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f9b35f2a-8db1-11f1-917f-5b0103cb1db3/LAND_16_9?proposition=NBCUOTT&language=eng&version=53b27793-2d1c-5808-a7f7-a9be6ebec73a&territory=US",[08/10 02:00 AM] U20 Champs: Day 5
+#EXTINF:-1 tvg-id="7ffe3642-1ddb-3ae4-9ea6-f4ecf0815ebb" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a6cd6e28-91a7-11f1-baf3-d7e93f23a2fe/LAND_16_9?proposition=NBCUOTT&language=eng&version=181a4253-577d-5ff6-8f48-8bb8e98a7669&territory=US",[08/10 02:30 AM WIB] Wings vs. Lynx
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="7ffe3642-1ddb-3ae4-9ea6-f4ecf0815ebb" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a6cd6e28-91a7-11f1-baf3-d7e93f23a2fe/LAND_16_9?proposition=NBCUOTT&language=eng&version=181a4253-577d-5ff6-8f48-8bb8e98a7669&territory=US",[08/10 02:30 AM] Wings vs. Lynx
+#EXTINF:-1 tvg-id="05618ab3-4896-34a6-993d-b92da6999895" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/60c77922-736c-11f1-b942-d3b1663603bc/LAND_16_9?proposition=NBCUOTT&language=eng&version=d7231166-8b53-5949-b29c-2909a64e038f&territory=US",[08/10 03:00 AM WIB] Home Feed: TB at SEA
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="05618ab3-4896-34a6-993d-b92da6999895" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/60c77922-736c-11f1-b942-d3b1663603bc/LAND_16_9?proposition=NBCUOTT&language=eng&version=d7231166-8b53-5949-b29c-2909a64e038f&territory=US",[08/10 03:00 AM] Home Feed: TB at SEA
+#EXTINF:-1 tvg-id="fb45aab4-849c-3d25-a8a4-45270126268d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b51de1b0-736b-11f1-bd1c-674333876086/LAND_16_9?proposition=NBCUOTT&language=eng&version=75036fc5-4566-535b-bcb8-c45b070af7d3&territory=US",[08/10 03:00 AM WIB] Away Feed: TB at SEA
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="fb45aab4-849c-3d25-a8a4-45270126268d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b51de1b0-736b-11f1-bd1c-674333876086/LAND_16_9?proposition=NBCUOTT&language=eng&version=75036fc5-4566-535b-bcb8-c45b070af7d3&territory=US",[08/10 03:00 AM] Away Feed: TB at SEA
+#EXTINF:-1 tvg-id="3dcb07d9-d239-3ecf-8877-d9a213db7c94" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/009d898e-8b80-11f1-b6db-4f10389040d8/LAND_16_9?proposition=NBCUOTT&language=eng&version=176623ef-7870-549b-8cc8-88dc316a6cc5&territory=US",[08/10 05:00 AM WIB] U.S. Gymnastics Champs: Women Day 2
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="3dcb07d9-d239-3ecf-8877-d9a213db7c94" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/009d898e-8b80-11f1-b6db-4f10389040d8/LAND_16_9?proposition=NBCUOTT&language=eng&version=176623ef-7870-549b-8cc8-88dc316a6cc5&territory=US",[08/10 05:00 AM] U.S. Gymnastics Champs: Women Day 2
+#EXTINF:-1 tvg-id="acc82f13-c4f6-3acb-a385-767bc8d610e7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/392e58d4-8962-11f1-be5e-7b8fad181d7b/LAND_16_9?proposition=NBCUOTT&language=eng&version=9eb4e826-e841-5a1e-8148-204217e55a18&territory=US",[08/10 07:00 AM WIB] Astros vs. Padres (Español)
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="acc82f13-c4f6-3acb-a385-767bc8d610e7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/392e58d4-8962-11f1-be5e-7b8fad181d7b/LAND_16_9?proposition=NBCUOTT&language=eng&version=9eb4e826-e841-5a1e-8148-204217e55a18&territory=US",[08/10 07:00 AM] Astros vs. Padres (Español)
+#EXTINF:-1 tvg-id="3b798e7f-4a50-3bf7-8295-87bcd0a24cd7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/9217be2e-86e5-11f1-afb5-6f117971628f/LAND_16_9?proposition=NBCUOTT&language=eng&version=9eb4e826-e841-5a1e-8148-204217e55a18&territory=US",[08/10 07:00 AM WIB] Astros at Padres
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="3b798e7f-4a50-3bf7-8295-87bcd0a24cd7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/9217be2e-86e5-11f1-afb5-6f117971628f/LAND_16_9?proposition=NBCUOTT&language=eng&version=9eb4e826-e841-5a1e-8148-204217e55a18&territory=US",[08/10 07:00 AM] Astros at Padres
+#EXTINF:-1 tvg-id="3817ba74-082f-3446-bf1d-5d2568573c30" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/faa3c3b6-8b5e-11f1-b84d-f708a6348513/LAND_16_9?proposition=NBCUOTT&language=eng&version=4f966fad-42ba-5c42-bd98-816ac642f95b&territory=US",[08/11 07:00 AM WIB] Tempo vs. Dream
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="3817ba74-082f-3446-bf1d-5d2568573c30" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/faa3c3b6-8b5e-11f1-b84d-f708a6348513/LAND_16_9?proposition=NBCUOTT&language=eng&version=4f966fad-42ba-5c42-bd98-816ac642f95b&territory=US",[08/11 07:00 AM] Tempo vs. Dream
+#EXTINF:-1 tvg-id="43c24128-d02b-3b03-a592-0b1101ac918a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a6b790c6-798d-11f1-a245-239b3ebcbb2e/LAND_16_9?proposition=NBCUOTT&language=eng&version=1af249ad-0b94-5837-bb1a-9e8d4483fbbf&territory=US",[08/11 08:30 AM WIB] Home Feed: HOU at SF
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="43c24128-d02b-3b03-a592-0b1101ac918a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a6b790c6-798d-11f1-a245-239b3ebcbb2e/LAND_16_9?proposition=NBCUOTT&language=eng&version=1af249ad-0b94-5837-bb1a-9e8d4483fbbf&territory=US",[08/11 08:30 AM] Home Feed: HOU at SF
+#EXTINF:-1 tvg-id="3095713c-f1f7-38de-800c-48e3ea589f56" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/10ab1158-736a-11f1-bbc4-8b77a21f102b/LAND_16_9?proposition=NBCUOTT&language=eng&version=0899f987-1aec-5356-b342-b4cc8af1bf71&territory=US",[08/11 08:30 AM WIB] Away Feed: HOU at SF
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="3095713c-f1f7-38de-800c-48e3ea589f56" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/10ab1158-736a-11f1-bbc4-8b77a21f102b/LAND_16_9?proposition=NBCUOTT&language=eng&version=0899f987-1aec-5356-b342-b4cc8af1bf71&territory=US",[08/11 08:30 AM] Away Feed: HOU at SF
+#EXTINF:-1 tvg-id="fa541b96-ca85-326f-bbe7-64daa43d0ac3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/609a837c-50ad-11f1-bde9-3be294192327/LAND_16_9?proposition=NBCUOTT&language=eng&version=8d3f7961-6eea-5ff1-81e2-1c8d9220e340&territory=US",[08/12 08:30 AM WIB] Home Feed: MIL at SD
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="fa541b96-ca85-326f-bbe7-64daa43d0ac3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/609a837c-50ad-11f1-bde9-3be294192327/LAND_16_9?proposition=NBCUOTT&language=eng&version=8d3f7961-6eea-5ff1-81e2-1c8d9220e340&territory=US",[08/12 08:30 AM] Home Feed: MIL at SD
+#EXTINF:-1 tvg-id="5973e9d7-9b23-3cc1-b173-886cb205827a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/82f0913e-734c-11f1-b1d9-5f95b603b913/LAND_16_9?proposition=NBCUOTT&language=eng&version=7998c359-3f96-5e59-b8c4-769a32361914&territory=US",[08/12 08:30 AM WIB] Away Feed: MIL at SD
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="5973e9d7-9b23-3cc1-b173-886cb205827a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/82f0913e-734c-11f1-b1d9-5f95b603b913/LAND_16_9?proposition=NBCUOTT&language=eng&version=7998c359-3f96-5e59-b8c4-769a32361914&territory=US",[08/12 08:30 AM] Away Feed: MIL at SD
+#EXTINF:-1 tvg-id="f97aa5f5-f95f-3bb7-a049-a89eb0507ce0" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ca18cd32-86c6-11f1-bbdc-172b87f431b3/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/13 12:00 AM WIB] Pan Pacific Champs: Prelims Day 1
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="f97aa5f5-f95f-3bb7-a049-a89eb0507ce0" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ca18cd32-86c6-11f1-bbdc-172b87f431b3/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/13 12:00 AM] Pan Pacific Champs: Prelims Day 1
+#EXTINF:-1 tvg-id="a3e5b269-e036-33b8-a596-31defcb877e9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/12ac3922-6452-11f1-b077-873448b40f06/LAND_16_9?proposition=NBCUOTT&language=eng&version=ae3909d7-95a3-510c-aaba-9cd643cd7024&territory=US",[08/13 12:30 AM WIB] Home Feed: BAL at MIN
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="a3e5b269-e036-33b8-a596-31defcb877e9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/12ac3922-6452-11f1-b077-873448b40f06/LAND_16_9?proposition=NBCUOTT&language=eng&version=ae3909d7-95a3-510c-aaba-9cd643cd7024&territory=US",[08/13 12:30 AM] Home Feed: BAL at MIN
+#EXTINF:-1 tvg-id="1667e6a8-01bf-3ed0-9dc6-3dc35141a760" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/22133860-5aa3-11f1-98f9-5fd2b680a95f/LAND_16_9?proposition=NBCUOTT&language=eng&version=6f8fb44a-6c4c-5629-a016-aa0042c3a131&territory=US",[08/13 12:30 AM WIB] Away Feed: BAL at MIN
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="1667e6a8-01bf-3ed0-9dc6-3dc35141a760" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/22133860-5aa3-11f1-98f9-5fd2b680a95f/LAND_16_9?proposition=NBCUOTT&language=eng&version=6f8fb44a-6c4c-5629-a016-aa0042c3a131&territory=US",[08/13 12:30 AM] Away Feed: BAL at MIN
+#EXTINF:-1 tvg-id="17c1bc97-6c57-3260-b59a-ac05abf413f4" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/13 02:00 AM WIB] U.S. Amateur: Rd. of 64
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="17c1bc97-6c57-3260-b59a-ac05abf413f4" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/13 02:00 AM] U.S. Amateur: Rd. of 64
+#EXTINF:-1 tvg-id="53678409-43db-339b-a79b-bf792c1e20bb" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c899a3d2-86c6-11f1-b7f3-e311ca7a5ae8/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/13 09:00 AM WIB] Pan Pacific Champs: Finals Day 1
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="53678409-43db-339b-a79b-bf792c1e20bb" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c899a3d2-86c6-11f1-b7f3-e311ca7a5ae8/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/13 09:00 AM] Pan Pacific Champs: Finals Day 1
+#EXTINF:-1 tvg-id="9c3ced22-cdbb-3fcf-bc5c-f7bf383408de" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ca18cd32-86c6-11f1-bbdc-172b87f431b3/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/14 12:00 AM WIB] Pan Pacific Champs: Prelims Day 2
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="9c3ced22-cdbb-3fcf-bc5c-f7bf383408de" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ca18cd32-86c6-11f1-bbdc-172b87f431b3/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/14 12:00 AM] Pan Pacific Champs: Prelims Day 2
+#EXTINF:-1 tvg-id="c63c3385-3ab0-314b-89c7-4e0af4a5121f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/5619e6be-6826-11f1-a806-67511e22d895/LAND_16_9?proposition=NBCUOTT&language=eng&version=22c1d428-e62c-5976-8f92-29ca78feeb16&territory=US",[08/14 01:00 AM WIB] Away Feed: CIN at CWS
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="c63c3385-3ab0-314b-89c7-4e0af4a5121f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/5619e6be-6826-11f1-a806-67511e22d895/LAND_16_9?proposition=NBCUOTT&language=eng&version=22c1d428-e62c-5976-8f92-29ca78feeb16&territory=US",[08/14 01:00 AM] Away Feed: CIN at CWS
+#EXTINF:-1 tvg-id="18dc4105-92d8-3209-b8f5-8b38b79531bd" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a36ab7e4-8ea1-11f1-acf7-e72bdd01fd45/LAND_16_9?proposition=NBCUOTT&language=eng&version=9e384366-41c8-5436-ac9c-d6982a9f5e0e&territory=US",[08/14 01:00 AM WIB] Home Feed: CIN at CWS
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="18dc4105-92d8-3209-b8f5-8b38b79531bd" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a36ab7e4-8ea1-11f1-acf7-e72bdd01fd45/LAND_16_9?proposition=NBCUOTT&language=eng&version=9e384366-41c8-5436-ac9c-d6982a9f5e0e&territory=US",[08/14 01:00 AM] Home Feed: CIN at CWS
+#EXTINF:-1 tvg-id="2b67fbe1-f69e-32ae-8f8d-bf71b364181d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/14 02:00 AM WIB] U.S. Amateur: Rd. of 16
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="2b67fbe1-f69e-32ae-8f8d-bf71b364181d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/14 02:00 AM] U.S. Amateur: Rd. of 16
+#EXTINF:-1 tvg-id="undefined" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7ac3ef76-928f-11f1-ac9d-efdc7cdef1fd/LAND_16_9?proposition=NBCUOTT&language=eng&version=3c6f292b-17c2-59f7-a3b5-dd20c4bfa900&territory=US",[08/14 06:00 AM WIB] NFL GameCenter Live
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="undefined" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7ac3ef76-928f-11f1-ac9d-efdc7cdef1fd/LAND_16_9?proposition=NBCUOTT&language=eng&version=3c6f292b-17c2-59f7-a3b5-dd20c4bfa900&territory=US",[08/14 06:00 AM] NFL GameCenter Live
+#EXTINF:-1 tvg-id="23cf925a-8f4f-3cc1-b063-97013c0015f9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ed815b1e-7d74-11f1-9de6-7ba57e5a3fb7/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/14 09:00 AM WIB] Pan Pacific Champs: Finals Day 2
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="23cf925a-8f4f-3cc1-b063-97013c0015f9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ed815b1e-7d74-11f1-9de6-7ba57e5a3fb7/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/14 09:00 AM] Pan Pacific Champs: Finals Day 2
+#EXTINF:-1 tvg-id="10eaaf0f-6e5d-3382-9b89-811c871757c0" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7590b19c-86c8-11f1-9ad2-27909fc7f584/LAND_16_9?proposition=NBCUOTT&language=eng&version=05f45be6-631e-5809-8d66-9daa95647956&territory=US",[08/14 09:00 PM WIB] Individuals All-Around Final
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="10eaaf0f-6e5d-3382-9b89-811c871757c0" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7590b19c-86c8-11f1-9ad2-27909fc7f584/LAND_16_9?proposition=NBCUOTT&language=eng&version=05f45be6-631e-5809-8d66-9daa95647956&territory=US",[08/14 09:00 PM] Individuals All-Around Final
+#EXTINF:-1 tvg-id="0877c6f7-e59a-30d8-ace5-eaf4347264ff" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ca18cd32-86c6-11f1-bbdc-172b87f431b3/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/15 12:00 AM WIB] Pan Pacific Champs: Prelims Day 3
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="0877c6f7-e59a-30d8-ace5-eaf4347264ff" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ca18cd32-86c6-11f1-bbdc-172b87f431b3/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/15 12:00 AM] Pan Pacific Champs: Prelims Day 3
+#EXTINF:-1 tvg-id="a508d7ad-5994-3614-901b-321fa339830a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/15 02:00 AM WIB] U.S. Amateur: QFs
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="a508d7ad-5994-3614-901b-321fa339830a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/15 02:00 AM] U.S. Amateur: QFs
+#EXTINF:-1 tvg-id="6ccd1edb-3707-3935-be88-2a28feda64a8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/27d58468-5c3f-11f1-9967-2b39b1b17ed7/LAND_16_9?proposition=NBCUOTT&language=eng&version=ecc9ebef-e597-5abf-ac68-519c9559641d&territory=US",[08/15 06:00 AM WIB] Home Feed: AZ at ATL
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="6ccd1edb-3707-3935-be88-2a28feda64a8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/27d58468-5c3f-11f1-9967-2b39b1b17ed7/LAND_16_9?proposition=NBCUOTT&language=eng&version=ecc9ebef-e597-5abf-ac68-519c9559641d&territory=US",[08/15 06:00 AM] Home Feed: AZ at ATL
+#EXTINF:-1 tvg-id="87639661-6e2d-319c-ad32-99f3b28473d6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/73961492-7352-11f1-ba72-a71fb065ce6d/LAND_16_9?proposition=NBCUOTT&language=eng&version=0850cc45-b665-59c7-8caa-e4ccee775f74&territory=US",[08/15 06:00 AM WIB] Away Feed: AZ at ATL
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="87639661-6e2d-319c-ad32-99f3b28473d6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/73961492-7352-11f1-ba72-a71fb065ce6d/LAND_16_9?proposition=NBCUOTT&language=eng&version=0850cc45-b665-59c7-8caa-e4ccee775f74&territory=US",[08/15 06:00 AM] Away Feed: AZ at ATL
+#EXTINF:-1 tvg-id="40d934f6-3aae-3c8d-917a-bd33e9943591" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a5c53fa4-736d-11f1-a34d-ff0501176e6c/LAND_16_9?proposition=NBCUOTT&language=eng&version=112a1b8d-1906-5dd7-8e93-d5054291e459&territory=US",[08/15 08:30 AM WIB] Home Feed: TEX at ATH
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="40d934f6-3aae-3c8d-917a-bd33e9943591" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/a5c53fa4-736d-11f1-a34d-ff0501176e6c/LAND_16_9?proposition=NBCUOTT&language=eng&version=112a1b8d-1906-5dd7-8e93-d5054291e459&territory=US",[08/15 08:30 AM] Home Feed: TEX at ATH
+#EXTINF:-1 tvg-id="72d34165-4858-33b5-97d2-0fb671c503d1" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e413c7c6-8ea2-11f1-b9e5-1b7e623e59df/LAND_16_9?proposition=NBCUOTT&language=eng&version=5c14d35e-857f-5473-9970-df58fb138274&territory=US",[08/15 08:30 AM WIB] Away Feed: TEX at ATH
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="72d34165-4858-33b5-97d2-0fb671c503d1" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e413c7c6-8ea2-11f1-b9e5-1b7e623e59df/LAND_16_9?proposition=NBCUOTT&language=eng&version=5c14d35e-857f-5473-9970-df58fb138274&territory=US",[08/15 08:30 AM] Away Feed: TEX at ATH
+#EXTINF:-1 tvg-id="84858c17-16b6-3423-878c-da6db43893df" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c899a3d2-86c6-11f1-b7f3-e311ca7a5ae8/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/15 09:00 AM WIB] Pan Pacific Champs: Finals Day 3
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="84858c17-16b6-3423-878c-da6db43893df" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c899a3d2-86c6-11f1-b7f3-e311ca7a5ae8/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/15 09:00 AM] Pan Pacific Champs: Finals Day 3
+#EXTINF:-1 tvg-id="2f965256-a64c-3649-8524-6585f4a77c17" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7590b19c-86c8-11f1-9ad2-27909fc7f584/LAND_16_9?proposition=NBCUOTT&language=eng&version=05f45be6-631e-5809-8d66-9daa95647956&territory=US",[08/15 04:00 PM WIB] Groups All-Around Final
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="2f965256-a64c-3649-8524-6585f4a77c17" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7590b19c-86c8-11f1-9ad2-27909fc7f584/LAND_16_9?proposition=NBCUOTT&language=eng&version=05f45be6-631e-5809-8d66-9daa95647956&territory=US",[08/15 04:00 PM] Groups All-Around Final
+#EXTINF:-1 tvg-id="439fed13-2320-338f-bbca-56a87d1c7084" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/80383ebe-ee69-11f0-baa7-e37a9cdb93cb/LAND_16_9?proposition=NBCUOTT&language=eng&version=7714023f-2750-5948-8905-c834724de5d0&territory=US",[08/15 09:00 PM WIB] Race Day Live: Unadilla
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="439fed13-2320-338f-bbca-56a87d1c7084" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/80383ebe-ee69-11f0-baa7-e37a9cdb93cb/LAND_16_9?proposition=NBCUOTT&language=eng&version=7714023f-2750-5948-8905-c834724de5d0&territory=US",[08/15 09:00 PM] Race Day Live: Unadilla
+#EXTINF:-1 tvg-id="7fb2ad2b-d103-3ee0-99fa-c89b232f4a43" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/80383ebe-ee69-11f0-baa7-e37a9cdb93cb/LAND_16_9?proposition=NBCUOTT&language=eng&version=7714023f-2750-5948-8905-c834724de5d0&territory=US",[08/16 12:00 AM WIB] Motocross Rd. 26: Unadilla
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="7fb2ad2b-d103-3ee0-99fa-c89b232f4a43" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/80383ebe-ee69-11f0-baa7-e37a9cdb93cb/LAND_16_9?proposition=NBCUOTT&language=eng&version=7714023f-2750-5948-8905-c834724de5d0&territory=US",[08/16 12:00 AM] Motocross Rd. 26: Unadilla
+#EXTINF:-1 tvg-id="2e9ebba3-e17a-39a9-af18-0ee4f72e9413" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ed7319fa-7d74-11f1-ad79-0b7fabf86a6d/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/16 12:00 AM WIB] Pan Pacific Champs: Prelims Day 4
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="2e9ebba3-e17a-39a9-af18-0ee4f72e9413" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ed7319fa-7d74-11f1-ad79-0b7fabf86a6d/LAND_16_9?proposition=NBCUOTT&language=eng&version=704f76a7-7fad-5e75-9629-ecad43acee92&territory=US",[08/16 12:00 AM] Pan Pacific Champs: Prelims Day 4
+#EXTINF:-1 tvg-id="b347a57f-267c-37a1-85a5-0f19743de52a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/16 02:00 AM WIB] U.S. Amateur: SFs
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="b347a57f-267c-37a1-85a5-0f19743de52a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/16 02:00 AM] U.S. Amateur: SFs
+#EXTINF:-1 tvg-id="3b93794a-c8c8-390e-aeaf-70b3a76d61c5" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/6618b58a-cf07-11f0-ba68-dfe996a90269/LAND_16_9?proposition=NBCUOTT&language=eng&version=2b279b11-e1d4-5c8e-9138-7e5ba02423ab&territory=US",[08/16 06:00 AM WIB] Power FC v. Ascent FC
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="3b93794a-c8c8-390e-aeaf-70b3a76d61c5" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/6618b58a-cf07-11f0-ba68-dfe996a90269/LAND_16_9?proposition=NBCUOTT&language=eng&version=2b279b11-e1d4-5c8e-9138-7e5ba02423ab&territory=US",[08/16 06:00 AM] Power FC v. Ascent FC
+#EXTINF:-1 tvg-id="da225d31-174e-32a5-9b46-e89e459953bf" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c66bd56a-27d7-11f1-8fce-7f3d95581214/LAND_16_9?proposition=NBCUOTT&language=eng&version=29f55e2c-4365-570a-96ae-acb73eb5b5ee&territory=US",[08/16 06:00 AM WIB] Lexington SC v. Brooklyn FC
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="da225d31-174e-32a5-9b46-e89e459953bf" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c66bd56a-27d7-11f1-8fce-7f3d95581214/LAND_16_9?proposition=NBCUOTT&language=eng&version=29f55e2c-4365-570a-96ae-acb73eb5b5ee&territory=US",[08/16 06:00 AM] Lexington SC v. Brooklyn FC
+#EXTINF:-1 tvg-id="2a4f2dcf-1125-3222-b745-1880c6f2864f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/1e60b186-86ca-11f1-b6a6-9781da49c1ce/LAND_16_9?proposition=NBCUOTT&language=eng&version=29f55e2c-4365-570a-96ae-acb73eb5b5ee&territory=US",[08/16 06:30 AM WIB] FTL United v. Sporting JAX
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="2a4f2dcf-1125-3222-b745-1880c6f2864f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/1e60b186-86ca-11f1-b6a6-9781da49c1ce/LAND_16_9?proposition=NBCUOTT&language=eng&version=29f55e2c-4365-570a-96ae-acb73eb5b5ee&territory=US",[08/16 06:30 AM] FTL United v. Sporting JAX
+#EXTINF:-1 tvg-id="ca62db21-4105-3a86-a36e-1321414718d3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/1e60b186-86ca-11f1-b6a6-9781da49c1ce/LAND_16_9?proposition=NBCUOTT&language=eng&version=29f55e2c-4365-570a-96ae-acb73eb5b5ee&territory=US",[08/16 07:30 AM WIB] Trinity FC v. Sun FC
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="ca62db21-4105-3a86-a36e-1321414718d3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/1e60b186-86ca-11f1-b6a6-9781da49c1ce/LAND_16_9?proposition=NBCUOTT&language=eng&version=29f55e2c-4365-570a-96ae-acb73eb5b5ee&territory=US",[08/16 07:30 AM] Trinity FC v. Sun FC
+#EXTINF:-1 tvg-id="1faf8912-afa2-3570-a714-4670b501440f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/3a44546c-8ea3-11f1-bacf-4f2f73623273/LAND_16_9?proposition=NBCUOTT&language=eng&version=6964521c-6add-5e13-87ec-c83af51f6063&territory=US",[08/16 08:30 AM WIB] Home Feed: KC at LAA
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="1faf8912-afa2-3570-a714-4670b501440f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/3a44546c-8ea3-11f1-bacf-4f2f73623273/LAND_16_9?proposition=NBCUOTT&language=eng&version=6964521c-6add-5e13-87ec-c83af51f6063&territory=US",[08/16 08:30 AM] Home Feed: KC at LAA
+#EXTINF:-1 tvg-id="c266ec43-84a3-381d-882c-1f654ac33d96" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/42af3b28-734e-11f1-b9da-9ba503eb0a6f/LAND_16_9?proposition=NBCUOTT&language=eng&version=8a298f8c-f69b-5f0e-96bb-66fe739d8cf3&territory=US",[08/16 08:30 AM WIB] Away Feed: KC at LAA
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="c266ec43-84a3-381d-882c-1f654ac33d96" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/42af3b28-734e-11f1-b9da-9ba503eb0a6f/LAND_16_9?proposition=NBCUOTT&language=eng&version=8a298f8c-f69b-5f0e-96bb-66fe739d8cf3&territory=US",[08/16 08:30 AM] Away Feed: KC at LAA
+#EXTINF:-1 tvg-id="8fc4cfe8-3f6a-3d22-bdbf-a0a4544ed919" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ed815b1e-7d74-11f1-9de6-7ba57e5a3fb7/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/16 09:00 AM WIB] Pan Pacific Champs: Finals Day 4
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="8fc4cfe8-3f6a-3d22-bdbf-a0a4544ed919" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/ed815b1e-7d74-11f1-9de6-7ba57e5a3fb7/LAND_16_9?proposition=NBCUOTT&language=eng&version=bb0d6370-056a-5ea9-8533-644903d96bc9&territory=US",[08/16 09:00 AM] Pan Pacific Champs: Finals Day 4
+#EXTINF:-1 tvg-id="1dd62241-b1f2-36a7-bed7-c232eee6d40c" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7590b19c-86c8-11f1-9ad2-27909fc7f584/LAND_16_9?proposition=NBCUOTT&language=eng&version=05f45be6-631e-5809-8d66-9daa95647956&territory=US",[08/16 04:00 PM WIB] Apparatus Finals
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="1dd62241-b1f2-36a7-bed7-c232eee6d40c" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7590b19c-86c8-11f1-9ad2-27909fc7f584/LAND_16_9?proposition=NBCUOTT&language=eng&version=05f45be6-631e-5809-8d66-9daa95647956&territory=US",[08/16 04:00 PM] Apparatus Finals
+#EXTINF:-1 tvg-id="c5132ea7-934b-3620-8397-e621d0eeb705" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7dbd02b0-9269-11f1-bca8-8fe7a109cc6e/LAND_16_9?proposition=NBCUOTT&language=eng&version=eefe3ad3-96e2-5a5e-9b5e-903f52a21649&territory=US",[08/16 11:00 PM WIB] Orioles at Rays
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="c5132ea7-934b-3620-8397-e621d0eeb705" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7dbd02b0-9269-11f1-bca8-8fe7a109cc6e/LAND_16_9?proposition=NBCUOTT&language=eng&version=eefe3ad3-96e2-5a5e-9b5e-903f52a21649&territory=US",[08/16 11:00 PM] Orioles at Rays
+#EXTINF:-1 tvg-id="64fb75c2-80c8-3cd1-924e-812e95d21b22" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/fe483a68-848a-11f1-9a38-2bec723f2a7d/LAND_16_9?proposition=NBCUOTT&language=eng&version=32a6811b-71d3-5a4e-ae3f-226f5b77d521&territory=US",[08/17 12:30 AM WIB] Away Feed: BOS at PIT
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="64fb75c2-80c8-3cd1-924e-812e95d21b22" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/fe483a68-848a-11f1-9a38-2bec723f2a7d/LAND_16_9?proposition=NBCUOTT&language=eng&version=32a6811b-71d3-5a4e-ae3f-226f5b77d521&territory=US",[08/17 12:30 AM] Away Feed: BOS at PIT
+#EXTINF:-1 tvg-id="01dc33de-54b1-38ca-a27d-666c7475504b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/9ffeaefa-901b-11f1-b479-03292dc2c94b/LAND_16_9?proposition=NBCUOTT&language=eng&version=82f18d46-8f11-5860-9c88-416b8a454e58&territory=US",[08/17 12:30 AM WIB] Home Feed: BOS at PIT
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="01dc33de-54b1-38ca-a27d-666c7475504b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/9ffeaefa-901b-11f1-b479-03292dc2c94b/LAND_16_9?proposition=NBCUOTT&language=eng&version=82f18d46-8f11-5860-9c88-416b8a454e58&territory=US",[08/17 12:30 AM] Home Feed: BOS at PIT
+#EXTINF:-1 tvg-id="bb443e08-dd40-3347-a519-a9a29dca0454" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/516da236-66a5-11f1-a518-c3ed65d37c41/LAND_16_9?proposition=NBCUOTT&language=eng&version=13e18a63-539b-50d8-a695-08d3fa0445fb&territory=US",[08/17 01:30 AM WIB] MLB Sunday Stretch: 8.16.26
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="bb443e08-dd40-3347-a519-a9a29dca0454" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/516da236-66a5-11f1-a518-c3ed65d37c41/LAND_16_9?proposition=NBCUOTT&language=eng&version=13e18a63-539b-50d8-a695-08d3fa0445fb&territory=US",[08/17 01:30 AM] MLB Sunday Stretch: 8.16.26
+#EXTINF:-1 tvg-id="f6de2e4b-60b5-3e39-95cd-ec740bcc5f6b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/17 02:00 AM WIB] U.S. Amateur: Championship
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="f6de2e4b-60b5-3e39-95cd-ec740bcc5f6b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/dd4e3368-8dbc-11f1-a76b-338ad1b2a924/LAND_16_9?proposition=NBCUOTT&language=eng&version=2649389f-b01b-5258-9e88-2eb74e51f3c3&territory=US",[08/17 02:00 AM] U.S. Amateur: Championship
+#EXTINF:-1 tvg-id="21a8d07a-973e-350f-8080-a2d3eb375a40" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7dbc2f84-9269-11f1-a808-bb4f344f929a/LAND_16_9?proposition=NBCUOTT&language=eng&version=cd15aecc-1450-57bc-9857-b8de38586ddf&territory=US",[08/17 06:00 AM WIB] Mariners vs. Astros (Español)
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="21a8d07a-973e-350f-8080-a2d3eb375a40" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7dbc2f84-9269-11f1-a808-bb4f344f929a/LAND_16_9?proposition=NBCUOTT&language=eng&version=cd15aecc-1450-57bc-9857-b8de38586ddf&territory=US",[08/17 06:00 AM] Mariners vs. Astros (Español)
+#EXTINF:-1 tvg-id="b14529ba-6525-3a56-8ceb-f44c3d77f40d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7dbc2f84-9269-11f1-a808-bb4f344f929a/LAND_16_9?proposition=NBCUOTT&language=eng&version=cd15aecc-1450-57bc-9857-b8de38586ddf&territory=US",[08/17 06:00 AM WIB] Mariners at Astros
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="b14529ba-6525-3a56-8ceb-f44c3d77f40d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7dbc2f84-9269-11f1-a808-bb4f344f929a/LAND_16_9?proposition=NBCUOTT&language=eng&version=cd15aecc-1450-57bc-9857-b8de38586ddf&territory=US",[08/17 06:00 AM] Mariners at Astros
+#EXTINF:-1 tvg-id="b4e7a56f-4368-3951-92cf-40e8e7fd1d3e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c5e0e3f6-40c3-11f1-9d49-e3d0da931aac/LAND_16_9?proposition=NBCUOTT&language=eng&version=bde61c39-dfe5-5328-8678-d26733d7b1c6&territory=US",[08/18 09:00 AM WIB] Wings vs. Valkyries
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="b4e7a56f-4368-3951-92cf-40e8e7fd1d3e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c5e0e3f6-40c3-11f1-9d49-e3d0da931aac/LAND_16_9?proposition=NBCUOTT&language=eng&version=bde61c39-dfe5-5328-8678-d26733d7b1c6&territory=US",[08/18 09:00 AM] Wings vs. Valkyries
+#EXTINF:-1 tvg-id="9e09df4d-1050-3817-86d8-297c3a9337bc" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b55c14fc-91a3-11f1-b4f2-ebaba638092d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b6cca63a-531a-59c2-b328-5a1dc1f3c3dd&territory=US",[08/19 05:30 AM WIB] Away Feed: NYY at BAL
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="9e09df4d-1050-3817-86d8-297c3a9337bc" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b55c14fc-91a3-11f1-b4f2-ebaba638092d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b6cca63a-531a-59c2-b328-5a1dc1f3c3dd&territory=US",[08/19 05:30 AM] Away Feed: NYY at BAL
+#EXTINF:-1 tvg-id="f7651fb6-776c-3bef-8eea-ee763a9ba7c6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b55e5294-91a3-11f1-9893-f31317a93f6f/LAND_16_9?proposition=NBCUOTT&language=eng&version=14d06be8-e667-5d31-91e8-5248c50c01d5&territory=US",[08/19 05:30 AM WIB] Home Feed: NYY at BAL
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="f7651fb6-776c-3bef-8eea-ee763a9ba7c6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b55e5294-91a3-11f1-9893-f31317a93f6f/LAND_16_9?proposition=NBCUOTT&language=eng&version=14d06be8-e667-5d31-91e8-5248c50c01d5&territory=US",[08/19 05:30 AM] Home Feed: NYY at BAL
+#EXTINF:-1 tvg-id="2b1b5c5a-654e-346b-9519-3bda953e36e1" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/2b1b5c5a-654e-346b-9519-3bda953e36e1/LAND_16_9?language=eng&proposition=NBCUOTT&version=8edf60ad-4ce1-339d-814a-f10f5eb61d15",[08/20 01:00 AM WIB] Away Feed: CWS at CHC
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="2b1b5c5a-654e-346b-9519-3bda953e36e1" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/2b1b5c5a-654e-346b-9519-3bda953e36e1/LAND_16_9?language=eng&proposition=NBCUOTT&version=8edf60ad-4ce1-339d-814a-f10f5eb61d15",[08/20 01:00 AM] Away Feed: CWS at CHC
+#EXTINF:-1 tvg-id="eae5a107-d877-3de9-a7bd-3947a01d9d80" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/eae5a107-d877-3de9-a7bd-3947a01d9d80/LAND_16_9?language=eng&proposition=NBCUOTT&version=8edf60ad-4ce1-339d-814a-f10f5eb61d15",[08/20 01:00 AM WIB] Home Feed: CWS at CHC
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="eae5a107-d877-3de9-a7bd-3947a01d9d80" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/eae5a107-d877-3de9-a7bd-3947a01d9d80/LAND_16_9?language=eng&proposition=NBCUOTT&version=8edf60ad-4ce1-339d-814a-f10f5eb61d15",[08/20 01:00 AM] Home Feed: CWS at CHC
+#EXTINF:-1 tvg-id="e213b3ae-a53b-392b-b501-a03f54b638b6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/e213b3ae-a53b-392b-b501-a03f54b638b6/LAND_16_9?language=eng&proposition=NBCUOTT&version=bf27de56-ae72-386f-a569-024c7a26334d",[08/21 12:00 AM WIB] Away Feed: TOR at TB
 https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="e213b3ae-a53b-392b-b501-a03f54b638b6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/e213b3ae-a53b-392b-b501-a03f54b638b6/LAND_16_9?language=eng&proposition=NBCUOTT&version=bf27de56-ae72-386f-a569-024c7a26334d",[08/21 12:00 AM] Away Feed: TOR at TB
-https://stream.xyzstreams.st/dummy_upcoming.mp4
-#EXTINF:-1 tvg-id="6f2bb33c-cf00-3a41-b177-689f3dbf7883" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/6f2bb33c-cf00-3a41-b177-689f3dbf7883/LAND_16_9?language=eng&proposition=NBCUOTT&version=bf27de56-ae72-386f-a569-024c7a26334d",[08/21 12:00 AM] Home Feed: TOR at TB
+#EXTINF:-1 tvg-id="6f2bb33c-cf00-3a41-b177-689f3dbf7883" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/6f2bb33c-cf00-3a41-b177-689f3dbf7883/LAND_16_9?language=eng&proposition=NBCUOTT&version=bf27de56-ae72-386f-a569-024c7a26334d",[08/21 12:00 AM WIB] Home Feed: TOR at TB
 https://stream.xyzstreams.st/dummy_upcoming.mp4
 #EXTINF:-1 tvg-id="8782376954583476117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8782376954583476117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",REELZ
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc136p5w66)/master_2hr.mpd?ck=00207278b6ffcd0509d22d9cc88b0dbc:bfc50c28b15c2820b80e68a49ff26976
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc136p5w66)/master_2hr.mpd?ck=00207278b6ffcd0509d22d9cc88b0dbc:bfc50c28b15c2820b80e68a49ff26976
 #EXTINF:-1 tvg-id="7509458937090982117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7509458937090982117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",Dateline 24/7
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc112xzr75)/master_2hr.mpd?ck=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc112xzr75)/master_2hr.mpd?ck=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
 #EXTINF:-1 tvg-id="8969135442586836117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8969135442586836117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Tennis Channel 2
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc131pdfws)/master_2hr.mpd?ck=0020d10aba3145cad8a3adf17d7ee0dd:4587d1867fbc00377cd7d7d8f6d74f04
-#EXTINF:-1 tvg-id="5007927101325486117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5007927101325486117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",ION
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc146ks95h)/master_2hr.mpd?ck=00200f2b0447b547fb1b0c6dceced368:cc6abaf977ee3b57af47c0b827c46252
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc131pdfws)/master_2hr.mpd?ck=0020d10aba3145cad8a3adf17d7ee0dd:4587d1867fbc00377cd7d7d8f6d74f04
 #EXTINF:-1 tvg-id="7803029382987033117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7803029382987033117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",ION Mystery
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc147hd3uf)/master_2hr.mpd?ck=0020d9302eaa7da37cafdf012333fff5:e7cd35e9714b11b4adea43a9afb81a7e
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc147hd3uf)/master_2hr.mpd?ck=0020d9302eaa7da37cafdf012333fff5:e7cd35e9714b11b4adea43a9afb81a7e
+#EXTINF:-1 tvg-id="5007927101325486117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5007927101325486117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",ION
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc146ks95h)/master_2hr.mpd?ck=00200f2b0447b547fb1b0c6dceced368:cc6abaf977ee3b57af47c0b827c46252
 #EXTINF:-1 tvg-id="8856079200163117117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8856079200163117117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Court TV
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc149im9bk)/master_2hr.mpd?ck=00203dc06bcc0b6e1e69f8a8ca14f3c2:ba4e45fca94a9395e04a3d9db8730776
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc149im9bk)/master_2hr.mpd?ck=00203dc06bcc0b6e1e69f8a8ca14f3c2:ba4e45fca94a9395e04a3d9db8730776
 #EXTINF:-1 tvg-id="6409173011308280117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6409173011308280117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Law & Crime Network
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1349acq4)/master_2hr.mpd?ck=00208908ec8a9e825da84e452eeaf5c5:6e08fee4b73c0ba921a5a48616b03992
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1349acq4)/master_2hr.mpd?ck=00208908ec8a9e825da84e452eeaf5c5:6e08fee4b73c0ba921a5a48616b03992
 #EXTINF:-1 tvg-id="5711683224903471117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5711683224903471117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Court TV: Legendary Trials
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc150k2ych)/master_2hr.mpd?ck=00206e511cc5640ba7b12676ee4d81df:8b17ddba7ba80ee5081e1e73ebc96644
+#EXTINF:-1 tvg-id="7244983175911346117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7244983175911346117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",The Conners
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc152h8ksp)/master_2min.mpd?ck=00208baa7eb7c6bfea07a115af57ea3b:dc40d629285eb95caa5dbc8ea02fa8ba
 #EXTINF:-1 tvg-id="7060063940475196117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7060063940475196117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",That 70s Show
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/out/v1/pck-linear/that70sshow/CMAF_CTR-4s-v2/master-2hr.mpd?ck=3012d7c8e1373e7b584717257e9ffec7:d2498f9c2f5aba478ed43abedfdc01a5
-#EXTINF:-1 tvg-id="7244983175911346117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7244983175911346117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",The Conners
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc152h8ksp)/master_2min.mpd?ck=00208baa7eb7c6bfea07a115af57ea3b:dc40d629285eb95caa5dbc8ea02fa8ba
 #EXTINF:-1 tvg-id="4675071094681910117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4675071094681910117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",SNL Vault
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/out/v1/pck-linear/snlvault/CMAF_CTR-4s-v2/master-2hr.mpd?ck=301227879c756a5c44f0c6227523a607:bffaea8552ee8c66e78624c6fb0aa22c
-#EXTINF:-1 tvg-id="4928977508425328117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4928977508425328117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",America's Funniest Home Videos
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc132wswht)/master_2hr.mpd?ck=002036fb2495a8bdf7fdc9a157c698b8:b5408efe0636ca2876392ee158c0fe3a
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/out/v1/pck-linear/snlvault/CMAF_CTR-4s-v2/master-2hr.mpd?ck=301227879c756a5c44f0c6227523a607:bffaea8552ee8c66e78624c6fb0aa22c
 #EXTINF:-1 tvg-id="8601608236836923117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8601608236836923117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Are We There Yet?
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc153j2vs8)/master_2min.mpd?ck=0020e0bd775088ddd7aa970f1c6adcab:f390971df5d45dbc183395926cc0b610
-#EXTINF:-1 tvg-id="4718718353051323117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4718718353051323117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",Sky News
+#EXTINF:-1 tvg-id="4928977508425328117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4928977508425328117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",America's Funniest Home Videos
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc103ow4ej)/master_2hr.mpd?ck=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
-#EXTINF:-1 tvg-id="6666006923928981117" group-title="Peacock | Movies" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",MovieSphere by Lionsgate
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd?ck=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
-#EXTINF:-1 tvg-id="5676009166762707117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5676009166762707117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",NBC NEWS NOW
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc102s5icf)/master_2hr.mpd?ck=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc132wswht)/master_2hr.mpd?ck=002036fb2495a8bdf7fdc9a157c698b8:b5408efe0636ca2876392ee158c0fe3a
 #EXTINF:-1 tvg-id="7989219137174638117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7989219137174638117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",TODAY All Day
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc120ri5pb)/master_2hr.mpd?ck=0020e4c3c187f99f1fe2b04aa1f4a822:8dd21fef13cf1ee44c86e5e0636d9d81
-#EXTINF:-1 tvg-id="6342896835112781117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6342896835112781117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NFL Channel
+#EXTINF:-1 tvg-id="6666006923928981117" group-title="Peacock | Movies" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",MovieSphere by Lionsgate
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master_2hr.mpd?ck=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd?ck=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
+#EXTINF:-1 tvg-id="4718718353051323117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4718718353051323117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",Sky News
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc103ow4ej)/master_2hr.mpd?ck=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
+#EXTINF:-1 tvg-id="5676009166762707117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5676009166762707117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",NBC NEWS NOW
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc102s5icf)/master_2hr.mpd?ck=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
+#EXTINF:-1 tvg-id="8917905534294797117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8917905534294797117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Premier League TV
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master_2hr.mpd?ck=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 tvg-id="7938226791344603117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",NBC Sports NOW
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy)/master_2hr.mpd?ck=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-#EXTINF:-1 tvg-id="8917905534294797117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8917905534294797117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Premier League TV
+#EXTINF:-1 tvg-id="7536064712744877117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7536064712744877117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Noticias Telemundo Ahora
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master_2hr.mpd?ck=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nota)/master_2hr.mpd?ck=004570d712d5141808ae40a1426cc028:2fb17ffe1065d883af708ae8949fb926
+#EXTINF:-1 tvg-id="6342896835112781117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6342896835112781117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NFL Channel
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master_2hr.mpd?ck=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 #EXTINF:-1 tvg-id="5923023667697108117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5923023667697108117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Telemundo Deportes Ahora
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master_2hr.mpd?ck=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937
-#EXTINF:-1 tvg-id="7536064712744877117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7536064712744877117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Noticias Telemundo Ahora
+#EXTINF:-1 tvg-id="9220691517603535117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9220691517603535117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Wheel of Fortune
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nota)/master_2hr.mpd?ck=004570d712d5141808ae40a1426cc028:2fb17ffe1065d883af708ae8949fb926
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc107i53gq)/master_2hr.mpd?ck=002025af807e920cd7fba2b5822e4898:501f5a8cf386873113541615ec7b8eda
+#EXTINF:-1 tvg-id="7229052664943138117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7229052664943138117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Family Feud Steve Harvey
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc130gttyz)/master_2hr.mpd?ck=00202e298388d9d93da3bbbd337ba2f0:6e1d28c8f55aeb67144b124986fce2f9
 #EXTINF:-1 tvg-id="7787958841156836117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7787958841156836117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",TEAM USA TV
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -221,19 +231,19 @@ https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_
 #EXTINF:-1 tvg-id="9061432184930959117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9061432184930959117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Jeopardy!
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc105xixpt)/master_2hr.mpd?ck=00205f33747083261233d546eb28ec57:c5e1da0d10c784bdc6bcc9beac5657ee
-#EXTINF:-1 tvg-id="9220691517603535117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9220691517603535117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Wheel of Fortune
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc107i53gq)/master_2hr.mpd?ck=002025af807e920cd7fba2b5822e4898:501f5a8cf386873113541615ec7b8eda
-#EXTINF:-1 tvg-id="7229052664943138117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7229052664943138117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Family Feud Steve Harvey
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc130gttyz)/master_2hr.mpd?ck=00202e298388d9d93da3bbbd337ba2f0:6e1d28c8f55aeb67144b124986fce2f9
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc105xixpt)/master_2hr.mpd?ck=00205f33747083261233d546eb28ec57:c5e1da0d10c784bdc6bcc9beac5657ee
 #EXTINF:-1 tvg-id="8650576850986767117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8650576850986767117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Game Show Central
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc128yu3oj)/master_2min.mpd?ck=0020459629e23e6bc4d4aba7d80f1dc4:40e43e997416300bfc994a2dc4569071
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc128yu3oj)/master_2min.mpd?ck=0020459629e23e6bc4d4aba7d80f1dc4:40e43e997416300bfc994a2dc4569071
+#EXTINF:-1 tvg-id="6486289038186294117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6486289038186294117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC LX Home
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1051jtk0)/master_2hr.mpd?ck=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
+#EXTINF:-1 tvg-id="5341575141173480117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5341575141173480117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Nosey
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc13333fsc)/master_2hr.mpd?ck=00209d759e643e8d4b0dafa5c9937eaa:88c91f003f8cd5cc6502489f9b139133
 #EXTINF:-1 tvg-id="8203332438695981117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8203332438695981117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Love Nature
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -242,14 +252,6 @@ https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/out/v1/pck-li
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1061vjor)/master_2hr.mpd?ck=0020ff1bb25785a5f99720c82dbc6115:d657d77fcf20ad2dafa7ea6dac4c578b
-#EXTINF:-1 tvg-id="6486289038186294117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6486289038186294117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC LX Home
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1051jtk0)/master_2hr.mpd?ck=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
-#EXTINF:-1 tvg-id="5341575141173480117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5341575141173480117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Nosey
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc13333fsc)/master_2hr.mpd?ck=00209d759e643e8d4b0dafa5c9937eaa:88c91f003f8cd5cc6502489f9b139133
 #EXTINF:-1 tvg-id="6902256466153034117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6902256466153034117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Top Gear
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -261,19 +263,19 @@ https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_
 #EXTINF:-1 tvg-id="8637455734117123117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8637455734117123117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Dateline en Español
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?ck=0020e0efbecaa68891706c0198ea5800:e079f78568a2f0edfd7b0940084c7f32
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?ck=0020e0efbecaa68891706c0198ea5800:e079f78568a2f0edfd7b0940084c7f32
 #EXTINF:-1 tvg-id="6550706683944612117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6550706683944612117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Telemundo Al Dia
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc127fxuqc)/master_2hr.mpd?ck=0020c328ae1c2bf1e151affe5d35150a:10b555c34cc053ade7ddf4095d2dcfd4
-#EXTINF:-1 tvg-id="8813069481487154117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8813069481487154117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC New York News
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1126fksa)/master_2hr.mpd?ck=002057c016e213dea0e08129e7210657:09bf792a01ba6f70a196b51550c8c146
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc127fxuqc)/master_2hr.mpd?ck=0020c328ae1c2bf1e151affe5d35150a:10b555c34cc053ade7ddf4095d2dcfd4
 #EXTINF:-1 tvg-id="5822253818521550117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5822253818521550117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Chicago News
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc121nd4w6)/master_2hr.mpd?ck=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc121nd4w6)/master_2hr.mpd?ck=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
+#EXTINF:-1 tvg-id="8813069481487154117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8813069481487154117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC New York News
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1126fksa)/master_2hr.mpd?ck=002057c016e213dea0e08129e7210657:09bf792a01ba6f70a196b51550c8c146
 #EXTINF:-1 tvg-id="8179193201514862117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8179193201514862117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Boston News
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -285,11 +287,11 @@ https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_
 #EXTINF:-1 tvg-id="5161969744448100117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5161969744448100117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Los Angeles News
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc116wxfpw)/master_2hr.mpd?ck=0020a5d68dee53a89a127355a14a68ce:9d68d133e940e61656b051a6ac260201
+https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc116wxfpw)/master_2hr.mpd?ck=0020a5d68dee53a89a127355a14a68ce:9d68d133e940e61656b051a6ac260201
 #EXTINF:-1 tvg-id="6979268080554005117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6979268080554005117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC South Florida News
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.xyzstreams.st/mpd/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc129a7cya)/master_2hr.mpd?ck=00205952f36ce7ca3cd62483a012be86:6144038dcddbaf105c8494ca6d9fcf28
+https://stream.xyzstreams.st/mpd/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc129a7cya)/master_2hr.mpd?ck=00205952f36ce7ca3cd62483a012be86:6144038dcddbaf105c8494ca6d9fcf28
 #EXTINF:-1 tvg-id="6295836058783513117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6295836058783513117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",News 12 New York
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
