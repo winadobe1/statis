@@ -1,0 +1,728 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/1753780453212-1750749733840-bein_sports_1_100X56.png" group-title="BEIN SPORTS ON-AIR",beIN Sports 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c8f7b516b7bb9f69832a10873f6840f:633945a03d752513ca87d5264bd7cda5
+https://apac-live.akamaized.net/ehyrzisobs/my_bein_sports_01/index.mpd?hdnts=st=1786505284~exp=1786591985~acl=/*~id=44431569~data=fp=1~hmac=59bc3b32e737f54039df1957e03c4f3cf51743aac32300831412166a0490c4b6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0&Referer=https://connect-id.beinsports.com/
+
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/1752576028271-bein_sports_2_100X56.png" group-title="BEIN SPORTS ON-AIR",beIN Sports 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17f37360f9cd4185c0e4c8b9c4847dae:fa01f9d4dc667f44f10bc1d9417519b9
+https://apac-live.akamaized.net/ehyrzisobs/myid_bein_sports_02/index.mpd?hdnts=st=1786505288~exp=1786591990~acl=/*~id=44431569~data=fp=1~hmac=97d3767bd6ac7306791eca5630c3abc475f66d37185f82fcd815fe5f3c63ba4b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0&Referer=https://connect-id.beinsports.com/
+
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_70X40.png" group-title="BEIN SPORTS ON-AIR",beIN Sports 3
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdnts=st=1786505291~exp=1786591993~acl=/*~id=44431569~data=fp=1~hmac=7fa29c8210dd72f6d5b1e63c3d9593de9489cdd9f8da3fef83d80254d0d6381d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0&Referer=https://connect-id.beinsports.com/
+
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/mutv-logo-100x56_70X40.png" group-title="BEIN SPORTS ON-AIR",MUTV
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e34d3f56de8ed573841bad6612e24e9c:5f48f3237792d40daba95d52d17db03a
+https://apac-live.akamaized.net/ehyrzisobs/mutv_bein_sports/index.mpd?hdnts=st=1786505294~exp=1786591996~acl=/*~id=44431569~data=fp=1~hmac=b939231b1403dd3715cc6615b60c6f4a193912ff7e5dd6ed1274f5312487d1aa|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0&Referer=https://connect-id.beinsports.com/
+
+#EXTINF:-1 tvg-id="LFCTV" tvg-name="LFCTV" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/1783571198041-LFC_Liver_Bird_White_16x9_100X56.png" group-title="BEIN SPORTS ON-AIR",LFCTV
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c5379a5205b524206113d0ef2bf34a7:448cb360d4ed8c10e650f41a73134b9c
+ https://apac-live.akamaized.net/ehyrzisobs/lfctv_bein_sports/index.mpd?hdnts=st=1786505297~exp=1786591999~acl=/*~id=44431569~data=fp=1~hmac=c372db8cb7e1b8acf5811cbd6b35311d16de864c899aa309c042bf7c5929f9d9|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0&Referer=https://connect-id.beinsports.com/
+
+#EXTINF:-1 tvg-id="LALIGATV" tvg-name="LALIGATV" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/llg-tv_100x56_70X40.png" group-title="BEIN SPORTS ON-AIR",LALIGATV
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0d09088bd747741938e6a56cbe27c5:beffca466b94433b26b18e40a65e4193
+https://bsc-live.akamaized.net/ehyrzisobs/laligatv_bein_sports/index.mpd?hdnts=st=1786505300~exp=1786592002~acl=/*~id=44431569~data=fp=1~hmac=d0285f3b3787f45c180e04a9a35781786aac8e6d40d2eba3a95ccd0f27f42396|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/147.0.0.0&Referer=https://connect-id.beinsports.com/
+
+#EXTINF:-1 tvg-id="Czech Tour - Stage 1" tvg-name="[13/08 20:00] : Czech Tour - Stage 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[13/08 20:00] : Czech Tour - Stage 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Arctic Race of Norway - Stage 1" tvg-name="[13/08 21:15] : Arctic Race of Norway - Stage 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[13/08 21:15] : Arctic Race of Norway - Stage 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Ivory Coast vs Ghana - PO1" tvg-name="[13/08 23:53] : Ivory Coast vs Ghana - PO1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOACW_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[13/08 23:53] : Ivory Coast vs Ghana - PO1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="South Africa vs Nigeria - PO2" tvg-name="[14/08 02:53] : South Africa vs Nigeria - PO2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOACW_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[14/08 02:53] : South Africa vs Nigeria - PO2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Arctic Race of Norway - Stage 2" tvg-name="[14/08 18:35] : Arctic Race of Norway - Stage 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[14/08 18:35] : Arctic Race of Norway - Stage 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Czech Tour - Stage 2" tvg-name="[14/08 20:30] : Czech Tour - Stage 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[14/08 20:30] : Czech Tour - Stage 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Real Sociedad B vs Castellon" tvg-name="[15/08 01:22] : Real Sociedad B vs Castellon" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 01:22] : Real Sociedad B vs Castellon
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Galatasaray vs Corum" tvg-name="[15/08 01:25] : Galatasaray vs Corum" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 01:25] : Galatasaray vs Corum
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Qualifying Race 1" tvg-name="[15/08 14:50] : Nurburgring Qualifying Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1453_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 14:50] : Nurburgring Qualifying Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Race 1" tvg-name="[15/08 16:10] : Nurburgring Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSPC_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 16:10] : Nurburgring Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Dortmund vs Roma" tvg-name="[15/08 17:55] : Dortmund vs Roma" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCF_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 17:55] : Dortmund vs Roma
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Race 1" tvg-name="[15/08 18:25] : Nurburgring Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1454_SHOW_IMAGE_AUSTRALIA_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 18:25] : Nurburgring Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Arctic Race of Norway - Stage 3" tvg-name="[15/08 19:15] : Arctic Race of Norway - Stage 3" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 19:15] : Arctic Race of Norway - Stage 3
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Manufacturers Cup, Tokyo" tvg-name="[15/08 20:00] : Manufacturers Cup, Tokyo" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/EGGTW_LEAGUE_POSTER_THAILAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 20:00] : Manufacturers Cup, Tokyo
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Race 1" tvg-name="[15/08 20:05] : Nurburgring Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSGT4_LEAGUE_POSTER_THAILAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 20:05] : Nurburgring Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Monchengladbach vs Aston Villa" tvg-name="[15/08 20:25] : Monchengladbach vs Aston Villa" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCF_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 20:25] : Monchengladbach vs Aston Villa
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Czech Tour - Stage 3" tvg-name="[15/08 20:30] : Czech Tour - Stage 3" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 20:30] : Czech Tour - Stage 3
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Everton vs Lille" tvg-name="[15/08 20:55] : Everton vs Lille" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCF_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 20:55] : Everton vs Lille
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Live: Tour 2026: v AC Milan" tvg-name="[15/08 21:45] : Live: Tour 2026: v AC Milan" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[15/08 21:45] : Live: Tour 2026: v AC Milan
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nations Cup, Tokyo" tvg-name="[15/08 22:00] : Nations Cup, Tokyo" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/EGGTW_LEAGUE_POSTER_THAILAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 22:00] : Nations Cup, Tokyo
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Kasimpasa vs Trabzonspor" tvg-name="[15/08 22:55] : Kasimpasa vs Trabzonspor" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 22:55] : Kasimpasa vs Trabzonspor
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Real Oviedo vs Granada" tvg-name="[15/08 23:52] : Real Oviedo vs Granada" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 23:52] : Real Oviedo vs Granada
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Morocco vs Algeria - 3rd Place" tvg-name="[15/08 23:53] : Morocco vs Algeria - 3rd Place" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOACW_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[15/08 23:53] : Morocco vs Algeria - 3rd Place
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Alaves vs Getafe" tvg-name="[16/08 00:25] : Alaves vs Getafe" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 00:25] : Alaves vs Getafe
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Genclerbirligi vs Fenerbahce" tvg-name="[16/08 01:25] : Genclerbirligi vs Fenerbahce" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 01:25] : Genclerbirligi vs Fenerbahce
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Sevilla vs Rayo Vallecano" tvg-name="[16/08 02:17] : Sevilla vs Rayo Vallecano" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 02:17] : Sevilla vs Rayo Vallecano
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Qualifying Race 2" tvg-name="[16/08 14:05] : Nurburgring Qualifying Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1453_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 14:05] : Nurburgring Qualifying Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Rally Zlin SS 10 Katerinice 1" tvg-name="[16/08 15:00] : Rally Zlin SS 10 Katerinice 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSERC_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 15:00] : Rally Zlin SS 10 Katerinice 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Race 2" tvg-name="[16/08 16:00] : Nurburgring Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSPC_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 16:00] : Nurburgring Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Liverpool v Como 1907" tvg-name="[16/08 17:15] : Liverpool v Como 1907" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 17:15] : Liverpool v Como 1907
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Czech Tour - Stage 4" tvg-name="[16/08 18:00] : Czech Tour - Stage 4" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 18:00] : Czech Tour - Stage 4
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Race 2" tvg-name="[16/08 18:25] : Nurburgring Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1454_SHOW_IMAGE_AUSTRALIA_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 18:25] : Nurburgring Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Nurburgring Race 2" tvg-name="[16/08 20:05] : Nurburgring Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSGT4_LEAGUE_POSTER_THAILAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 20:05] : Nurburgring Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Rally Zlin SS 13 Katerinice 2 - PS" tvg-name="[16/08 21:00] : Rally Zlin SS 13 Katerinice 2 - PS" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSERC_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 21:00] : Rally Zlin SS 13 Katerinice 2 - PS
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Arctic Race of Norway - Stage 4" tvg-name="[16/08 21:15] : Arctic Race of Norway - Stage 4" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 21:15] : Arctic Race of Norway - Stage 4
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Racing de Santander vs Villarreal" tvg-name="[16/08 21:55] : Racing de Santander vs Villarreal" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 21:55] : Racing de Santander vs Villarreal
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Liverpool v Como 1907" tvg-name="[16/08 23:00] : Liverpool v Como 1907" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 23:00] : Liverpool v Como 1907
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Espanyol vs Levante" tvg-name="[16/08 23:47] : Espanyol vs Levante" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 23:47] : Espanyol vs Levante
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Girona vs Leganes" tvg-name="[16/08 23:52] : Girona vs Leganes" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[16/08 23:52] : Girona vs Leganes
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Besiktas vs Eyupspor" tvg-name="[17/08 01:25] : Besiktas vs Eyupspor" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[17/08 01:25] : Besiktas vs Eyupspor
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Cameroon vs Malawi - Final" tvg-name="[17/08 01:53] : Cameroon vs Malawi - Final" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOACW_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[17/08 01:53] : Cameroon vs Malawi - Final
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Celta Vigo vs Osasuna" tvg-name="[17/08 02:17] : Celta Vigo vs Osasuna" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[17/08 02:17] : Celta Vigo vs Osasuna
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="ADAC Cyclassics Hamburg" tvg-name="[17/08 18:45] : ADAC Cyclassics Hamburg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[17/08 18:45] : ADAC Cyclassics Hamburg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Sporting Gijon vs Sabadell" tvg-name="[17/08 23:52] : Sporting Gijon vs Sabadell" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[17/08 23:52] : Sporting Gijon vs Sabadell
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Deportivo vs Elche" tvg-name="[18/08 01:55] : Deportivo vs Elche" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[18/08 01:55] : Deportivo vs Elche
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Dinamo Zagreb vs Viking - Play-Offs,1st Leg" tvg-name="[19/08 01:55] : Dinamo Zagreb vs Viking - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[19/08 01:55] : Dinamo Zagreb vs Viking - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Fenerbahce vs Lyon - Play-Offs,1st Leg" tvg-name="[19/08 01:55] : Fenerbahce vs Lyon - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[19/08 01:55] : Fenerbahce vs Lyon - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Levski Sofia vs AEK Athens - Play-Offs,1st Leg" tvg-name="[19/08 01:55] : Levski Sofia vs AEK Athens - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[19/08 01:55] : Levski Sofia vs AEK Athens - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Lidl Deutschland Tour - Prologue" tvg-name="[19/08 19:00] : Lidl Deutschland Tour - Prologue" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[19/08 19:00] : Lidl Deutschland Tour - Prologue
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Slovan Bratislava vs Celje - Play-Offs,1st Leg" tvg-name="[20/08 01:52] : Slovan Bratislava vs Celje - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[20/08 01:52] : Slovan Bratislava vs Celje - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Hapoel vs Sabah FK - Play-Offs,1st Leg" tvg-name="[20/08 01:52] : Hapoel vs Sabah FK - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[20/08 01:52] : Hapoel vs Sabah FK - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Atletico Madrid vs Malaga" tvg-name="[20/08 01:55] : Atletico Madrid vs Malaga" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[20/08 01:55] : Atletico Madrid vs Malaga
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Celtic vs LASK - Play-Offs,1st Leg" tvg-name="[20/08 01:55] : Celtic vs LASK - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[20/08 01:55] : Celtic vs LASK - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="NEC vs Bodo/Glimt - Play-Offs,1st Leg" tvg-name="[20/08 01:55] : NEC vs Bodo/Glimt - Play-Offs,1st Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[20/08 01:55] : NEC vs Bodo/Glimt - Play-Offs,1st Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Lidl Deutschland Tour - Stage 1" tvg-name="[20/08 19:05] : Lidl Deutschland Tour - Stage 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[20/08 19:05] : Lidl Deutschland Tour - Stage 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Rayo Vallecano vs Alaves" tvg-name="[21/08 01:55] : Rayo Vallecano vs Alaves" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[21/08 01:55] : Rayo Vallecano vs Alaves
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="DUTCH GRAND PRIX 2026 Practice 1" tvg-name="[21/08 17:25] : DUTCH GRAND PRIX 2026 Practice 1" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1386_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[21/08 17:25] : DUTCH GRAND PRIX 2026 Practice 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="ROUND 4 NETHERLANDS, 2026" tvg-name="[21/08 19:00] : ROUND 4 NETHERLANDS, 2026" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1469_SHOW_IMAGE_PHILIPPINES_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[21/08 19:00] : ROUND 4 NETHERLANDS, 2026
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Lidl Deutschland Tour - Stage 2" tvg-name="[21/08 20:00] : Lidl Deutschland Tour - Stage 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[21/08 20:00] : Lidl Deutschland Tour - Stage 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="DUTCH GRAND PRIX 2026" tvg-name="[21/08 21:00] : DUTCH GRAND PRIX 2026" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1388_SHOW_IMAGE_PHILIPPINES_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[21/08 21:00] : DUTCH GRAND PRIX 2026
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Zandvoort, Netherlands" tvg-name="[21/08 23:00] : Zandvoort, Netherlands" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1473_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[21/08 23:00] : Zandvoort, Netherlands
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Everton v Liverpool U21" tvg-name="[22/08 00:55] : Everton v Liverpool U21" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 00:55] : Everton v Liverpool U21
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Erzurumspor vs Galatasaray" tvg-name="[22/08 01:25] : Erzurumspor vs Galatasaray" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 01:25] : Erzurumspor vs Galatasaray
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Cordoba vs Girona" tvg-name="[22/08 01:52] : Cordoba vs Girona" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 01:52] : Cordoba vs Girona
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Real Betis vs Real Sociedad" tvg-name="[22/08 01:55] : Real Betis vs Real Sociedad" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 01:55] : Real Betis vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="F1 ACADEMY, ROUND 4 NETHERLANDS, 2026" tvg-name="[22/08 14:18] : F1 ACADEMY, ROUND 4 NETHERLANDS, 2026" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1470_SHOW_IMAGE_MALAYSIA_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 14:18] : F1 ACADEMY, ROUND 4 NETHERLANDS, 2026
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Zandvoort, Netherlands" tvg-name="[22/08 15:13] : Zandvoort, Netherlands" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1474_SHOW_IMAGE_PHILIPPINES_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 15:13] : Zandvoort, Netherlands
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Spa Francorchamps - Qualifying" tvg-name="[22/08 16:20] : Spa Francorchamps - Qualifying" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSLMC_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 16:20] : Spa Francorchamps - Qualifying
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="DUTCH GRAND PRIX 2026" tvg-name="[22/08 16:00] : DUTCH GRAND PRIX 2026" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1389_SHOW_IMAGE_MALAYSIA_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 16:00] : DUTCH GRAND PRIX 2026
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Spa Francorchamps - Qualifying" tvg-name="[22/08 17:25] : Spa Francorchamps - Qualifying" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSEL_LEAGUE_POSTER_THAILAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 17:25] : Spa Francorchamps - Qualifying
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Liverpool U18 v Middlesborough" tvg-name="[22/08 18:25] : Liverpool U18 v Middlesborough" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 18:25] : Liverpool U18 v Middlesborough
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Sassnitz, Germany Day 1" tvg-name="[22/08 19:00] : Sassnitz, Germany Day 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SASG_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 19:00] : Sassnitz, Germany Day 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Spa Francorchamps Race 1" tvg-name="[22/08 19:05] : Spa Francorchamps Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSLES_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 19:05] : Spa Francorchamps Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="F1 ACADEMY, ROUND 4 NETHERLANDS, 2026 Race 1" tvg-name="[22/08 19:30] : F1 ACADEMY, ROUND 4 NETHERLANDS, 2026 Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1471_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 19:30] : F1 ACADEMY, ROUND 4 NETHERLANDS, 2026 Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Spa Francorchamps - Race" tvg-name="[22/08 20:30] : Spa Francorchamps - Race" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSLMC_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 20:30] : Spa Francorchamps - Race
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="DUTCH GRAND PRIX 2026" tvg-name="[22/08 20:15] : DUTCH GRAND PRIX 2026" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1385_SHOW_IMAGE_PHILIPPINES_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 20:15] : DUTCH GRAND PRIX 2026
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Lidl Deutschland Tour - Stage 3" tvg-name="[22/08 21:00] : Lidl Deutschland Tour - Stage 3" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 21:00] : Lidl Deutschland Tour - Stage 3
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Stage 1: Monaco" tvg-name="[22/08 21:05] : Stage 1: Monaco" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYVE_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 21:05] : Stage 1: Monaco
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Real Oviedo vs Leganes" tvg-name="[22/08 21:52] : Real Oviedo vs Leganes" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 21:52] : Real Oviedo vs Leganes
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Athletic Bilbao vs Sevilla" tvg-name="[22/08 21:55] : Athletic Bilbao vs Sevilla" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 21:55] : Athletic Bilbao vs Sevilla
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Zandvoort, Netherlands Race 1" tvg-name="[22/08 22:55] : Zandvoort, Netherlands Race 1" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1475_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[22/08 22:55] : Zandvoort, Netherlands Race 1
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Valencia vs Celta Vigo" tvg-name="[23/08 00:17] : Valencia vs Celta Vigo" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 00:17] : Valencia vs Celta Vigo
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Fenerbahce vs Konyaspor" tvg-name="[23/08 01:25] : Fenerbahce vs Konyaspor" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 01:25] : Fenerbahce vs Konyaspor
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Espanyol vs Real Madrid" tvg-name="[23/08 02:17] : Espanyol vs Real Madrid" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 02:17] : Espanyol vs Real Madrid
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Spa Francorchamps Race 2" tvg-name="[23/08 14:00] : Spa Francorchamps Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSLES_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 14:00] : Spa Francorchamps Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="F1 ACADEMY, ROUND 4 NETHERLANDS, 2026 Race 2" tvg-name="[23/08 15:35] : F1 ACADEMY, ROUND 4 NETHERLANDS, 2026 Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1471_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 15:35] : F1 ACADEMY, ROUND 4 NETHERLANDS, 2026 Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Zandvoort, Netherlands Race 2" tvg-name="[23/08 16:50] : Zandvoort, Netherlands Race 2" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1475_SHOW_IMAGE_HONG_KONG_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 16:50] : Zandvoort, Netherlands Race 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Spa Francorchamps - Race" tvg-name="[23/08 17:35] : Spa Francorchamps - Race" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/MSEL_LEAGUE_POSTER_THAILAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 17:35] : Spa Francorchamps - Race
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Lidl Deutschland Tour - Stage 4" tvg-name="[23/08 19:00] : Lidl Deutschland Tour - Stage 4" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYUWT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 19:00] : Lidl Deutschland Tour - Stage 4
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Sassnitz, Germany Day 2" tvg-name="[23/08 19:00] : Sassnitz, Germany Day 2" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SASG_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 19:00] : Sassnitz, Germany Day 2
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Stage 2: Monaco - Manosque" tvg-name="[23/08 19:50] : Stage 2: Monaco - Manosque" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYVE_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 19:50] : Stage 2: Monaco - Manosque
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="DUTCH GRAND PRIX 2026" tvg-name="[23/08 18:30] : DUTCH GRAND PRIX 2026" tvg-logo="https://mediacms01.apac.beiniz.biz/show/1384_SHOW_IMAGE_PHILIPPINES_640X360.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 18:30] : DUTCH GRAND PRIX 2026
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Eibar vs Valladolid" tvg-name="[23/08 21:52] : Eibar vs Valladolid" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 21:52] : Eibar vs Valladolid
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Atletico Madrid vs Villarreal" tvg-name="[23/08 21:55] : Atletico Madrid vs Villarreal" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 21:55] : Atletico Madrid vs Villarreal
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Trabzonspor vs Basaksehir" tvg-name="[23/08 22:55] : Trabzonspor vs Basaksehir" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[23/08 22:55] : Trabzonspor vs Basaksehir
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Getafe vs Racing de Santander" tvg-name="[24/08 00:25] : Getafe vs Racing de Santander" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[24/08 00:25] : Getafe vs Racing de Santander
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Alanyaspor vs Besiktas" tvg-name="[24/08 01:25] : Alanyaspor vs Besiktas" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOTSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[24/08 01:25] : Alanyaspor vs Besiktas
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Elche vs Barcelona" tvg-name="[24/08 02:17] : Elche vs Barcelona" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[24/08 02:17] : Elche vs Barcelona
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Stage 3: Gruissan - Font Romeu" tvg-name="[24/08 19:50] : Stage 3: Gruissan - Font Romeu" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYVE_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[24/08 19:50] : Stage 3: Gruissan - Font Romeu
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Osasuna vs Levante" tvg-name="[25/08 00:25] : Osasuna vs Levante" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[25/08 00:25] : Osasuna vs Levante
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Malaga vs Deportivo" tvg-name="[25/08 02:17] : Malaga vs Deportivo" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[25/08 02:17] : Malaga vs Deportivo
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Granada vs Mallorca" tvg-name="[25/08 02:22] : Granada vs Mallorca" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL2_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[25/08 02:22] : Granada vs Mallorca
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Stage 4: Andorra La Vella" tvg-name="[25/08 19:35] : Stage 4: Andorra La Vella" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYVE_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[25/08 19:35] : Stage 4: Andorra La Vella
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Sabah FK vs Hapoel - Play-Offs,2nd Leg" tvg-name="[25/08 23:40] : Sabah FK vs Hapoel - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[25/08 23:40] : Sabah FK vs Hapoel - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Valencia vs Real Betis" tvg-name="[26/08 01:47] : Valencia vs Real Betis" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[26/08 01:47] : Valencia vs Real Betis
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="LASK vs Celtic - Play-Offs,2nd Leg" tvg-name="[26/08 01:55] : LASK vs Celtic - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[26/08 01:55] : LASK vs Celtic - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Bodo/Glimt vs NEC - Play-Offs,2nd Leg" tvg-name="[26/08 01:55] : Bodo/Glimt vs NEC - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[26/08 01:55] : Bodo/Glimt vs NEC - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Stage 5: Falset - Roquetes" tvg-name="[26/08 19:50] : Stage 5: Falset - Roquetes" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/CYVE_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[26/08 19:50] : Stage 5: Falset - Roquetes
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="AEK Athens vs Levski Sofia - Play-Offs,2nd Leg" tvg-name="[27/08 01:52] : AEK Athens vs Levski Sofia - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[27/08 01:52] : AEK Athens vs Levski Sofia - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Celje vs Slovan Bratislava - Play-Offs,2nd Leg" tvg-name="[27/08 01:52] : Celje vs Slovan Bratislava - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[27/08 01:52] : Celje vs Slovan Bratislava - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Viking vs Dinamo Zagreb - Play-Offs,2nd Leg" tvg-name="[27/08 01:55] : Viking vs Dinamo Zagreb - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[27/08 01:55] : Viking vs Dinamo Zagreb - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Lyon vs Fenerbahce - Play-Offs,2nd Leg" tvg-name="[27/08 01:55] : Lyon vs Fenerbahce - Play-Offs,2nd Leg" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOUCL_LEAGUE_POSTER_MALAYSIA_1920X1080.JPG" group-title="BEIN SPORTS UPCOMING",[27/08 01:55] : Lyon vs Fenerbahce - Play-Offs,2nd Leg
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
+#EXTINF:-1 tvg-id="Real Madrid vs Real Sociedad" tvg-name="[27/08 01:55] : Real Madrid vs Real Sociedad" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/SOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg" group-title="BEIN SPORTS UPCOMING",[27/08 01:55] : Real Madrid vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://connect-id.beinsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+
