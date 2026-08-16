@@ -1,247 +1,488 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="1dd62241-b1f2-36a7-bed7-c232eee6d40c" group-title="Peacock | Live Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/7624eaec-86c8-11f1-b89a-730d36f707a0/LAND_16_9?proposition=NBCUOTT&language=eng&version=4a9394b5-24b4-5725-9cb2-31e7982e9588&territory=US",🔴 [LIVE] Apparatus Finals
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022bd3e585485993fb34aa481af8311:8a6dcc69ff6070fc39993b51b42f45bf
+https://peacock.winsprox.workers.dev/https://g002-sle-us-cmaf-prd-ak.cdn.peacocktv.com/v~a-0-0_e~1786975689_s~423c5350-021e-4e95-b62f-4e486fe7389d_u~3942af33ed09838e5d21362c69a60d6d23d46b98c241106fc6ec7575fa85c2c74c7cebd1acb0b9298c9d210d923868a8_l~78_x~c32543f19709cfae6fdd43a79ebd153228af66346cae91aa1d1f3b78526b1a8d/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5023793-725651-491b170c0d3)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="c5132ea7-934b-3620-8397-e621d0eeb705" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c5132ea7-934b-3620-8397-e621d0eeb705/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6e277861-61f7-3aa1-a7a1-203a7a91facd",[16/08 23:00 WIB] Orioles at Rays
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="01dc33de-54b1-38ca-a27d-666c7475504b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/01dc33de-54b1-38ca-a27d-666c7475504b/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4b53e24d-6889-3192-9c55-d2e37389ce60",[17/08 00:30 WIB] Home Feed: BOS at PIT
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="64fb75c2-80c8-3cd1-924e-812e95d21b22" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/64fb75c2-80c8-3cd1-924e-812e95d21b22/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4b53e24d-6889-3192-9c55-d2e37389ce60",[17/08 00:30 WIB] Away Feed: BOS at PIT
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="bb443e08-dd40-3347-a519-a9a29dca0454" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/bb443e08-dd40-3347-a519-a9a29dca0454/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=28896665-c6e8-3d4f-b134-074693547267",[17/08 01:30 WIB] MLB Sunday Stretch: 8.16.26
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f6de2e4b-60b5-3e39-95cd-ec740bcc5f6b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f6de2e4b-60b5-3e39-95cd-ec740bcc5f6b/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=fa35e50a-61f2-3719-bd74-91375fd1d32c",[17/08 02:00 WIB] U.S. Amateur: Championship
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b14529ba-6525-3a56-8ceb-f44c3d77f40d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/05a9d3d4-15e1-11f1-a23a-b7c96fb90b64/LAND_16_9?proposition=NBCUOTT&language=eng&version=eaf128d6-ee2a-5d7f-83e2-583df4781284&territory=US",[17/08 06:00 WIB] Mariners at Astros
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b4e7a56f-4368-3951-92cf-40e8e7fd1d3e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b4e7a56f-4368-3951-92cf-40e8e7fd1d3e/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=0f2917d9-5423-3fd5-9459-7a26d4240290",[18/08 09:00 WIB] Wings vs. Valkyries
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="9faa4222-41bf-3dd6-a74f-a9579ad102e0" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c3882eda-9761-11f1-94a4-d3e6ff326650/LAND_16_9?proposition=NBCUOTT&language=eng&version=50585d1e-2f48-5862-84ec-8d772cf92e8f&territory=US",[18/08 21:30 WIB] Pool Play: NED vs. USA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="ef759e1f-295f-3ab4-9e47-c714e73b585f" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c3c7a4a2-9761-11f1-94b7-176e6a57f3fe/LAND_16_9?proposition=NBCUOTT&language=eng&version=2da0b6d3-4e35-5c73-b2ad-0ced98d97aef&territory=US",[19/08 05:00 WIB] Pool Play: NZL vs. USA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="9e09df4d-1050-3817-86d8-297c3a9337bc" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b5699924-91a3-11f1-a4c7-63e2224930a0/LAND_16_9?proposition=NBCUOTT&language=eng&version=e575f44b-26b3-5dac-b19c-e16894551042&territory=US",[19/08 05:30 WIB] Away Feed: NYY at BAL
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f7651fb6-776c-3bef-8eea-ee763a9ba7c6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/b5699924-91a3-11f1-a4c7-63e2224930a0/LAND_16_9?proposition=NBCUOTT&language=eng&version=e575f44b-26b3-5dac-b19c-e16894551042&territory=US",[19/08 05:30 WIB] Home Feed: NYY at BAL
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="eae5a107-d877-3de9-a7bd-3947a01d9d80" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f3b3a1e6-93f8-11f1-b804-cf1a65210196/LAND_16_9?proposition=NBCUOTT&language=eng&version=08b94792-c811-5ee8-8418-bf6834acd06e&territory=US",[20/08 01:00 WIB] Home Feed: CWS at CHC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="2b1b5c5a-654e-346b-9519-3bda953e36e1" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/2b1b5c5a-654e-346b-9519-3bda953e36e1/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=8edf60ad-4ce1-339d-814a-f10f5eb61d15",[20/08 01:00 WIB] Away Feed: CWS at CHC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="11170511-14fa-3c23-9638-fb764834baec" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/57d31df2-9762-11f1-8e75-7bf444db11b5/LAND_16_9?proposition=NBCUOTT&language=eng&version=7723c46e-9830-5fc9-9545-bd187f3437b0&territory=US",[20/08 03:30 WIB] Pool Play: CAN vs. USA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="e1f512d2-6aa2-3c80-8701-c31192bff419" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/592ac222-9762-11f1-b434-47fa5647a15d/LAND_16_9?proposition=NBCUOTT&language=eng&version=f95ec020-e2c1-5e01-a16a-1253628cd237&territory=US",[20/08 21:30 WIB] Pool Play: AUS vs. USA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="6f2bb33c-cf00-3a41-b177-689f3dbf7883" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/6f2bb33c-cf00-3a41-b177-689f3dbf7883/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=bf27de56-ae72-386f-a569-024c7a26334d",[21/08 00:00 WIB] Home Feed: TOR at TB
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="e213b3ae-a53b-392b-b501-a03f54b638b6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/e213b3ae-a53b-392b-b501-a03f54b638b6/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=bf27de56-ae72-386f-a569-024c7a26334d",[21/08 00:00 WIB] Away Feed: TOR at TB
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="1ae9d41d-10cf-3a2d-8007-1242dd26860c" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/590ea84e-9762-11f1-956e-2bd30cfb91a5/LAND_16_9?proposition=NBCUOTT&language=eng&version=909b79c8-dc4f-5fca-bf42-2047282cce2d&territory=US",[21/08 05:30 WIB] Pool Play: BRA vs. USA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="a81ef48b-f49b-30c9-b566-12a88e54975d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/14a2dc8c-9764-11f1-b4f4-cf4d00a768cc/LAND_16_9?proposition=NBCUOTT&language=eng&version=9b40107a-dccd-5876-ab20-050d1cab9d59&territory=US",[21/08 11:00 WIB] Quarterfinals
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="9216b02c-370d-3cc7-9270-d9434a522ef7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/4e8e1b94-93fb-11f1-a278-ebc009cb2ae8/LAND_16_9?proposition=NBCUOTT&language=eng&version=3c92a70d-8824-54e0-8afb-173c5bc10658&territory=US",[22/08 05:30 WIB] Away Feed: STL at PHI
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="7ff3b44f-6aa7-3f8e-981b-54ba5192074b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/4e8e1b94-93fb-11f1-a278-ebc009cb2ae8/LAND_16_9?proposition=NBCUOTT&language=eng&version=3c92a70d-8824-54e0-8afb-173c5bc10658&territory=US",[22/08 05:30 WIB] Home Feed: STL at PHI
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f085e94e-41eb-3493-abfd-1fa6802ffd10" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f8588560-9298-11f1-9daf-0f9b4dfcefdf/LAND_16_9?proposition=NBCUOTT&language=eng&version=a0acc1ba-5783-5fc4-b8e8-02add73c8f14&territory=US",[22/08 06:30 WIB] Brooklyn FC v. Power FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="4f7ae53a-39ff-3de1-9e71-e4474211b207" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/71a45f92-93fd-11f1-b09e-ffc0c7361166/LAND_16_9?proposition=NBCUOTT&language=eng&version=f06c153e-6bd9-5ac0-8f00-d0cfb98732dd&territory=US",[22/08 09:00 WIB] Home Feed: PIT at LAD
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="3df0a0a5-2d91-39f5-afeb-037e80e2cd50" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/3df0a0a5-2d91-39f5-afeb-037e80e2cd50/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=13c5521d-9e0d-3eea-b059-b087152a12ca",[22/08 09:00 WIB] Away Feed: PIT at LAD
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="42d472e4-3a75-30c1-90f6-43ed160871c5" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/08104934-083d-11f1-a564-b3a3439c4a6a/LAND_16_9?proposition=NBCUOTT&language=eng&version=2754dfda-e8db-5464-8b55-29e53e947513&territory=US",[22/08 19:35 WIB] IMSA VPRC at VIR | R1
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b09b0c0d-c4cb-3fb4-b7e3-1d537ecc0b7b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b09b0c0d-c4cb-3fb4-b7e3-1d537ecc0b7b/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6ac2323c-6e6a-3296-9794-13b401ced25d",[22/08 20:20 WIB] IMSA Mustang VIR R1
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="c7fabb03-11c3-310f-a53f-7c7b8cd1c8a6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c7fabb03-11c3-310f-a53f-7c7b8cd1c8a6/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[22/08 21:00 WIB] Race Day Live: Budds Creek
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f8b4666d-a7f4-3999-b97b-8dc635684f0d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[22/08 21:00 WIB] La Vuelta a España: Stage 1
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="148ed17f-03a5-3c6e-9f1c-0fd83a2bb610" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/08104934-083d-11f1-a564-b3a3439c4a6a/LAND_16_9?proposition=NBCUOTT&language=eng&version=2754dfda-e8db-5464-8b55-29e53e947513&territory=US",[22/08 23:15 WIB] IMSA VPRC at VIR | R2
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="01875766-1f39-331e-bfb6-64328b14c123" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/01875766-1f39-331e-bfb6-64328b14c123/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[23/08 00:00 WIB] Motocross Rd. 27: Budds Creek
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="667d8e1a-aaa2-34c1-b381-1d42cf90e9ff" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/14a2dc8c-9764-11f1-b4f4-cf4d00a768cc/LAND_16_9?proposition=NBCUOTT&language=eng&version=9b40107a-dccd-5876-ab20-050d1cab9d59&territory=US",[23/08 00:30 WIB] Semifinal 1
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="ace4cd73-dbb5-35cd-baf1-7449524604d8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/ace4cd73-dbb5-35cd-baf1-7449524604d8/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4dc13741-8150-3a41-8ecb-0633854646e0",[23/08 01:10 WIB] MPC at VIR
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="d4083077-f8d0-3a4c-8fa3-87a0c16fa200" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/14a2dc8c-9764-11f1-b4f4-cf4d00a768cc/LAND_16_9?proposition=NBCUOTT&language=eng&version=9b40107a-dccd-5876-ab20-050d1cab9d59&territory=US",[23/08 02:30 WIB] Semifinal 2
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="9ae15347-8c60-32e2-a743-121dbce11083" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/9ae15347-8c60-32e2-a743-121dbce11083/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=e29d5ff5-d039-31d4-8275-23ac3c67b04b",[23/08 03:45 WIB] IMSA VIR Qualifying
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="9c07f983-9b11-3e04-88ae-a505b76991ab" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/f8cedea4-9298-11f1-bcf7-6b0f1da45d00/LAND_16_9?proposition=NBCUOTT&language=eng&version=58921394-faa5-5538-a464-1765d9084eba&territory=US",[23/08 06:00 WIB] Sporting JAX v. Sun FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="cfb51f5d-417d-338e-b388-e24a6b14ffcd" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/db168e78-929f-11f1-9baf-47f47429ce87/LAND_16_9?proposition=NBCUOTT&language=eng&version=bc084c27-8510-5862-b7f4-d114e27c90f9&territory=US",[23/08 07:30 WIB] Trinity FC v. Ascent FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="652cd5a9-5807-3647-bfca-45ac1ad13769" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[23/08 19:30 WIB] La Vuelta a España: Stage 2
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="a0173d7e-e42b-3b77-b133-449606ec7451" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/a0173d7e-e42b-3b77-b133-449606ec7451/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6ac2323c-6e6a-3296-9794-13b401ced25d",[23/08 20:40 WIB] IMSA Mustang VIR R2
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b5ea101a-e1bb-3de3-baa4-9207f73ba9e8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b5ea101a-e1bb-3de3-baa4-9207f73ba9e8/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=a9286b6d-458f-357c-9dab-9d342ca52205",[23/08 23:00 WIB] IMSA VIR Michelin Challenge
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="3ca21043-a7a5-303d-9c96-3de4263e9b3b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/3ca21043-a7a5-303d-9c96-3de4263e9b3b/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=cfbeee32-ac55-34f5-91b8-2fef29d87d9c",[24/08 00:30 WIB] Away Feed: TOR at NYY
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="60a7cd4d-ac24-3eba-b263-f4bee14f5336" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/60a7cd4d-ac24-3eba-b263-f4bee14f5336/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=cfbeee32-ac55-34f5-91b8-2fef29d87d9c",[24/08 00:30 WIB] Home Feed: TOR at NYY
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="af0f94f3-6e65-3734-bc81-ff600ff2c269" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/14a2dc8c-9764-11f1-b4f4-cf4d00a768cc/LAND_16_9?proposition=NBCUOTT&language=eng&version=9b40107a-dccd-5876-ab20-050d1cab9d59&territory=US",[24/08 00:30 WIB] Bronze Medal Match
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="477e199f-7f3d-3a93-b80c-e0b7a3b99bd8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/05aa0804-15e1-11f1-8bde-cb65300736b9/LAND_16_9?proposition=NBCUOTT&language=eng&version=8db821be-97be-5b73-afa1-e074b2baa098&territory=US",[24/08 02:00 WIB] Giants at Red Sox
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="0eeec6dc-7ac0-304e-bcd7-b2728bb33430" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/14a2dc8c-9764-11f1-b4f4-cf4d00a768cc/LAND_16_9?proposition=NBCUOTT&language=eng&version=9b40107a-dccd-5876-ab20-050d1cab9d59&territory=US",[24/08 02:30 WIB] Gold Medal Match
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="c005f451-47c3-3c9a-a2c4-35f13d7c4c93" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/0e6903ae-2979-11f1-b96e-7bc6ef76f0b5/LAND_16_9?proposition=NBCUOTT&language=eng&version=b73b548e-980c-529a-88b6-38299418034e&territory=US",[24/08 03:00 WIB] Reds at Diamondbacks
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="c235c063-3052-3dfd-8ee3-967d6289e1c3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c235c063-3052-3dfd-8ee3-967d6289e1c3/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=d503a0cc-fe75-332b-b76f-ba924c5b1c59",[24/08 06:00 WIB] Fever vs. Sky
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="a53c7340-3964-37ce-a1e2-15af8baf1860" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[24/08 19:30 WIB] La Vuelta a España: Stage 3
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="275d795f-d3b5-3d3a-aee0-3a0bc5b5abdb" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/275d795f-d3b5-3d3a-aee0-3a0bc5b5abdb/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=1dc21455-e1bc-391d-a41c-32d52460d3b8",[25/08 09:00 WIB] Dream vs. Sparks
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="ed779b78-b654-3219-ba45-4ee51cf3144b" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[25/08 19:30 WIB] La Vuelta a España: Stage 4
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="7f411e19-b95c-36ea-876f-f1ca8f622c58" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/7f411e19-b95c-36ea-876f-f1ca8f622c58/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=a0aaded9-e7fc-33e8-a7ab-e8c1f3b9e3df",[26/08 08:30 WIB] Away Feed: CHC at AZ
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="da112e85-9f04-3ce3-9107-6bacc5a15204" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/da112e85-9f04-3ce3-9107-6bacc5a15204/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=a0aaded9-e7fc-33e8-a7ab-e8c1f3b9e3df",[26/08 08:30 WIB] Home Feed: CHC at AZ
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="e63039ae-3fcf-3303-98bf-503dc2241350" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[26/08 19:30 WIB] La Vuelta a España: Stage 5
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="44c8a46a-2658-35f3-b3b7-97f2320fb7b7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/44c8a46a-2658-35f3-b3b7-97f2320fb7b7/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=84784b6b-7a71-3398-b820-f634475982dd",[27/08 05:30 WIB] Away Feed: BOS at MIA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="a4a32023-30d2-3990-98be-9421f504b315" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/0298044c-96a4-11f1-af08-6ff200bc2093/LAND_16_9?proposition=NBCUOTT&language=eng&version=58543d55-5040-5066-ae55-2e40b44d6ac9&territory=US",[27/08 05:30 WIB] Home Feed: BOS at MIA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="4b0d5d12-d823-33f6-873c-962c965af4c4" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/9f333ba0-96a9-11f1-b67e-fbaab6924e37/LAND_16_9?proposition=NBCUOTT&language=eng&version=b5b88b04-25f4-5d3d-9a96-7133bc040a1c&territory=US",[27/08 08:00 WIB] Away Feed: MIN at ATH
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="861e9d74-57b3-3cbc-9c91-9253c948f3e4" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/9f333ba0-96a9-11f1-b67e-fbaab6924e37/LAND_16_9?proposition=NBCUOTT&language=eng&version=b5b88b04-25f4-5d3d-9a96-7133bc040a1c&territory=US",[27/08 08:00 WIB] Home Feed: MIN at ATH
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="4bb30675-cfd7-313d-9596-008dd56b8bdb" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[27/08 19:30 WIB] La Vuelta a España: Stage 6
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f2a661c0-4359-38b6-bf8e-4899d299cf32" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f2a661c0-4359-38b6-bf8e-4899d299cf32/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=ed9f28a0-ae84-35d0-a035-3b980f95b547",[28/08 08:30 WIB] Away Feed: AZ at SF
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="24e2d02e-e571-3064-8020-b6420f6a950d" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/24e2d02e-e571-3064-8020-b6420f6a950d/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=ed9f28a0-ae84-35d0-a035-3b980f95b547",[28/08 08:30 WIB] Home Feed: AZ at SF
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="c36d86ee-f1a8-3005-8137-0e7c371f273e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[28/08 18:00 WIB] La Vuelta a España: Stage 7
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="2a81ad27-a4c8-358d-a9bb-d2f3c7c9c5df" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/2a81ad27-a4c8-358d-a9bb-d2f3c7c9c5df/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=5c802d75-50aa-31d4-8bbd-2c06685d47ca",[29/08 06:00 WIB] Away Feed: HOU at NYM
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="5d0f171a-b1e8-3850-ae18-fbf0c852ec64" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/5d0f171a-b1e8-3850-ae18-fbf0c852ec64/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=5c802d75-50aa-31d4-8bbd-2c06685d47ca",[29/08 06:00 WIB] Home Feed: HOU at NYM
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b54d6b90-7ea9-370e-a11d-89fbf08b3110" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b54d6b90-7ea9-370e-a11d-89fbf08b3110/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=1298b43c-3d8c-30c9-ba5c-83be9d025c23",[29/08 06:30 WIB] FTL United v. Brooklyn FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="70e80b2f-968e-32c9-bae2-db5838f8bcb3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/70e80b2f-968e-32c9-bae2-db5838f8bcb3/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=93408c78-19d0-311a-b715-419314aad191",[29/08 08:30 WIB] Home Feed: PHI at LAA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="9b65deac-6f1f-3688-a4a1-a79cec226ad7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/9b65deac-6f1f-3688-a4a1-a79cec226ad7/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=93408c78-19d0-311a-b715-419314aad191",[29/08 08:30 WIB] Away Feed: PHI at LAA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="0c4b0404-ae41-3bf2-aee9-29ae4f0e070c" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[29/08 19:30 WIB] La Vuelta a España: Stage 8
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b0d9801a-924b-3b9f-84ff-b9b40ef8ea50" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b0d9801a-924b-3b9f-84ff-b9b40ef8ea50/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[29/08 21:00 WIB] Race Day Live: Ironman
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="594a8877-a3be-3379-95a9-c36ce301febc" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/594a8877-a3be-3379-95a9-c36ce301febc/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[30/08 00:00 WIB] Motocross Rd. 28: Ironman
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="e5ddbe4d-ffb1-38de-b808-1ddf1719052e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/c6f5507c-9813-11f1-a993-5f603544272f/LAND_16_9?proposition=NBCUOTT&language=eng&version=170a2b55-e067-5c7e-b423-c3cad90fda04&territory=US",[30/08 00:00 WIB] Lexington SC v. Power FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="dec577e3-3284-3601-9375-2412dd20e833" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/dec577e3-3284-3601-9375-2412dd20e833/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=78e76699-d539-3054-a375-842ca3aa580b",[30/08 03:00 WIB] Away Feed: SD at TB
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="7e6c85b7-900a-3aee-99ce-ce5745b47220" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/7e6c85b7-900a-3aee-99ce-ce5745b47220/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=78e76699-d539-3054-a375-842ca3aa580b",[30/08 03:00 WIB] Home Feed: SD at TB
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="c0349a45-7493-3cf0-ac5c-e49400de74a3" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/793c91f4-981a-11f1-8fd3-1b9944ddf0e2/LAND_16_9?proposition=NBCUOTT&language=eng&version=411fd2cb-aa30-5c5c-bb54-e20d5003dc0e&territory=US",[30/08 06:00 WIB] Sporting JAX v. Trinity FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="254a8b63-a27a-3dbb-b665-6b939472d06a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/5ae6b76a-9816-11f1-ac5c-1b0f505f15d3/LAND_16_9?proposition=NBCUOTT&language=eng&version=38b1003f-1dbb-502d-9e02-e54d06efa959&territory=US",[30/08 06:00 WIB] Ascent FC v. Sun FC
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="fa15d0d5-d7a9-3518-860c-c04a60df5ed5" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/e107fd76-9844-11f1-be80-231e0aa0b29d/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2e1f413-fb87-5942-95aa-381a6b59eb77&territory=US",[30/08 17:00 WIB] La Vuelta a España: Stage 9
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="5eb14c9a-4f6f-3f10-9fca-d8ff7d46dd23" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/5eb14c9a-4f6f-3f10-9fca-d8ff7d46dd23/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=b367c184-2ade-3eea-84c6-fcd92a5846ba",[30/08 23:00 WIB] Marlins at Nationals
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="5a590e08-bfc2-3561-a830-d6102718a72e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/5a590e08-bfc2-3561-a830-d6102718a72e/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6cebe0e7-295e-36f5-8321-55095122636a",[31/08 00:30 WIB] Home Feed: LAD at DET
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="bd931144-d67a-3fed-bd4a-d38022519396" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/bd931144-d67a-3fed-bd4a-d38022519396/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6cebe0e7-295e-36f5-8321-55095122636a",[31/08 00:30 WIB] Away Feed: LAD at DET
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="89d8f653-26a3-35d1-8285-ae3d4b13acce" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/89d8f653-26a3-35d1-8285-ae3d4b13acce/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=28896665-c6e8-3d4f-b134-074693547267",[31/08 01:30 WIB] MLB Sunday Stretch: 8.30.26
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="e85e56fc-255d-37c3-acff-b8cc2b80f50c" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/d350ce5a-15e1-11f1-be06-4fff6fbf8018/LAND_16_9?proposition=NBCUOTT&language=eng&version=59916cee-e721-5bd3-a327-4d83984dc62b&territory=US",[31/08 02:00 WIB] Astros at Mets
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="649002a5-6b65-39c4-b97a-f5a8d6ae5f37" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/d31238de-15e1-11f1-8cb3-3ba2f51ba22f/LAND_16_9?proposition=NBCUOTT&language=eng&version=57af877c-1a45-5912-a968-5a6c3a51ba41&territory=US",[31/08 06:00 WIB] Reds at Cubs
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="43ca91ff-6a27-3466-ade4-11458dfc92fd" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/43ca91ff-6a27-3466-ade4-11458dfc92fd/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=74fcf6db-c883-36e4-9004-fb01e6d8ec02",[01/09 08:30 WIB] Away Feed: NYY at LAA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="98eb5340-e267-3a0e-aa04-1fcd4dbba981" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/98eb5340-e267-3a0e-aa04-1fcd4dbba981/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=74fcf6db-c883-36e4-9004-fb01e6d8ec02",[01/09 08:30 WIB] Home Feed: NYY at LAA
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="807adfce-d145-3e6d-be0b-b71847920125" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/0b8495a0-981d-11f1-acb8-1fecd64a09a6/LAND_16_9?proposition=NBCUOTT&language=eng&version=8ad6748a-89b2-568d-a9d0-35b060b4af89&territory=US",[05/09 06:00 WIB] Power FC v. Sporting JAX
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f06bccb2-3e6b-3ace-8527-b9684cfd14d6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f06bccb2-3e6b-3ace-8527-b9684cfd14d6/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6ac2323c-6e6a-3296-9794-13b401ced25d",[06/09 06:25 WIB] IMSA Mustang COTA R1
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="c8f05e79-892f-3763-a808-ecb9489bf1c7" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c8f05e79-892f-3763-a808-ecb9489bf1c7/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=6ac2323c-6e6a-3296-9794-13b401ced25d",[06/09 21:45 WIB] IMSA Mustang COTA R2
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="18c38bc3-c037-3324-a122-e2f8b9cf7bba" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/500f056a-80e5-11f1-a075-db7cb8797de8/LAND_16_9?proposition=NBCUOTT&language=eng&version=d6744dff-d3d9-574c-b21a-f213b5ae13fd&territory=US",[10/09 06:00 WIB] Patriots vs. Seahawks
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f120448a-d6cc-378a-a958-41db11f12a4e" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f120448a-d6cc-378a-a958-41db11f12a4e/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[12/09 20:00 WIB] Race Day Live: Columbus
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f79bb243-e6e1-3286-9e0a-fe8cc2cb2dbc" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f79bb243-e6e1-3286-9e0a-fe8cc2cb2dbc/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[13/09 01:30 WIB] Rd. 29 Playoff 1: Columbus
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="67eff1b1-6798-3289-9b38-88c6f722613a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/67eff1b1-6798-3289-9b38-88c6f722613a/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=e6a1fe67-9914-34d8-b5ff-50274ad51b6e",[14/09 06:00 WIB] Cowboys vs. Giants
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="5516eab5-d805-333c-a988-c315b5b3d3f8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/5516eab5-d805-333c-a988-c315b5b3d3f8/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[20/09 00:00 WIB] Race Day Live: Los Angeles
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="701fa8f5-49bd-3ec8-871f-d4f779ac42e4" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/701fa8f5-49bd-3ec8-871f-d4f779ac42e4/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[20/09 04:00 WIB] Rd. 30 Playoff 2: Los Angeles
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="863f0a70-9067-3d90-b20e-17578214fc88" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/863f0a70-9067-3d90-b20e-17578214fc88/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=09be6cb7-bd5f-3aac-a465-cd60961a429a",[21/09 06:00 WIB] Colts vs. Chiefs
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="4482c51c-0f26-3681-9959-89f31c296c21" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/4482c51c-0f26-3681-9959-89f31c296c21/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=854a93b6-bdc1-3679-bb25-bd01b6fc3fa6",[22/09 07:00 WIB] Dream vs. Liberty
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="d1516fce-dee9-3b71-809c-c3fded056581" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/d1516fce-dee9-3b71-809c-c3fded056581/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[27/09 00:00 WIB] Race Day Live: Ridgedale
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="8959ee2a-f31f-3c7b-96eb-ce1ecbc05adf" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/8959ee2a-f31f-3c7b-96eb-ce1ecbc05adf/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=4626e89a-ebdf-363f-a5ad-4fedd5150817",[27/09 05:30 WIB] World Championship Final
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="6f9f4bf6-6ff6-396e-bcc7-ab47b4feceb5" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/6f9f4bf6-6ff6-396e-bcc7-ab47b4feceb5/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=e16ab719-2d71-376c-abe7-a0714fecece3",[28/09 06:00 WIB] Rams vs. Broncos
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b7e9d1ae-8bff-3350-b907-9755b53db52a" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b7e9d1ae-8bff-3350-b907-9755b53db52a/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=3257cf5e-276d-3e29-a4a4-15c8dfeb09cb",[05/10 06:00 WIB] Lions vs. Panthers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="deadd519-ea70-3579-a97c-8d2655488843" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/deadd519-ea70-3579-a97c-8d2655488843/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=fb9bb724-c69f-3431-973d-3a1b1949c549",[12/10 06:00 WIB] Ravens vs. Falcons
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b127d4b9-3722-371c-b303-5255e5e75125" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b127d4b9-3722-371c-b303-5255e5e75125/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=12de334f-34fb-3ae6-b964-46249979d1c6",[19/10 06:00 WIB] Cowboys vs. Packers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b445b531-d6ac-303c-bb3b-ef2ea13b3185" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b445b531-d6ac-303c-bb3b-ef2ea13b3185/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=9edd6891-fb5a-30dc-ad33-92b685dfeda4",[26/10 06:00 WIB] Chiefs vs. Seahawks
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="179340d1-fca6-3d44-b69a-a0db822d82ef" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/179340d1-fca6-3d44-b69a-a0db822d82ef/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=c333789f-1bc5-3420-ae71-6389be2ae589",[02/11 07:00 WIB] Eagles vs. Commanders
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="15c8bd44-5afc-3f2b-8a93-e3368014dbba" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/15c8bd44-5afc-3f2b-8a93-e3368014dbba/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=c408d766-91db-361b-9e48-50fb3059d894",[09/11 07:00 WIB] Buccaneers vs. Bears
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="1353493e-a214-3cd5-856d-73cc8036b5d8" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/1353493e-a214-3cd5-856d-73cc8036b5d8/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=63b1f3e3-06cd-3700-8ca1-b68b46a16c30",[16/11 07:00 WIB] Steelers vs. Bengals
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="7e00f995-7d83-3021-808d-15d8d2d68589" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/91e29f0e-919a-11f1-ab87-23f9873a9d1e/LAND_16_9?proposition=NBCUOTT&language=eng&version=b2118515-8684-5cb0-89c1-4f7cb95b9c34&territory=US",[23/11 07:00 WIB] Vikings vs. 49ers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="f169882c-7fd9-3356-a8f5-0cfd8990bd44" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f169882c-7fd9-3356-a8f5-0cfd8990bd44/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=569e591c-99cb-393a-8659-49032b86afee",[27/11 07:00 WIB] Chiefs vs. Bills
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="8b337682-647a-3684-95ea-1c041cd0f3e6" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/028a3810-919c-11f1-bd34-33bbe850571e/LAND_16_9?proposition=NBCUOTT&language=eng&version=debc4159-9165-50d7-976e-0602c50663e5&territory=US",[30/11 07:00 WIB] Patriots vs. Chargers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="b0bc467a-d8d2-3025-bb90-f1bdd42354d2" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/021f8c86-919c-11f1-b820-f3e9603d038b/LAND_16_9?proposition=NBCUOTT&language=eng&version=c6f9714e-0ac4-5a28-8eea-4921194dd19c&territory=US",[07/12 07:00 WIB] Texans vs. Steelers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="58a52f66-a383-3ccc-aca6-bd6ab2a6c1c4" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/58a52f66-a383-3ccc-aca6-bd6ab2a6c1c4/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=abb71111-8c64-360b-a53c-d3fe198cd820",[14/12 07:00 WIB] Bills vs. Packers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="5ac58caa-a8a4-3c69-9d22-7a4418cfa616" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/5ac58caa-a8a4-3c69-9d22-7a4418cfa616/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=a7637194-ecdd-39b7-8042-b56d832c1626",[21/12 07:00 WIB] Lions vs. Vikings
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="1aa234ba-f279-305e-9314-6112de91c155" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/1aa234ba-f279-305e-9314-6112de91c155/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=fc6491e7-6870-3af2-825b-c0fc474e4149",[28/12 07:00 WIB] Jaguars vs. Cowboys
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="bdad9e70-57e4-35e1-88e5-66c8a5c302c9" group-title="Peacock | Upcoming Sports" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/bdad9e70-57e4-35e1-88e5-66c8a5c302c9/COVER_TITLE_WIDE?language=eng&proposition=NBCUOTT&version=48908d04-6e18-3c4b-8a4b-0685dc6c82aa",[04/01 07:00 WIB] Eagles vs. 49ers
+https://github.com/winadobe1/statis/raw/refs/heads/main/starting-soon.mp4
+#EXTINF:-1 tvg-id="7509458937090982117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7509458937090982117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",Dateline 24/7
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc112xzr75)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="8782376954583476117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8782376954583476117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",REELZ
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00207278b6ffcd0509d22d9cc88b0dbc:bfc50c28b15c2820b80e68a49ff26976
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc136p5w66)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8969135442586836117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8969135442586836117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Tennis Channel 2
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d10aba3145cad8a3adf17d7ee0dd:4587d1867fbc00377cd7d7d8f6d74f04
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc131pdfws)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc131pdfws)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5007927101325486117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5007927101325486117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",ION
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00200f2b0447b547fb1b0c6dceced368:cc6abaf977ee3b57af47c0b827c46252
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc146ks95h)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc146ks95h)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7803029382987033117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7803029382987033117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",ION Mystery
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d9302eaa7da37cafdf012333fff5:e7cd35e9714b11b4adea43a9afb81a7e
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc147hd3uf)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc147hd3uf)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6409173011308280117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6409173011308280117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Law & Crime Network
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208908ec8a9e825da84e452eeaf5c5:6e08fee4b73c0ba921a5a48616b03992
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc1349acq4)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1349acq4)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8856079200163117117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8856079200163117117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Court TV
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00203dc06bcc0b6e1e69f8a8ca14f3c2:ba4e45fca94a9395e04a3d9db8730776
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc149im9bk)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc149im9bk)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5711683224903471117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5711683224903471117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Court TV: Legendary Trials
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00206e511cc5640ba7b12676ee4d81df:8b17ddba7ba80ee5081e1e73ebc96644
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc150k2ych)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc150k2ych)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7060063940475196117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7060063940475196117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",That 70s Show
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3012d7c8e1373e7b584717257e9ffec7:d2498f9c2f5aba478ed43abedfdc01a5
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2Fout%2Fv1%2Fpck-linear%2Fthat70sshow%2FCMAF_CTR-4s-v2%2Fmaster-2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/out/v1/pck-linear/that70sshow/CMAF_CTR-4s-v2/master-2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7244983175911346117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7244983175911346117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",The Conners
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208baa7eb7c6bfea07a115af57ea3b:dc40d629285eb95caa5dbc8ea02fa8ba
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc152h8ksp)%2Fmaster_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc152h8ksp)/master_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="4675071094681910117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4675071094681910117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",SNL Vault
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=301227879c756a5c44f0c6227523a607:bffaea8552ee8c66e78624c6fb0aa22c
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2Fout%2Fv1%2Fpck-linear%2Fsnlvault%2FCMAF_CTR-4s-v2%2Fmaster-2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/out/v1/pck-linear/snlvault/CMAF_CTR-4s-v2/master-2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8601608236836923117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8601608236836923117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Are We There Yet?
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020e0bd775088ddd7aa970f1c6adcab:f390971df5d45dbc183395926cc0b610
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc153j2vs8)%2Fmaster_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc153j2vs8)/master_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="4928977508425328117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4928977508425328117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",America's Funniest Home Videos
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002036fb2495a8bdf7fdc9a157c698b8:b5408efe0636ca2876392ee158c0fe3a
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc132wswht)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc132wswht)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6666006923928981117" group-title="Peacock | Movies" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",MovieSphere by Lionsgate
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc137ld1mh)%2Fmaster_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5676009166762707117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5676009166762707117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",NBC NEWS NOW
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc102s5icf)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc102s5icf)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7989219137174638117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7989219137174638117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",TODAY All Day
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020e4c3c187f99f1fe2b04aa1f4a822:8dd21fef13cf1ee44c86e5e0636d9d81
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(vc120ri5pb)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc120ri5pb)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="4718718353051323117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4718718353051323117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",Sky News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc103ow4ej)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc103ow4ej)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7536064712744877117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7536064712744877117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Noticias Telemundo Ahora
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=004570d712d5141808ae40a1426cc028:2fb17ffe1065d883af708ae8949fb926
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_OL2-CTR-4s-v2%2FLive%2Fchannel(nota)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nota)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7938226791344603117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/200/200?proposition=NBCUOTT&territory=US",NBC Sports NOW
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(vc122ycnuy)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6342896835112781117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6342896835112781117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NFL Channel
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc107a1ddy)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8917905534294797117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8917905534294797117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Premier League TV
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(vc1021n07j)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5923023667697108117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5923023667697108117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Telemundo Deportes Ahora
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_OL2-CTR-4s-v2%2FLive%2Fchannel(telemundodeportes)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7787958841156836117" group-title="Peacock | Sports" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7787958841156836117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",TEAM USA TV
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020caf877f76b8c7775ffc47f189832:dcab0c4bd6e6982d736c93d737e181da
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc1140iamg)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1140iamg)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="9061432184930959117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9061432184930959117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Jeopardy!
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00205f33747083261233d546eb28ec57:c5e1da0d10c784bdc6bcc9beac5657ee
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(vc105xixpt)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc105xixpt)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="9220691517603535117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9220691517603535117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Wheel of Fortune
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002025af807e920cd7fba2b5822e4898:501f5a8cf386873113541615ec7b8eda
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(vc107i53gq)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc107i53gq)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7229052664943138117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7229052664943138117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Family Feud Steve Harvey
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00202e298388d9d93da3bbbd337ba2f0:6e1d28c8f55aeb67144b124986fce2f9
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc130gttyz)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc130gttyz)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8650576850986767117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8650576850986767117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Game Show Central
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020459629e23e6bc4d4aba7d80f1dc4:40e43e997416300bfc994a2dc4569071
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc128yu3oj)%2Fmaster_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc128yu3oj)/master_2min.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5341575141173480117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5341575141173480117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Nosey
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00209d759e643e8d4b0dafa5c9937eaa:88c91f003f8cd5cc6502489f9b139133
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc13333fsc)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc13333fsc)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8539676099292333117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8539676099292333117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Confess by Nosey
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020ff1bb25785a5f99720c82dbc6115:d657d77fcf20ad2dafa7ea6dac4c578b
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc1061vjor)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1061vjor)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6486289038186294117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6486289038186294117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC LX Home
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc1051jtk0)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1051jtk0)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8203332438695981117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8203332438695981117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Love Nature
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30127e423602c76ed5a51975f1ccaa2c:6c1cad587e6db23dd87f70730b14a420
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2Fout%2Fv1%2Fpck-linear%2Flovenature%2FCMAF_CTR-4s-v2%2Fmaster-2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/out/v1/pck-linear/lovenature/CMAF_CTR-4s-v2/master-2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6902256466153034117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6902256466153034117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Top Gear
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020a49a0d48d25362f30057e72f0b4a:86abf8c2a6f693a958c6492bef11ee81
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc124p21qf)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="7543244870417913117" group-title="Peacock | Entertainment" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7543244870417913117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Bounce TV
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020be65dd90ab281b375273a8926a8b:e26803afeca07c15222bbebcf6d08519
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc148u2bs1)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc148u2bs1)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8637455734117123117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8637455734117123117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Dateline en Español
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020e0efbecaa68891706c0198ea5800:e079f78568a2f0edfd7b0940084c7f32
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc125fnbp0)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6550706683944612117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6550706683944612117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Telemundo Al Dia
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020c328ae1c2bf1e151affe5d35150a:10b555c34cc053ade7ddf4095d2dcfd4
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc127fxuqc)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc127fxuqc)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8813069481487154117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8813069481487154117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC New York News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002057c016e213dea0e08129e7210657:09bf792a01ba6f70a196b51550c8c146
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc1126fksa)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1126fksa)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5822253818521550117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5822253818521550117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Chicago News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc121nd4w6)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc121nd4w6)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8192407122289210117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8192407122289210117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Philadelphia News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002041cbc7b2c011d0d62c4625a7cca5:8fbf83582a2f4a5af25e827e1d0372e6
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc120ewbm0)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc120ewbm0)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8179193201514862117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8179193201514862117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Boston News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00202c6831e237d2b815d33c2012aae6:3b0a954dd06f625d7d8b0596e74884f3
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc108c4guk)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc108c4guk)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="5161969744448100117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5161969744448100117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC Los Angeles News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020a5d68dee53a89a127355a14a68ce:9d68d133e940e61656b051a6ac260201
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc116wxfpw)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc116wxfpw)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6979268080554005117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6979268080554005117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",NBC South Florida News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00205952f36ce7ca3cd62483a012be86:6144038dcddbaf105c8494ca6d9fcf28
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc129a7cya)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc129a7cya)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="6295836058783513117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6295836058783513117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",News 12 New York
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00200ef2c3f788f578997c98c3bec3a6:94d55f6f6b786890b628802c9155ddcf
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc126u3z3x)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc126u3z3x)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="8103413594256582117" group-title="Peacock | News" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8103413594256582117_darknow/AGG_SOURCE/200/200?proposition=NBCUOTT&territory=US",Scripps News
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d6046ba27c1b194121e7f4e75734:49e3a6512f8949e3d11ee6f405dbe62a
-https://peacock.winsprox.workers.dev/?url=https%3A%2F%2Fakam.stream.peacocktv.com%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(lc151ed73m)%2Fmaster_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
+https://peacock.winsprox.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc151ed73m)/master_2hr.mpd|Referer=https%3A%2F%2Fwww.peacocktv.com%2F&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36
