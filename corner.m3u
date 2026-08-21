@@ -1,5 +1,627 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="cf1d00a1620f666f30c32aa6957c3364-source-1" group-title="TENNIS" tvg-logo="", 🔴[LIVE] ATP & WTA TENNIS — BEIN ENGLISH (ATP)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="cf1d00a1620f666f30c32aa6957c3364-source-2" group-title="TENNIS" tvg-logo="", 🔴[LIVE] ATP & WTA TENNIS — BEIN ENGLISH (WTA)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="cf1d00a1620f666f30c32aa6957c3364-source-3" group-title="TENNIS" tvg-logo="", 🔴[LIVE] ATP & WTA TENNIS — TENNIS 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="6ef3b4468e79f087da38699db85c997b-source-1" group-title="CARIBBEAN PREMIER LEAGUE" tvg-logo="", 🔴[LIVE] Caribbean Premier League — WILLOW
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2cb13aa4117d6797188a2fc701fca43:3d5e508819ffec2b1362044642f2bcf7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gfadqgkkc0/out/v1/8614b574d2d1458fb5ab4ddc1d0f2b09/cenc.mpd
+
+#EXTINF:-1 tvg-id="6ef3b4468e79f087da38699db85c997b-source-2" group-title="CARIBBEAN PREMIER LEAGUE" tvg-logo="", 🔴[LIVE] Caribbean Premier League — TNT SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="f793044fcadd164f4dabc364a178e31d-source-1" group-title="LALIGA" tvg-logo="", 🔴[LIVE] Rayo Vallecano vs Deportivo Alavés — PREMIER SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="f793044fcadd164f4dabc364a178e31d-source-2" group-title="LALIGA" tvg-logo="", 🔴[LIVE] Rayo Vallecano vs Deportivo Alavés — BEIN ENGLISH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="f793044fcadd164f4dabc364a178e31d-source-3" group-title="LALIGA" tvg-logo="", 🔴[LIVE] Rayo Vallecano vs Deportivo Alavés — FANCODE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="8637999e300a93b2c67de02bcbe99c2d-source-1" group-title="CHAMPIONSHIP" tvg-logo="", 🔴[LIVE] Sheffield Wednesday vs Bradford City — BEIN ENGLISH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="8637999e300a93b2c67de02bcbe99c2d-source-2" group-title="CHAMPIONSHIP" tvg-logo="", 🔴[LIVE] Sheffield Wednesday vs Bradford City — CBS NETWORK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="5548fe724ba1b9bb43d50772d3a71778-source-1" group-title="PRO LEAGUE" tvg-logo="", 🔴[LIVE] Al-Fayha vs Al-Hilal — FOX DEPORTES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="5548fe724ba1b9bb43d50772d3a71778-source-2" group-title="PRO LEAGUE" tvg-logo="", 🔴[LIVE] Al-Fayha vs Al-Hilal — SPORTDIGITAL FUSSBALL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="df8f20552f7ed6c33922748c76737e1d-source-1" group-title="CON. SUDAMERICANA" tvg-logo="", 🔴[LIVE] Macará vs Santos — BEIN ENGLISH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="df8f20552f7ed6c33922748c76737e1d-source-2" group-title="CON. SUDAMERICANA" tvg-logo="", 🔴[LIVE] Macará vs Santos — SPORTDIGITAL FUSSBALL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="ae7de425ff77211e329b657888b5d1dc-source-1" group-title="CON. SUDAMERICANA" tvg-logo="", 🔴[LIVE] Botafogo vs Cienciano — BEIN ENGLISH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="ae7de425ff77211e329b657888b5d1dc-source-2" group-title="CON. SUDAMERICANA" tvg-logo="", 🔴[LIVE] Botafogo vs Cienciano — D SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-id="ae7de425ff77211e329b657888b5d1dc-source-3" group-title="CON. SUDAMERICANA" tvg-logo="", 🔴[LIVE] Botafogo vs Cienciano — SPORTDIGITAL FUSSBALL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="6d8b0c1b13a91aed685b890ce189304d" group-title="CON. LIBERTADORES" tvg-logo="", 🔴[LIVE] LDU vs Mirassol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="81e9f118abf81ca736a5397e3872b7bd" group-title="CON. LIBERTADORES" tvg-logo="", 🔴[LIVE] Corinthians vs Rosario Central
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="8b7f33fd496017dbef5dc6a790e7ddc7" group-title="CFL" tvg-logo="", 🔴[LIVE] Montreal Alouettes vs Ottawa Redblacks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="63b19fb69f5afbb3d640c4a60e462818" group-title="AUSTRALIAN FOOTBALL" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31715437%2F503%2F2%2F1%2F31715437_16%3A9.jpg%3Fdate%3D20260819125529&w=520&h=520", 🔴[LIVE] St Kilda - Gold Coast Suns | AFL | Round 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTa4cda1b1c787494c6df7" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP053842435355%2F74b6a64070cacbea4d7944aa614d1261_GNLZZGG003D9PHH.jpg", 🔴[LIVE] MLB Baseball: Seattle Mariners at Houston Astros
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT5f8f0bc606fb32a1a895" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP062580842331%2Fe80f2238c4dda6d175a8d6eeaad6af52_GNLZZGG003CT8N9.jpg", 🔴[LIVE] MLB Baseball: Detroit Tigers at Pittsburgh Pirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTa29279bd966fac0e2b3f" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064849070001%2Fb199bdcb75f9425fc3bd7fe116955de2_p33388586_b_h8_aa.jpg", 🔴[LIVE] 2026 Little League Baseball World Series: Nicaragua vs. Dominican Republic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT6eb9c7027656feda4940" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064849070001%2Fb199bdcb75f9425fc3bd7fe116955de2_p33388586_b_h8_aa.jpg", 🔴[LIVE] 2026 Little League Baseball World Series: Canada vs. South Korea
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTd7445fdee387040c06af" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064849070001%2Fb199bdcb75f9425fc3bd7fe116955de2_p33388586_b_h8_aa.jpg", 🔴[LIVE] 2026 Little League Baseball World Series: Australia vs. Mexico
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="ac23f30290c3c0f72428b69e4b5adaf3" group-title="BASEBALL" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689589%2F501%2F2%2F1%2F31689589_16%3A9.jpg%3Fdate%3D20260803114533&w=520&h=520", 🔴[LIVE] Toronto Blue Jays @ Tampa Bay Rays | MLB
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT54058a6b1e6b3549c148" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064849070001%2Fb199bdcb75f9425fc3bd7fe116955de2_p33388586_b_h8_aa.jpg", 🔴[LIVE] 2026 Little League Baseball World Series: Game 6: Teams TBA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT6bdddc5643ae579e8e5b" group-title="BASEBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064849070001%2Fb199bdcb75f9425fc3bd7fe116955de2_p33388586_b_h8_aa.jpg", 🔴[LIVE] 2026 Little League Baseball World Series: Curaçao vs. Japan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="92c79ee23f11127a7fb90b87b5641cad" group-title="BASEBALL" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689556%2F501%2F2%2F1%2F31689556_16%3A9.jpg%3Fdate%3D20260803115024&w=520&h=520", 🔴[LIVE] New York Yankees @ Baltimore Orioles | MLB
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT2a4dd86095d5909f9979" group-title="BASKETBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP002261352638%2Fdc4e13f52805fa9f0609d02d89efbad0_GNLZZGG0039ZPBQ.jpg", 🔴[LIVE] WNBA Basketball: Toronto Tempo at Dallas Wings
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT4937165b94cc3e8d18f2" group-title="BASKETBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP002261352650%2Fa5590afda9edd2de580e63c7e79fd830_GNLZZGG0039ZNXV.jpg", 🔴[LIVE] WNBA Basketball: Portland Fire at Phoenix Mercury
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTe2ee377621ac26ae13a9" group-title="BASKETBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP002261352654%2F5d85e440c6046292c5591c06ef14e661_GNLZZGG0039ZNZD.jpg", 🔴[LIVE] WNBA Basketball: Indiana Fever at Toronto Tempo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT1a81abb301b4eaa0010a" group-title="BASKETBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP002261352656%2F545d4a4a2a49d0ae09684d4c2c098882_GNLZZGG0039ZNXJ.jpg", 🔴[LIVE] WNBA Basketball: Atlanta Dream at Las Vegas Aces
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT21f2ae1dbfe20aa16366" group-title="BASKETBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP002261352657%2Ff26fdc7ac8db7417053685b21d08991a_GNLZZGG0039ZNKF.jpg", 🔴[LIVE] WNBA Basketball: Toronto Tempo at Washington Mystics
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="cc6dfd13482627a755b8c3d8c31ae7cb" group-title="CRICKET" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31687110%2F501%2F2%2F1%2F31687110_16%3A9.jpg%3Fdate%3D20260802110656&w=520&h=520", 🔴[LIVE] Saint Lucia Kings - Guyana Amazon Warriors | T20 | Caribbean Premier League
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="5781596fd8c81963592b1cde6aa4a982" group-title="CRICKET" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689501%2F502%2F2%2F1%2F31689501_16%3A9.jpg%3Fdate%3D20260803131943&w=520&h=520", 🔴[LIVE] Antigua and Barbuda Falcons - St. Kitts and Nevis Patriots | T20 | Caribbean Premier League
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="d9f2f741aba46531198a76e72ee14a79" group-title="CYCLING" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689518%2F501%2F2%2F1%2F31689518_16%3A9.jpg%3Fdate%3D20260803120646&w=520&h=520", 🔴[LIVE] Tour of Britain Women | Stage 2 | Clitheroe – Blackpool (110.5km)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="1e154359880e432b44be0af65359a380" group-title="CYCLING" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689584%2F502%2F2%2F1%2F31689584_16%3A9.jpg%3Fdate%3D20260818204253&w=520&h=520", 🔴[LIVE] Deutschland Tour | Stage 1 | Men | Bad Orb – Schwäbisch Hall (216.3km)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="90e40ddfe62441ad286badfbca481816" group-title="CYCLING" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31714640%2F504%2F2%2F1%2F31714640_16%3A9.jpg%3Fdate%3D20260803125115&w=520&h=520", 🔴[LIVE] Tour du Limousin | Stage 3 | Men | Saint-Privat - Égletons (181.8km)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-id="f9d4e57365639fe9fc881f7638150d68" group-title="CYCLING" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689953%2F503%2F2%2F1%2F31689953_16%3A9.jpg%3Fdate%3D20260819215003&w=520&h=520", 🔴[LIVE] Renewi Tour | Stage 2 | Men | Blankenberge – Ardooie (173.9km)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="55029c098babd24628d7483174cbeab6" group-title="CYCLING" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689577%2F501%2F2%2F1%2F31689577_16%3A9.jpg%3Fdate%3D20260819215059&w=520&h=520", 🔴[LIVE] Renewi Tour | Stage 2 | Men | Blankenberge – Ardooie (173.9km)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT09c86e134615815e2cbd" group-title="FOOTBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP001849521156%2Fc51714bb9124b7cd3e49ef9138b071fa_GNLZZGG003CHHMP.jpg", 🔴[LIVE] CFL Football: BC Lions at Calgary Stampeders
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT134542b924581cb9aac6" group-title="FOOTBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP001849521157%2F4a0797c978a7b6dca9e58597da71f46c_GNLZZGG003CHDM3.jpg", 🔴[LIVE] CFL Football: Ottawa Redblacks at Winnipeg Blue Bombers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT965a45cc63d5b2cf9d38" group-title="FOOTBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP000322691075%2Fcae3c395eb2c2ce9690a107e13cbda98_GNLZZGG003CHGD6.jpg", 🔴[LIVE] CFL Football: Toronto Argonauts at Edmonton Elks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT67ba94cf871cfe97cb20" group-title="FOOTBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP000322691076%2Fdd219548b43510b89275dd54391437a2_GNLZZGG003CHGVG.jpg", 🔴[LIVE] CFL Football: Saskatchewan Roughriders at Hamilton Tiger-Cats
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTaf95b78438f8c4273c06" group-title="FOOTBALL" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP001849521160%2Faf3db480a75ddc043acdcee29c88eeb5_GNLZZGG003CHGHS.jpg", 🔴[LIVE] CFL Football: Ottawa Redblacks at Montreal Alouettes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTc10bac05a92590afa0c1" group-title="GOLF" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064363320003%2Fec04faa772e277876aa9966c44f16d43_p33113675_b_h8_aa.jpg", 🔴[LIVE] 2026 U.S. Amateur: Round of 64
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT247feb1941fb90a4d1d7" group-title="GOLF" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064363320003%2Fec04faa772e277876aa9966c44f16d43_p33113675_b_h8_aa.jpg", 🔴[LIVE] 2026 U.S. Amateur: Round of 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT6dffc874293a6cbd59cf" group-title="GOLF" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064363320003%2Fec04faa772e277876aa9966c44f16d43_p33113675_b_h8_aa.jpg", 🔴[LIVE] 2026 U.S. Amateur: Quarterfinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTc64dec7c342abce68433" group-title="GOLF" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP048976344894%2F6de4f08c4aac8a237c635d2099cd8feb_p33398870_b_h8_aa.jpg", 🔴[LIVE] PGA Tour Golf: FedEx St. Jude Championship, Third Round
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT9b2614bbe1ecabfa974f" group-title="GOLF" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064363320003%2Fec04faa772e277876aa9966c44f16d43_p33113675_b_h8_aa.jpg", 🔴[LIVE] 2026 U.S. Amateur: Championship Match
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="c908f5a09ae089787d5d8f82e790ba7b" group-title="GOLF" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31689532%2F502%2F2%2F1%2F31689532_16%3A9.jpg%3Fdate%3D20260817113301&w=520&h=520", 🔴[LIVE] LIV Golf Indianapolis | Round 1 | The Club at Chatham Hills
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT1808b50ead0152593fec" group-title="GOLF" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP005544733144%2F611ff09eed52a6b7f4bedf5a16b55512_p767017_b_h8_az.jpg", 🔴[LIVE] LPGA Tour Golf: CPKC Women's Open, First Round
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTe120cd2b5d004e5943e1" group-title="MOTORSPORT" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP027303860717%2Fcda2554874f9709e5be41f4ca7f16d3b_p11055708_b_h10_ae.jpg", 🔴[LIVE] FIA Formula E World Championship: London ePrix, Race
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTb26f31678975d6ebb72c" group-title="MOTORSPORT" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP005544661319%2F8df512d76e9afe3cdf5992c8d92e7fcf_p737330_b_h8_ai.jpg", 🔴[LIVE] IndyCar Racing: Indy at Markham
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT1aba7af9621294e77366" group-title="MOTORSPORT" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP034115062172%2F76ebc2bfc5f06de5402bc63b72e6fe8c_p17799520_b_h8_ao.jpg", 🔴[LIVE] NASCAR Cup Series: Cook Out 400
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTf150bf98d24073c059f6" group-title="MOTORSPORT" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP027303860717%2Fcda2554874f9709e5be41f4ca7f16d3b_p11055708_b_h10_ae.jpg", 🔴[LIVE] FIA Formula E World Championship: London ePrix, Race
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTd441f7b637180b90a76d" group-title="OTHERS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP000031285637%2F6bc4f0329af049939d381a8a5f2e71cc_GNLZZGG0039L545.jpg", 🔴[LIVE] NFL Football: Detroit Lions at Cincinnati Bengals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTa0a4a6c762ffbae22558" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP032407440359%2Fa28baadf794997e7632b721dc9e6001b_GNLZZGG003C4RHJ.jpg", 🔴[LIVE] Leagues Cup: Monterrey vs. Nashville SC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT9c4bd88cf0658649fd37" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP032407440361%2F98ea218d7c4d1eab003187a0f2fe0a4e_GNLZZGG003CE54L.jpg", 🔴[LIVE] Leagues Cup: San Diego FC vs. Club Puebla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTd29f2f0df303e6b250ff" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP032407440368%2F42dd9817c69162200ce10139feae7057_GNLZZGG003C55YJ.jpg", 🔴[LIVE] Leagues Cup: Portland Timbers vs. Club Tijuana
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTe592eb40931c34b2a2e2" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP031952320911%2Fd13f325af0c1f6affe3fadf612f6d4be_GNLZZGG003CSM0D.jpg", 🔴[LIVE] Canadian Premier League Soccer: Forge FC at Cavalry FC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT671813454087d08e68d7" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP014807962182%2Fbdd9fcb5f1e824a54af5663d216be8bb_GNLZZGG003C58VM.jpg", 🔴[LIVE] MLS Soccer: D.C. United at CF Montréal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT38e197f663d52e56329e" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP057054370080%2F037a04580bd1287019a69901c0c2e86d_p29887829_b_h8_ab.jpg", 🔴[LIVE] Northern Super League Soccer: Halifax Tides at Vancouver Rise
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTabbefa3b6d1e63e78f0b" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP057054370080%2F037a04580bd1287019a69901c0c2e86d_p29887829_b_h8_ab.jpg", 🔴[LIVE] Northern Super League Soccer: Montreal Roses at AFC Toronto
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTba94a384f9ed729efe29" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP001786125165%2Fe81c9bcbd2da33877fb67b4627de05dd_GNLZZGG003C52C2.jpg", 🔴[LIVE] MLS Soccer: Philadelphia Union at New York City FC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT330174387cc97c775ecd" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP022304981398%2F51fc8530aaa1e9a23d986ab6f130fe39_GNLZZGG003CSRRM.jpg", 🔴[LIVE] NWSL Soccer: Washington Spirit at Angel City FC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTd3eed14b1f8bbc7594cd" group-title="SOCCER" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP014807962197%2F7a02808ae20da577f475e9faecc7ad8c_GNLZZGG003C4SH3.jpg", 🔴[LIVE] MLS Soccer: CF Montréal at Columbus Crew
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="f21f8cff555b1f8eb79da478623cb144" group-title="SOCCER" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOEF_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg", 🔴[LIVE] Sheffield Wednesday vs Bradford City
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="6999516edc5f26271f2d93f7d5377889" group-title="SOCCER" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOSL_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg", 🔴[LIVE] Rayo Vallecano vs Alaves
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="9ca2e0aab3c1d1ac2c5e2b3499fb64b4" group-title="SOCCER" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLC_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg", 🔴[LIVE] LDU Quito vs Mirassol - R16 2nd Leg
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="092bf520c5f6656212b1fcbcc78e8dd1" group-title="SOCCER" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLSU_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg", 🔴[LIVE] Macara vs Santos - R16 2nd Leg
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="196fb2441a3ca8507ce9c239677a5599" group-title="SOCCER" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLSU_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg", 🔴[LIVE] Botafogo vs Cienciano - R16 2nd Leg
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="eb3f19b4573c7a358cce8eac75c9f7ad" group-title="SOCCER" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLC_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg", 🔴[LIVE] Corinthians vs Rosario - R16 2nd Leg
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTbee92022a0ff297effc8" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: ATP/WTA Early Round Coverage: Day 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTe4ddd3aa03b8f5e9f080" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: ATP/WTA Early Round Coverage: Day 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTca0e41fd20cfc3ae775e" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: ATP Early Round Coverage: Day 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT7b93f9074d6921e9d0e4" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: WTA Early Round Coverage: Day 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNTc4e32a007446fda07a1d" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: ATP Early Round Coverage: Day 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT3cb6c78fcc04859ebf78" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: WTA Early Round Coverage: Day 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT4d4b02b401e761790275" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: ATP Round of 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="GRNT03508216666067e10900" group-title="TENNIS" tvg-logo="https://serveproxy.com/?url=https%3A%2F%2Fimages.rte.bellmedia.ca%2Fassets%2Flive%2FEP064512210023%2F6427d8364569c3e275ac4a514da8ac29_p33188385_b_h8_ac.jpg", 🔴[LIVE] 2026 Cincinnati Open Tennis: WTA Round of 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="b3e118a5cb107253141a4bf12744d766" group-title="TENNIS" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fshow%2F1371_SHOW_IMAGE_AUSTRALIA_640X360.jpg", 🔴[LIVE] Cincinnati QF1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="f9786b0c556ccfef225060d88556c3c7" group-title="TENNIS" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fepg_poster%2F1785918672871-2026_ATP_MASTERS_1000_Cincinnati_640X360.jpg", 🔴[LIVE] Cincinnati QF1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="4327abfbda06583405fe3b9af3fbf8df" group-title="TENNIS" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fshow%2F1371_SHOW_IMAGE_AUSTRALIA_640X360.jpg", 🔴[LIVE] Cincinnati QF2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="6ec0e3f1457f6ee1e8fc80f70f7417d6" group-title="TENNIS" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fepg_poster%2F1785918703169-2026-ATP-MASTERS-1000-Cincinnati_640X360.jpg", 🔴[LIVE] Cincinnati QF2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="0a7b20be8cdad859a8b792a282568b60" group-title="SlingTV - football" tvg-logo="https://p-img.movetv.com/cms/images/85467d7f42804deea06cfd55c0ee490e26a4f456.png", 🔴[LIVE] San Francisco 49ers at Los Angeles Chargers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35c1ec48e40c40a0a03cf265b42193c1:b64f5b70c2f4f17d03d67297be2e1f57
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/188/20260821T020000Z/20260821T050816Z/master_7_3_widevine.m3u8
+
+#EXTINF:-1 tvg-id="25fa467b11976e39dd5bac3fbe60c482" group-title="AUSTRALIAN FOOTBALL" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31715404%2F502%2F2%2F1%2F31715404_16%3A9.jpg%3Fdate%3D20260804122706&w=520&h=520", 📅[UPCOMING | 21-08-2026 16:30 WIB] Collingwood - Brisbane Lions | AFL | Round 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #EXTINF:-1 tvg-id="41447d782da237552d6feed53390eeaa-source-1" group-title="CRICKET" tvg-logo="", 📅[UPCOMING | 21-08-2026 17:00 WIB] England vs Pakistan — WILLOW -
 #KODIPROP:inputstream=inputstream.adaptive
